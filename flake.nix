@@ -39,7 +39,7 @@
         in builtins.mapAttrs
           (name: { type, url, ... }: let
             inherit (self.lib.quicklisp) handler;
-          in if type == "git" then handler.git { inherit name url pkgs; }
+          in if builtins.hasAttr type handler then handler.${type} { inherit name url pkgs; }
              else builtins.trace "Quicklisp - Unhandled type: ${type} (for ${name})" null)
           (specs.${system})
         );
@@ -83,6 +83,20 @@
           '') updaters)}
         '').outPath;
       };
+      quicklisp-add-pkgs = rec {
+        type = "app";
+        updaters = self.repos.quicklisp.updaters.${system};
+        program = (pkgs.writeShellScript "update-quicklisp-pkgs" ''set -ex
+          test -e flake.nix || (echo "Must be run from repo root"; exit 1)
+          mkdir -p quicklisp && cd quicklisp
+          ${concatStringsSep "" (mapAttrsToList (name: updater: ''
+            echo -- ${name}
+            if test ! -e ${name}; then
+              ${if updater != null then updater else "echo Unavailable"}
+            fi
+          '') updaters)}
+        '').outPath;
+      };
     });
 
     lib = {
@@ -90,15 +104,41 @@
         handler.git = { name, url, pkgs, ... }: let
           buildScript = pkgs.writeText "quicklisp-${name}-fetch" ''
             { pkgs, ... }: let
-              builtins.readFile ./meta.json;
+              meta = builtins.readFile ./meta.json;
             in pkgs.fetchgit {
               name = "quicklisp-${name}-src";
-              inherit name rev sha256;
+              inherit (meta) rev sha256;
             };
           '';
         in pkgs.writeShellScript "quicklisp-${name}" ''
           mkdir -p ${name}
           ${pkgs.nix-prefetch-git}/bin/nix-prefetch-git --url '${url}' > ${name}/meta.json
+          cp ${buildScript} ${name}/default.nix
+        '';
+        handler.mercurial = { name, url, pkgs, ... }: let
+          buildScript = pkgs.writeText "quicklisp-${name}-fetch" ''
+            { pkgs, ... }: let
+              sha256 = builtins.readFile ./meta.hash;
+            in builtins.fetchMercurial {
+              inherit sha256;
+            };
+          '';
+        in pkgs.writeShellScript "quicklisp-${name}" ''
+          mkdir -p ${name}
+          ${pkgs.nix-prefetch-hg}/bin/nix-prefetch-hg --url '${url}' > ${name}/meta.hash
+          cp ${buildScript} ${name}/default.nix
+        '';
+        handler.https = { name, url, pkgs, ... }: let
+          buildScript = pkgs.writeText "quicklisp-${name}-fetch" ''
+            { pkgs, ... }: let
+              sha256 = builtins.readFile ./meta.hash;
+            in builtins.fetchTarball {
+              inherit sha256;
+            };
+          '';
+        in pkgs.writeShellScript "quicklisp-${name}" ''
+          mkdir -p ${name}
+          ${pkgs.nix}/bin/nix-prefetch-url --unpack '${url}' > ${name}/meta.hash
           cp ${buildScript} ${name}/default.nix
         '';
       };
