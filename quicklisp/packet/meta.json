@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fjames86/packet.git",
+  "rev": "1745a894c3f490631899f4bc216307a53a318e6e",
+  "date": "2015-01-13T08:10:16+00:00",
+  "path": "/nix/store/6sz99383cy3mr0adgi2achkcnh2n0p4r-packet",
+  "sha256": "1vcmxwrliwczz161nz3ysx9cbfia4cmlqgnjgrx5016lp394pnx1",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

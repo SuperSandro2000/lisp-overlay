@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jonatack/cl-kraken.git",
+  "rev": "acbd5f38b00ec6a56c5f912ce4cd74b19a4cf2ca",
+  "date": "2020-11-25T11:09:33+01:00",
+  "path": "/nix/store/cb52xkkcddavxvs3973wrdz50sybmbz7-cl-kraken",
+  "sha256": "189p1lsbsij56l6n4wr1h9c78aca6mb94041xr6b9hry77f8mz9q",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

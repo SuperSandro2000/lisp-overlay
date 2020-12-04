@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/sbryant/cl-ev.git",
+  "rev": "9abbda9950ea5df33d1d82a3949b5ab0b431213d",
+  "date": "2015-09-01T11:47:30-07:00",
+  "path": "/nix/store/i75y8nl3c33wys9spcjvyg2s96l75c53-cl-ev",
+  "sha256": "0qnkzkw9mn4w6b0q9y207z8ddnd5a2gn42q55yycp2qrvvv47lhp",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

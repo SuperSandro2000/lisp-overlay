@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/orthecreedence/cl-rethinkdb.git",
+  "rev": "f435e72dce7f900f599ade193859a202fd1ac33e",
+  "date": "2016-07-08T15:07:15-07:00",
+  "path": "/nix/store/d3vpnba1ha4q6ik7immdc8lfnk1zlbw2-cl-rethinkdb",
+  "sha256": "0sps1p203gn7i123w96pj5ggpncmkngkfdb6zfnm5yjq544sjjf7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/eudoxia0/clack-errors.git",
+  "rev": "d847a9ecf19f50773bb96d83d9b9f6d813b03872",
+  "date": "2019-07-24T14:22:36-03:00",
+  "path": "/nix/store/bi6q5rrs1phvpgp09w4k0b1l9ynaw767-clack-errors",
+  "sha256": "0z6jyn37phnpq02l5wml8z0593g8ps95c0c2lzkhi3is2wcj9cpf",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

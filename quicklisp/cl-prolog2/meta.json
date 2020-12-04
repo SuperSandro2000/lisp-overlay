@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/cl-model-languages/cl-prolog2.git",
+  "rev": "291be6e921e1c85d3bb1cae4f851944854608823",
+  "date": "2019-12-03T11:42:23-05:00",
+  "path": "/nix/store/mnkcwbvgab8asn7lflq5485nd28jc938-cl-prolog2",
+  "sha256": "0maav5i1kmasyrwiknzrjbb9gxvpzskycvjv2h6gqi03fiqiw6ww",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

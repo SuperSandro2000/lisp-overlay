@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/ucw/ucw-core.git",
+  "rev": "5d980aed5f61fba4a58bd6618c138246c2896ae2",
+  "date": "2010-09-19T01:34:02+00:00",
+  "path": "/nix/store/lgs36mwqc8kyh9r8gw8n1hhfhvahg9zk-ucw-core",
+  "sha256": "0wd7816zr53bw9z9a48cx1khj15d1jii5wzgqns1c5x70brgy89z",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/malcolmstill/ulubis-drm-gbm.git",
+  "rev": "9cd5bcdd8b0507dec67f5d17dc87ab5c64a4dbd2",
+  "date": "2018-07-24T21:59:25+01:00",
+  "path": "/nix/store/jjkkh1lhm2knc2l07fhrnmb542xcr5gy-ulubis-drm-gbm",
+  "sha256": "07ayg938x5acaljp8vhq1aqcaq694n52zv4bn5dqq1qjmqykxjby",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

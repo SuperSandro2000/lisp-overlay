@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/grammatech/gtirb-functions.git",
+  "rev": "254e845b1e94ad055d95caf7c942447f9b03d0c7",
+  "date": "2020-04-22T15:54:00-04:00",
+  "path": "/nix/store/z286gk5cl7prkcp02xjardl6jq8r73fv-gtirb-functions",
+  "sha256": "1hsv99jcxrn0g7xdg9d5fp2z159aa053qzikdq3410ymm24cd9g0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

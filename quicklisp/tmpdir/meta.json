@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/moderninterpreters/tmpdir.git",
+  "rev": "e1981284b969e04a48a3e7f3b98a50435e853eb6",
+  "date": "2020-01-21T14:34:27-08:00",
+  "path": "/nix/store/fapd132i51ngl04hygkz3raq5n2zkxq8-tmpdir",
+  "sha256": "11yshmg2wyd75ywwfybklm131d5rdw246pg35a6ksndiq3w5n4k8",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/misc-extensions/devel.git",
+  "rev": "101c05112bf2f1e1bbf527396822d2f50ca6327a",
+  "date": "2012-01-22T00:07:21+00:00",
+  "path": "/nix/store/zalcd5c8s26gzkm7a5018c5cnr477i8k-devel",
+  "sha256": "0gz5f4p70qzilnxsnf5lih2n9m4wjcw8hlw4w8mpn9jyhyppyyv0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

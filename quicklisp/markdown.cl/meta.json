@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/orthecreedence/markdown.cl.git",
+  "rev": "0258e4de58a9d70e6df236503a3ce519579b9908",
+  "date": "2019-03-14T14:53:54-07:00",
+  "path": "/nix/store/i4by90nwny2fnylkxg922h7ndflvfjvb-markdown.cl",
+  "sha256": "0psjj2sdsdg6v1f2a6ld047frijly0r4m0y977b71x5afhv06lxl",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

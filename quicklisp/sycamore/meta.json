@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ndantam/sycamore.git",
+  "rev": "78d1e21c815f198225cbd7d2b3576eab412aaa83",
+  "date": "2020-04-27T15:29:57-06:00",
+  "path": "/nix/store/z41lmgwzzz6y4bg94xya5d44ydcb2n5h-sycamore",
+  "sha256": "0jkizvyrn3q0lzj0dpqshw7kqi0vvhp2nsk8k1xrayagbjh1fqq6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

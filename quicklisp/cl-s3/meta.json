@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/svenvc/cl-s3.git",
+  "rev": "ffbbd7bc1a54a49f132ef0cab8077059ecaddf56",
+  "date": "2013-01-18T15:53:57-08:00",
+  "path": "/nix/store/30g4xf4a85w785k74x1g5gzrmljdpg47-cl-s3",
+  "sha256": "1lbvf7phkm5vjk013p484rh4vh33i58jlqq3z4cv2yxqcw6r639d",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

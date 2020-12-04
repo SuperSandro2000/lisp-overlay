@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/pinterface/burgled-batteries.git",
+  "rev": "8ae3815a52fde36e68e54322cd7da2c42ec09f5c",
+  "date": "2016-06-29T20:44:19+02:00",
+  "path": "/nix/store/js816f1bgm0wnyn0ysgqlp1bvhb656vw-burgled-batteries",
+  "sha256": "080ff1yrmfb87pqq1jqr35djjkh3fh8i6cbhv3d1md5qy7hhgdaj",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

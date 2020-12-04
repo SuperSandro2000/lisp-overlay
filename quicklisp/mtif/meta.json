@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/rmhsilva/mtif.git",
+  "rev": "efcb7c9ae35d4e34a3b6a0bc3c4a16a2ccaea6b9",
+  "date": "2017-11-18T19:52:52+00:00",
+  "path": "/nix/store/xgl4n0sam19phhs0fzablidwmpn5vy7w-mtif",
+  "sha256": "0fzlf0xawv579i4jp5l994d7m220py5j169klaj0l43frgxb4n7y",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

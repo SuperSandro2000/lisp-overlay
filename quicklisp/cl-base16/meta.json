@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/tpine/cl-base16.git",
+  "rev": "ae4b7f416c0c91f6323e901be912c0f7378fe3da",
+  "date": "2020-08-06T09:55:41+10:00",
+  "path": "/nix/store/7p099mbpk2agbxpghkb9brnm8g6l41gm-cl-base16",
+  "sha256": "0m7ndmk4xhizn3q3ywjvw8sg4pfgp6lrd0wac5d1bf7wbw6afh5q",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

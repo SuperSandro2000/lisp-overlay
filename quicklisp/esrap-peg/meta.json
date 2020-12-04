@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fb08af68/esrap-peg.git",
+  "rev": "8a11ff8488b8b97a3977b70d00296dc004dd5c27",
+  "date": "2019-08-31T02:46:20+03:00",
+  "path": "/nix/store/s0jak6l3r9hkpv0i3729schzzncamilz-esrap-peg",
+  "sha256": "0540i7whx1w0n9fdakwk8rnn511xga9xfvczq9y1jcgz1hh42w53",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

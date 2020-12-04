@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/CommonDoc/thorn.git",
+  "rev": "3e944543630c1b4bbf5865710089975fd094cb7f",
+  "date": "2015-05-29T23:45:32-03:00",
+  "path": "/nix/store/pjkmvas16yxnw9i1gavympx3ra6l108q-thorn",
+  "sha256": "1d4w5358yxgccna91pxz9526w932j5ig17gp19zysjxvca57hqy7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

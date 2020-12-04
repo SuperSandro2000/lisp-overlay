@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jperson/cl-poker-eval.git",
+  "rev": "fb47b8ceb1b6d53eb626732caf7c2a64692110f4",
+  "date": "2015-07-11T20:42:47-07:00",
+  "path": "/nix/store/09i6jaiw2rslnw1anbs0n8lzsvci909g-cl-poker-eval",
+  "sha256": "1w4dsr4j7r3n7p0jbp8ccwwk83wcjjiz1rhhfrqpsd9v263v7kw8",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

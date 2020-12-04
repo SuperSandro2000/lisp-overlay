@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Rudolph-Miller/clipper.git",
+  "rev": "b07a1be210d5504cd67c8e303168cb4bc09f642e",
+  "date": "2015-08-21T11:06:44+09:00",
+  "path": "/nix/store/s825qin6vd3j36gp59vxvldcnzapg9gj-clipper",
+  "sha256": "0xx1z7xjy2qkb6hx4bjjxcpv180lynpxrmx0741zk0qcxf32y56n",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

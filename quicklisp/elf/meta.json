@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/eschulte/elf.git",
+  "rev": "795ca3352ad981e6773fac89b3884d0eda701cee",
+  "date": "2018-05-10T14:30:22-04:00",
+  "path": "/nix/store/d2scqjrzmqlfvl6pl71ciskqhmja7kbf-elf",
+  "sha256": "0rd1qcczr2gx76fmxia0kix0p5b49myc9fndibkvwc94cxg085gk",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

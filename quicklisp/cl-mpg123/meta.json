@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shirakumo/cl-mpg123.git",
+  "rev": "5f042c839d2ea4a2ff2a7b60c839d8633d64161d",
+  "date": "2020-09-05T15:11:23+02:00",
+  "path": "/nix/store/v68ky2jcm4l2yv0dvlg17zk9rn1hwrrc-cl-mpg123",
+  "sha256": "1hl721xaczxck008ax2y3jpkm509ry1sg3lklh2k76764m3ndrjf",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

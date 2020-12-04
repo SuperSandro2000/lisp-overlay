@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/kkazuo/openid-key.git",
+  "rev": "484584be2fc2f9b7c445475e72ffe04e181fe3c9",
+  "date": "2018-11-10T13:28:20+09:00",
+  "path": "/nix/store/4war73jgj4hd04jgs8qsj3l143zpansk-openid-key",
+  "sha256": "0ja1g4f8nrcn965376j7lnhha9krx4wjqxrg6vc57k7rmkhkzm1z",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

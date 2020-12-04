@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fjolliton/cl-vectors.git",
+  "rev": "bb4e7502f91bc40f1a2378465a5d2753560fc236",
+  "date": "2017-04-28T17:44:05+00:00",
+  "path": "/nix/store/rrg9ghv9h82jr3csdkh6ildggbasmipq-cl-vectors",
+  "sha256": "0nckw4zb6s96hll8hrxzvgs2an3bfm0pxcywshbm4bq4rn7niqg4",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

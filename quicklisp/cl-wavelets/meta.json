@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/shamazmazum/cl-wavelets.git",
+  "rev": "10a19d13c2fa7094d3cb8fb9792ad8483227f36b",
+  "date": "2020-11-21T10:48:03+03:00",
+  "path": "/nix/store/3ynlyj960zpinlx6fm5zn6fn080q8r02-cl-wavelets",
+  "sha256": "0j7wbgvyq45q1di5zbjlvy4z29m6yd3mdcir40zmc07gmbcwzzyi",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

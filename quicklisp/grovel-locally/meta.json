@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/cbaggers/grovel-locally.git",
+  "rev": "0f71ad612ba4b6792a164f943e986ee25e0123bf",
+  "date": "2017-02-14T09:59:59+01:00",
+  "path": "/nix/store/3aank6qiwfsb0rv03p9pf8nv34ndzh4s-grovel-locally",
+  "sha256": "07q7zjgv3d1f35zwxpzcz020z0gcqi6m2l2szw99bsqk5hn93szl",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

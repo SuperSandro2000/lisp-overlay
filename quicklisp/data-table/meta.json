@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/AccelerationNet/data-table.git",
+  "rev": "266f8a264c00dc75dd4e17adba612f3789425b5d",
+  "date": "2016-01-04T11:47:12-05:00",
+  "path": "/nix/store/2vwbz61039hqfg3s85gmam2m5jhjjgk2-data-table",
+  "sha256": "0wa5zlgcnlf7k18alg9a03m2524dhbxv0sgzyia4bsy07nx97afb",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

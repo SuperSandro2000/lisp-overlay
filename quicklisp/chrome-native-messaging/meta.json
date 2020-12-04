@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Ralt/chrome-native-messaging.git",
+  "rev": "6655fc49327be221d04930760983f9329562b8cc",
+  "date": "2015-01-17T12:58:47+01:00",
+  "path": "/nix/store/z73knan9ja8w6y30v811pahx62kmn04j-chrome-native-messaging",
+  "sha256": "1fw02w5brpwa0kl7sx5b13fbcfv1ny8rwcj11ayj2q528i2xmpx5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

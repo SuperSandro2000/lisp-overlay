@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/verbose.git",
+  "rev": "c5b7ecd465be61b35af17ef57564697b88397174",
+  "date": "2020-11-18T22:43:24+01:00",
+  "path": "/nix/store/0yk4s4i8y5950rkc1hl2w8g5hbc0hhw0-verbose",
+  "sha256": "0r51ydj5v7afi2jrlscbhxprv13d9vzg5316g1yzwaxc1kzsdsw6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

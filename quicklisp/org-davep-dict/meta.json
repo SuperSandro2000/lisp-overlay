@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/davep/org-davep-dict.git",
+  "rev": "87d00d8e122bf59ea6c42f26deb4c43081de21b9",
+  "date": "2019-03-23T12:46:15+00:00",
+  "path": "/nix/store/lp6v7662r5gkl1rqq758p3nqjla3g336-org-davep-dict",
+  "sha256": "09dryqlprssrw0jpcg2313cc1hmlsasxvp1rs5z7axhasc16kl31",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

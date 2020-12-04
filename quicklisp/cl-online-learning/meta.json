@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/masatoi/cl-online-learning.git",
+  "rev": "87fbef8a340219e853adb3a5bf44a0470da76964",
+  "date": "2020-07-13T11:19:14+09:00",
+  "path": "/nix/store/hk83hqz2v9ns8x98gb2v6wakfh59w2pr-cl-online-learning",
+  "sha256": "1lfq04lnxivx59nq5dd02glyqsqzf3vdn4s9b8wnaln5fs8g2ph9",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/e-user/graylex.git",
+  "rev": "62fcd256f3beb4d45a648e1ed34606a30a5a2387",
+  "date": "2011-05-19T16:30:40+02:00",
+  "path": "/nix/store/385fpxrkwp5ywyv53926cvnkg7q72cbh-graylex",
+  "sha256": "0s1mpz6cpx3fywznxc8kzkhbb4fpmzyjpfgc85lnxqmri8wy6xqy",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/flare.git",
+  "rev": "2a774cf8cc6c5dcf63db9d273a122a489ceeec74",
+  "date": "2020-08-10T13:43:25+02:00",
+  "path": "/nix/store/zianhjkpq7qyqxwvrirmck0ilw9mqrzy-flare",
+  "sha256": "119andzg7cy95d2vycx6wdwdc9ybpv16s9g61dr6sz4vr2r9z1ag",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

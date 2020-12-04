@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/kisp/toadstool.git",
+  "rev": "7ff0bc84a789995105ac30f992b2df12f5303eb0",
+  "date": "2013-05-28T09:54:59+02:00",
+  "path": "/nix/store/9h0nc0f9flfg9y6ib63xhj3hyz2hm9hk-toadstool",
+  "sha256": "0njb1mdzk0247h87db90zv7bk40mw54pq8sj35l1dwa30d5yhi6r",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

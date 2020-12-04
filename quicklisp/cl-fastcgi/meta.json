@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/KDr2/cl-fastcgi.git",
+  "rev": "d576d20eeb12f225201074b28934ba395b15781a",
+  "date": "2019-12-10T10:38:04+08:00",
+  "path": "/nix/store/02vb7xh9w8ahai52lx67imh7iq43j1in-cl-fastcgi",
+  "sha256": "02mvzzyn0k960s38rbxaqqmdkwcfmyhf8dx6ynz8xyxflmp0s5zv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

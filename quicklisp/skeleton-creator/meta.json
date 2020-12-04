@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/noloop/skeleton-creator.git",
+  "rev": "8a00fa4d95f1260f2be5e9fdfc3eefe653d78a6b",
+  "date": "2019-12-03T21:01:09-03:00",
+  "path": "/nix/store/qni84l13mhpq47d086ss38ylmj45bkr0-skeleton-creator",
+  "sha256": "1yj8w9lpb2jzyf02zg65ngmjfsakzc7k1kcw90w52gk14hv1lk6s",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/scymtym/esrap.git",
+  "rev": "4034df872c2b1b8e91adbccab491645c8138253b",
+  "date": "2020-10-28T23:06:28+01:00",
+  "path": "/nix/store/bbi7p0ai74n925qk9jjwq4rqn8s5g99l-esrap",
+  "sha256": "0him1z0cpi67m9drffnynlfyvq9wqyml696gq6rshygr22757b7a",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

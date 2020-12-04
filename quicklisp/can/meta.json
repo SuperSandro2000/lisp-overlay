@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/can.git",
+  "rev": "24d25111bb4a3dc149ccf1d08010aab221970350",
+  "date": "2016-02-19T23:04:52+09:00",
+  "path": "/nix/store/ghxh35gkcc5c6lhywb2razrjwwj5xzb3-can",
+  "sha256": "0m3lqc56aw46cj2z379a19fh7f1h0vaxn78xpvbxq3bwar46jzqh",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

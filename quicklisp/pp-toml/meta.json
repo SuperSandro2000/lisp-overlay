@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/pnathan/pp-toml.git",
+  "rev": "5a65c1855b15ddf370d140f7cd75f5a9dbae40c3",
+  "date": "2018-02-05T12:10:47-08:00",
+  "path": "/nix/store/r5y8cy7vqz0bwaryvpc7cnp2hr3gcaq4-pp-toml",
+  "sha256": "1hf3j7blj25s6grc1q2ia48a9q2n0wrsy97plp4xawhrw60959pr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

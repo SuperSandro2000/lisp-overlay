@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/guicho271828/magicffi.git",
+  "rev": "6c42b2caa97d76d577a5207cde122724f617d147",
+  "date": "2020-08-01T12:46:51-04:00",
+  "path": "/nix/store/3xwk732c72l38g1v91ml4c73knhakq0w-magicffi",
+  "sha256": "0ixamrvz7mybyfsm2pqy9d9335k1rpkaif4kh08fl6dxvbrblljl",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/nikodemus/sb-vector-io.git",
+  "rev": "b55e8bf32932ff28ba09722af8aed90d7a03ce54",
+  "date": "2011-08-19T16:42:09+03:00",
+  "path": "/nix/store/qpiahlv8rnwb9cidgy29yplhmkf5vid3-sb-vector-io",
+  "sha256": "0pwc0nxhv8ba33i8z2f1y7r7ldik4a4xrqrb69dvvasz838k6r22",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

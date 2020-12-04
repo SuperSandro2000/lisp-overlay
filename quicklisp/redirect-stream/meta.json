@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/redirect-stream.git",
+  "rev": "1a986f560a7eec9c286dd2a6e6f80136aada3b15",
+  "date": "2019-06-22T10:01:30+02:00",
+  "path": "/nix/store/cn6ydnh76sxr84ly8sn57h768z1gkq3d-redirect-stream",
+  "sha256": "1l1mwkk3pxbahx2m2v9yw19na45sjdxfy1dv59if738x5mvaqb05",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/cbaggers/structy-defclass.git",
+  "rev": "fe2ca1a6fac456fe2f3cee32c47deca80e016edc",
+  "date": "2017-06-15T00:36:36+02:00",
+  "path": "/nix/store/7sfjd61qds59igxpc39jx8nlwjyyh205-structy-defclass",
+  "sha256": "0fdlj45xzyghmg65dvs7ww7dxji84iid2y6rh9j77aip7v0l5q63",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/inaimathi/test-utils.git",
+  "rev": "8d0cead809ea789af2ee37ecb6b9e77c96fc6e76",
+  "date": "2020-06-02T00:17:10-04:00",
+  "path": "/nix/store/c58xzymbdjsn778b6izmf2pz70k3a6q8-test-utils",
+  "sha256": "036a8wvs37lnsf9dy3c810qk54963v7hnxx0zas25b50ikcmiqm5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

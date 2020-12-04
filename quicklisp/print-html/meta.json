@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/oruppert/print-html.git",
+  "rev": "3ffbd3057046327b147fdc606a305c90ee176cf7",
+  "date": "2018-09-24T13:04:51+02:00",
+  "path": "/nix/store/n4nz09mky3c04p3iy0grh98ahg18nb1k-print-html",
+  "sha256": "1ihr2yy6fvli3awrkfn4v8pm41wab5wsj30v84rr75v4p5irqmz8",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

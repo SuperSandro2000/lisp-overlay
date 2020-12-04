@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/pcostanza/filtered-functions.git",
+  "rev": "130f69e7b9e1051bf569ef63364b09a3873f0ced",
+  "date": "2016-03-13T16:24:36+01:00",
+  "path": "/nix/store/c527ghdpmipvwn1jrxl70p6r2qdzza5q-filtered-functions",
+  "sha256": "0m13k8pl0gfll8ss83c0z3gax7zrrw2i4s26451jfbka1xr4fgy9",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

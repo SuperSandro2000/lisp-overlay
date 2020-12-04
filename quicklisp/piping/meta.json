@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/piping.git",
+  "rev": "c7a4163c00dea7e72bf6ad33d6abac0d5826a656",
+  "date": "2019-06-22T09:47:07+02:00",
+  "path": "/nix/store/wbiqz4gcfpxsnisx4b997086i4mlic5h-piping",
+  "sha256": "0in84qnfkynm36d4n4d6v87vprpi27xrydnga462wfhplji6klv5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

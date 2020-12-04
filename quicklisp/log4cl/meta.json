@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/7max/log4cl.git",
+  "rev": "d6293f9f1b6b8871b0a4417c4bb22afb9910b97f",
+  "date": "2013-09-22T13:09:27-04:00",
+  "path": "/nix/store/zibd54blwas5z126ab3z61wad9a2qp51-log4cl",
+  "sha256": "0lgqgk4g2r9rl79dfcqvfybjbxxf4pq9gv9q5fgs8dwkimg1crwz",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/new-op/new-op.git",
+  "rev": "92f4c93a4c4d984ecbc3809ef2f2cad81674b7a5",
+  "date": "2020-01-06T18:30:53+02:00",
+  "path": "/nix/store/4zk6cx5gddmcacpkc0m9p72gz8db10pq-new-op",
+  "sha256": "1sqg8mgwg645917xsaa8553xxhnai24pkks63mxifqbq08cc2ixf",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

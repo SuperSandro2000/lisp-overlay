@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/turtle-bazon/cl-maxminddb.git",
+  "rev": "e97a74d7e405f7ddfac7f1bba0e10f5a6ce90eec",
+  "date": "2020-10-15T14:10:49+03:00",
+  "path": "/nix/store/f49w0885rmjh9p15mgxzbmmp2j3nlkas-cl-maxminddb",
+  "sha256": "13k0kvi3rc1vc1ysl8cq08f59xyaw9ni7xgvzaqmp08qzxy3xlfp",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

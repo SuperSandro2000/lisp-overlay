@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mfiano/stripe.git",
+  "rev": "0f21d7f0f9bf1e086479168c21aefb42c2d038db",
+  "date": "2020-05-18T17:38:51-04:00",
+  "path": "/nix/store/yzicrx2dq1j4rz27b64d8f9kdf0gswgn-stripe",
+  "sha256": "0gvgq65k6c2133v5z8y2cj1rsb9bd38d3zamip6xn0x9lig1dipg",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

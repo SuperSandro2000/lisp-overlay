@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fzalkow/cl-mlep.git",
+  "rev": "1c664f90d9afed5f5b27429cb9a276012052b951",
+  "date": "2018-04-26T09:19:46+02:00",
+  "path": "/nix/store/71xyl9fp1l8w92mvkz7iinfxr5xpgn8j-cl-mlep",
+  "sha256": "1y49fgc5py34b8r6908pxij73qxrl6yxjwx1pxigpnkbdf6a92lk",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

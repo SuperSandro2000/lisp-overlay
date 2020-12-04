@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ichimal/cl-performance-tuning-helper.git",
+  "rev": "f01d926ae149b85fd94cccd51e6e80ad496c4f1e",
+  "date": "2013-06-11T19:59:32+09:00",
+  "path": "/nix/store/xfv9cwzwqwh09vwxlh01xiqybb498ad6-cl-performance-tuning-helper",
+  "sha256": "1j0k319il271grm6hjqq2bazp5l105lazayqsmpsy8lsy4lmy0c3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

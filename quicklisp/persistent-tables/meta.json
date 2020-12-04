@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/VincentToups/persistent-tables.git",
+  "rev": "469e40eda10db2c9fbab5bc19a2cf54d5dd5d0b7",
+  "date": "2012-01-10T14:54:56-05:00",
+  "path": "/nix/store/nd14dhs1bvdakkzqzhl17r8zi2ywik52-persistent-tables",
+  "sha256": "0klfjza85mgj2z42x2lhcqy9q66avac7zw0cpbmwwng3m7679hpa",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

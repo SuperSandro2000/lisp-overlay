@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/qitab/rpm.git",
+  "rev": "dc0eec97176d0fb8efbf63200ad47f6b834d49f0",
+  "date": "2016-04-07T16:54:56-04:00",
+  "path": "/nix/store/5cf89fbzlfihp84f1v7a66dmy0fgyrxd-rpm",
+  "sha256": "0qn4vw3pvjm0maksl57mwikcmv7calzlblp5s01ixrn3nrgxmd9k",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

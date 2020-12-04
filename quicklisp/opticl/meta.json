@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/slyrus/opticl.git",
+  "rev": "438881ae779fa4b113308a3c5c96783fd9618e02",
+  "date": "2020-07-31T22:04:29-07:00",
+  "path": "/nix/store/nrf1xi23g9gsprnj9zp74ybsnldglr4k-opticl",
+  "sha256": "13sv7n1ry8yp3fawvpf3y3kf7abbqxqmk8zpx349k3wh063i7l1l",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

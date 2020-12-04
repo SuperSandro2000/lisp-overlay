@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/sharplispers/ops5.git",
+  "rev": "77f9ca949624be91f98a0d265a30a8c8626ebbf9",
+  "date": "2020-01-16T20:06:54-05:00",
+  "path": "/nix/store/azffyzjvqfx159xs9s1ip6ka43z1ynd1-ops5",
+  "sha256": "1q2mrza40qvhny06f4ks2dghyk8a7pjjsi3vj83b9if7fmyj152a",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

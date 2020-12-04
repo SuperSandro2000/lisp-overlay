@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/tpapp/cl-random.git",
+  "rev": "5bb65911037f95a4260bd29a594a09df3849f4ea",
+  "date": "2018-03-07T13:37:24+01:00",
+  "path": "/nix/store/c6aadpk1c9hifal52zrabx20vvr4jh64-cl-random",
+  "sha256": "0jn80xphyvyp2v72acr6b8a2f6dw06myr5vrjfl14brsvks7wr89",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

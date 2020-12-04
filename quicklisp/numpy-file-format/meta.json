@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/marcoheisig/numpy-file-format.git",
+  "rev": "d0f8418955c075f27767583fe5571500f0e214f1",
+  "date": "2020-04-09T19:01:18+02:00",
+  "path": "/nix/store/fc0kizr76vcmfaxf4xxbhdk7c4n6kr5l-numpy-file-format",
+  "sha256": "0i02nd2pvg1h5mb34jgp0whsngsxvgn6575vhx1jl3k7ssgrnqr0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

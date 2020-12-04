@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/deadtrickster/ia-hash-table.git",
+  "rev": "5e4806c40872bb88a8d19e6f5df57a2933ad0df4",
+  "date": "2016-03-01T08:59:00-08:00",
+  "path": "/nix/store/pp10zgqa66a3xnlh08715hnrmbdaw0lk-ia-hash-table",
+  "sha256": "11wnwjxa528yyjnfsvw315hyvq3lc996dwx83isdg4hlirj3amy4",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

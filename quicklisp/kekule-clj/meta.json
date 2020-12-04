@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/yitzchak/kekule-clj.git",
+  "rev": "1fe732a2187bd988e5429e615da21a6a0b688cb2",
+  "date": "2020-11-19T05:39:59-05:00",
+  "path": "/nix/store/f345mh5bwn2n3r0qqv0bn5rcyvwc8j1k-kekule-clj",
+  "sha256": "1wsgi7sycwzasjjb10g5ilzxwzr0ad4v8dh6jd82x372z9mrx9c5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

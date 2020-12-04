@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/parse-declarations/parse-declarations.git",
+  "rev": "549aebbfb9403a7fe948654126b9c814f443f4f2",
+  "date": "2009-09-08T06:31:39+00:00",
+  "path": "/nix/store/6jrqhxr5wh2qwlxzfd7jq5cmivvg4ybk-parse-declarations",
+  "sha256": "03g5qks4c59nmxa48pbslxkfh77h8hn8566jddp6m9pl15dzzpxd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

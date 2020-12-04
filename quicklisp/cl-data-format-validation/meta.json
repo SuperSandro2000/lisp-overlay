@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/willijar/cl-data-format-validation.git",
+  "rev": "95d44766e829582598f9dcdc5c23719c462d5bfb",
+  "date": "2014-03-12T13:04:08+00:00",
+  "path": "/nix/store/pz3d6kjgj8r46njb08y94dy46kwjdg23-cl-data-format-validation",
+  "sha256": "0zmk47xmicyqvp1impn8kgh5373ysmx3gfpqcvbi9r31qsir2nqa",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

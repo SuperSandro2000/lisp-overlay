@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/genovese/make-hash.git",
+  "rev": "ae0909cd8e697520a1085fac6f54ac2b448ebd21",
+  "date": "2013-04-21T11:43:12-04:00",
+  "path": "/nix/store/zkavqlbrqyjq7jzh82fjkkbcbv7bw2b8-make-hash",
+  "sha256": "1qa4mcmb3pv44py0j129dd8hjx09c2akpnds53b69151mgwv5qz8",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

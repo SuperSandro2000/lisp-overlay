@@ -1,0 +1,10 @@
+{
+  "url": "http://gitlab.common-lisp.net/clnuplot/clnuplot.git",
+  "rev": "aa97f331a7d4dfe2ba909b6322fa1496c4e1dc4f",
+  "date": "2009-01-31T16:41:05+00:00",
+  "path": "/nix/store/dzkrkbrax1kaqwxsl4dj69z0id30kyjd-clnuplot",
+  "sha256": "13njijpif6xxhfdbn0j71k08637x3a6gfby2gzrscxzsn0qvijcs",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

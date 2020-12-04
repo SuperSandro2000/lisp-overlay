@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/lokedhs/docbrowser.git",
+  "rev": "236ae92e8eee13b85c118e45e92be0b6baae91fd",
+  "date": "2020-05-29T22:31:59+08:00",
+  "path": "/nix/store/lw9rsf1ja832h0lg447g10rrx8yc1zw7-docbrowser",
+  "sha256": "0k7gkyciqfbwdmvip2s8h4k21a63h45bj3qydq3jbvkhaq4gj9x1",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

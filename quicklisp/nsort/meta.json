@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jschatzer/nsort.git",
+  "rev": "d09dc07aad636390c062d4ba5b03f35ba72b2c7a",
+  "date": "2015-04-28T12:23:48+02:00",
+  "path": "/nix/store/xx3ga3f4y9qpqvkxw2h5ys2jqyiflrb3-nsort",
+  "sha256": "1q58slg8pl390av8pv16xb8g9qibgy3pm6vyl1fw75mx37yqkyd3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

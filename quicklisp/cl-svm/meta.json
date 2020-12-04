@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gonzojive/cl-svm",
+  "rev": "8294d61baadb06c39faaa3414b20dc9267f41468",
+  "date": "2010-06-10T07:41:37-07:00",
+  "path": "/nix/store/xxqsrwl8x9zfdb2c5p6cch6wd8nka4w5-cl-svm",
+  "sha256": "03d070k3bl5c0b2f6bzig5gkhlj074v74f7kg8hh3znrbmwji2wv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

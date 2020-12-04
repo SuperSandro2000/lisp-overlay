@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/michipili/cl-kaputt.git",
+  "rev": "4f3a56e8b9316a1e0d6a4b113a30e6f3a38bd2c0",
+  "date": "2020-10-03T22:53:08+02:00",
+  "path": "/nix/store/fkwspll8ab3cgc1apdman6fywjxbmcxm-cl-kaputt",
+  "sha256": "01br97d8ijbggbrssvd42jajyg38wpxm24z8khxf67z8k2lhafjg",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/Harleqin/arrows.git",
+  "rev": "df7cf0067e0132d9697ac8b1a4f1b9c88d4f5382",
+  "date": "2018-07-03T09:31:20+02:00",
+  "path": "/nix/store/vwdrabhc2g6kik19spwqbc1qzhxmxjj4-arrows",
+  "sha256": "042k9vkssrqx9nhp14wdzm942zgdxvp35mba0p2syz98i75im2yy",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

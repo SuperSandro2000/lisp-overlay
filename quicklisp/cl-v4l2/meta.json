@@ -1,0 +1,10 @@
+{
+  "url": "git://repo.or.cz/cl-v4l2.git",
+  "rev": "201d9e5c0734d5b9ad4ccff6e1061cfa4b79b9f3",
+  "date": "2010-10-24T15:57:52+02:00",
+  "path": "/nix/store/mwimiacwpnw01bw000mvymb23hgw3y3s-cl-v4l2",
+  "sha256": "0ll7rsb6i93ri2y52rbmnlgsc0rnkrhw5ndbqi72kjhb579lqx2p",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

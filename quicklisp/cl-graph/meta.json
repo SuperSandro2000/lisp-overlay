@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gwkkwg/cl-graph",
+  "rev": "3cb786797b24883d784b7350e7372e8b1e743508",
+  "date": "2017-12-15T09:05:39-05:00",
+  "path": "/nix/store/mf6chkziggf0hgrz6dgqh639ngjp7izv-cl-graph",
+  "sha256": "1748rj52f2jmd5jvsy9jwhn0zf73sjzjhwhnljvq6yi2kdqr30kl",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

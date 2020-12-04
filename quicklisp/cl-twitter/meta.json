@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fons/cl-twitter.git",
+  "rev": "6a72291f8c60bd07efd2a8605f18a3eb7570cc4a",
+  "date": "2017-06-18T12:30:43-04:00",
+  "path": "/nix/store/x760b4lkmx9sqx2wca3kpcfaq10fnavg-cl-twitter",
+  "sha256": "07l86c63ssahpz3s9f7d99mbzmh60askkpdrhjrdbzd1vxlwkhcr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

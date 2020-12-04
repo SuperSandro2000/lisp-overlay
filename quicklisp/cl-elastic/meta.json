@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/FiV0/cl-elasticsearch.git",
+  "rev": "2b852518a7df252eba2b47b0b04d5cd6fbfac4e4",
+  "date": "2019-12-29T16:57:52+01:00",
+  "path": "/nix/store/g0j5klllfa5rq5h2k5al8g8nxfx2df6y-cl-elasticsearch",
+  "sha256": "107ha226n3mxzvm0cp8kvgybcv4rr0b4lwik4f4j7lrhz6xvnncq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

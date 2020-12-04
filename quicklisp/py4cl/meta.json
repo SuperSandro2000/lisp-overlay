@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/bendudson/py4cl.git",
+  "rev": "7b965b58d7374e4f9aa7e51745e15b62ba6b6153",
+  "date": "2020-09-11T16:36:48+01:00",
+  "path": "/nix/store/srwk0yl2ni7p0n87rq3w5ppsw328v9ga-py4cl",
+  "sha256": "0vvjyd7vd6izxacz6jwpdqwrgil012vyf672c2xj3ahrrjwy7nav",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/hdurer/cl-fluiddb.git",
+  "rev": "99f309ebbedde8d5a67b30ff6cd2e6a6c50ad1de",
+  "date": "2013-03-09T09:06:38+00:00",
+  "path": "/nix/store/5psppsikximamy545nzwmpv3ram76cw8-cl-fluiddb",
+  "sha256": "0npkkp2w88f6vb9pckjp4q4d4idx9p2s4s4imljs2vfym2j3w0wb",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

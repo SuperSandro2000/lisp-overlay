@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/brown/protobuf.git",
+  "rev": "fed57f70e21eb7db01cf12584055fa293b5cd90c",
+  "date": "2020-11-01T17:30:05-05:00",
+  "path": "/nix/store/k40zqb3s0xdlvmdmmznf5a6zq79gwkl0-protobuf",
+  "sha256": "1jdd0pkpc410am902xmpn5hmb8zvqzfwvvj7qci11qj2hds698rd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

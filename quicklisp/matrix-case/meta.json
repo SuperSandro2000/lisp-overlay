@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/hyotang666/matrix-case.git",
+  "rev": "8369f675d7c6d465acbab34be90d0da6f961da02",
+  "date": "2020-05-21T00:35:46+09:00",
+  "path": "/nix/store/dafwpr6vvb6lahin3mmmg5898zmjhkby-matrix-case",
+  "sha256": "1pm4hnh7jn4j01jiiq5ml6jbrd8acha9khmiyd1sxnyg7nyzfnv5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

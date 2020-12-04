@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/pve1/apply-argv.git",
+  "rev": "37cb0c665f041cff9974ead170b8be509605b85a",
+  "date": "2015-05-27T17:15:02+03:00",
+  "path": "/nix/store/nq8jvp6673zp2cpmx0w6swyhv0qlppby-apply-argv",
+  "sha256": "19qj847vyawjgm5iwk96469c0plnxj37948ac1bcd86hgpbm75w0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

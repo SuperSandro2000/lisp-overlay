@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/madnificent/database-migrations.git",
+  "rev": "f5bc3d77c2eeef74eba408b0ac5be7f85f32c699",
+  "date": "2009-04-24T22:24:07+02:00",
+  "path": "/nix/store/bybx4358xdh12vi8l1cbc77fgjf6vyw5-database-migrations",
+  "sha256": "1rina8j4hh06zc18sxl55r2gsq6x17sn1mjaihdvjyqa7f95s8rp",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

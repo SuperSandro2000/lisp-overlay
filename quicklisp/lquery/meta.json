@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/lquery.git",
+  "rev": "b047c09fc7ea3b0966508c36e7e02ecc29067736",
+  "date": "2020-06-15T16:20:09+02:00",
+  "path": "/nix/store/a71vwwy0pnzqcwaqc8z4wy057605lkmv-lquery",
+  "sha256": "0rgykj9zz1barjkqk9vq143hibgwn6hxnficgn1gxbw9pglbdnrv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

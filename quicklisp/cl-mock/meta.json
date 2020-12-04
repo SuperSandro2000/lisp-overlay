@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Ferada/cl-mock.git",
+  "rev": "714a4122970d836e65a5a33f6bf6c6d99116325c",
+  "date": "2016-04-05T14:57:00+02:00",
+  "path": "/nix/store/5xfnf165bhfc360i75asjyakmfwwq4ab-cl-mock",
+  "sha256": "15xqld8fg3xf4la2s5z6gfaxmk0hp4jmzyl1i6sb0kzij0gxymgd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

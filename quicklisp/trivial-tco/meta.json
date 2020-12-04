@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/rmoritz/trivial-tco.git",
+  "rev": "907cc466b733e797b38c6ef73a36d8c100317a04",
+  "date": "2013-08-27T16:57:11+02:00",
+  "path": "/nix/store/0lyrq1gpzm6y3pj5h06zbh1c4jd9pbmd-trivial-tco",
+  "sha256": "0j6mkchrk6bzkpdkrahagip9lxxr8rx3qj4547wg8bdqr7mm2nmi",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

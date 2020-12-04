@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/cbaggers/trivial-macroexpand-all.git",
+  "rev": "933270ac7107477de1bc92c1fd641fe646a7a8a9",
+  "date": "2017-10-20T15:38:02+02:00",
+  "path": "/nix/store/fmapk9lrkcabsvx9bslhvqw6hvhp1wx2-trivial-macroexpand-all",
+  "sha256": "191hnn4b5j4i3crydmlzbm231kj0h7l8zj6mzj69r1npbzkas4bd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

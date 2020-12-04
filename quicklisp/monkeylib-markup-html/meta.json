@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gigamonkey/monkeylib-markup-html.git",
+  "rev": "9c0cee8f782b0733bd43ba28dea4c25494b8cc42",
+  "date": "2012-01-13T12:30:21-08:00",
+  "path": "/nix/store/l4mgvx4clankmbg7akai31hjzzaq4a9c-monkeylib-markup-html",
+  "sha256": "1kwnlb7dka9bqyc8a06lbsap8j83kdayk4m9a1m3mazjgaxlpv2a",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

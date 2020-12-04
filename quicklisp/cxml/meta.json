@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/sharplispers/cxml.git",
+  "rev": "8701da08ba4aac30891b8d2005edb018c1d3d796",
+  "date": "2020-06-05T21:46:55+01:00",
+  "path": "/nix/store/qalb9vmgbwwhkkbcl3x19nb0s6v3d0s8-cxml",
+  "sha256": "18fls3bx7vmnxfa6qara8fxp316d8kb3izar0kysvqg6l0a45a51",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

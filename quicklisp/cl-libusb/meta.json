@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/soemraws/cl-libusb.git",
+  "rev": "66ae873f9391da34d4634d44d8e429ad054169f8",
+  "date": "2020-01-08T00:15:25+01:00",
+  "path": "/nix/store/lzchd440wyim0qajrhiy8vi3ks2ik1zv-cl-libusb",
+  "sha256": "0pcixnqhk8a1rc80lnq8kxwchdr3y9kqm7h4dwgg2wk961dl87mc",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

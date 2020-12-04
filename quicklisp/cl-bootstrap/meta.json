@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/rajasegar/cl-bootstrap.git",
+  "rev": "c6a1150bd3609817634d8c11d53ac1e97f114796",
+  "date": "2018-08-13T18:12:55+05:30",
+  "path": "/nix/store/khxkfvlfzbsjkfs194j48xsqv0l9jxam-cl-bootstrap",
+  "sha256": "0pk7wx4arsljxlnbx1hzcgxwsvhdp3gn22wv43xls2jv1rdi2xry",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

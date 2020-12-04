@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mabragor/cl-dsl.git",
+  "rev": "697fa5aead8865be10f41923a8c0bb35494c4280",
+  "date": "2013-06-19T04:42:14+04:00",
+  "path": "/nix/store/jy94jg0vnnrcv6825djs7as7mr4g3amv-cl-dsl",
+  "sha256": "1bj5yp20r8z6gi6rpf88kpy4i06c8i2d3cg5sjlq7d1ninkb4gg4",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

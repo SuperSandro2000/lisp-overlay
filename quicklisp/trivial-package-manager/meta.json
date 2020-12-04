@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/guicho271828/trivial-package-manager.git",
+  "rev": "f5b1204f747886323692832daee6207a40cbe0b0",
+  "date": "2017-12-15T16:19:48+09:00",
+  "path": "/nix/store/5b513fbk08jmc6q4ca4ayvbfmlfy0rj6-trivial-package-manager",
+  "sha256": "0v61x4wzamilnjyq35ki46zl9443fslv9slwqwlazfknnbp3vcq8",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

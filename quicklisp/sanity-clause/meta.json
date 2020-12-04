@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fisxoj/sanity-clause.git",
+  "rev": "0b864d147c88e1a548a0691ccb20feca5e3c0d24",
+  "date": "2020-07-25T15:05:21-04:00",
+  "path": "/nix/store/0xpmci79habmb60x3fp5k2ax6ayjw84i-sanity-clause",
+  "sha256": "0zg9sfyl9shslnrhpr3xbj5ya95jxw31jmykf1sb2ds8kkfc5qxp",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

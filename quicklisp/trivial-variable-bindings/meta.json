@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/ediethelm/trivial-variable-bindings.git",
+  "rev": "db802979b54f4eee72f17b3c6ee7d6f6ddaf77ba",
+  "date": "2019-08-18T14:20:16+02:00",
+  "path": "/nix/store/3xhflcff539g959rm575c005zczqw2n0-trivial-variable-bindings",
+  "sha256": "08lx5m1bspxsnv572zma1hxk3yfyk9fkmi5cvcr5riannyimdqgy",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

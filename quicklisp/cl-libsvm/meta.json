@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/melisgl/cl-libsvm.git",
+  "rev": "fc3e39601605eda37a4f43cf2925f00ea572c668",
+  "date": "2014-09-25T13:47:54+02:00",
+  "path": "/nix/store/0rhmm41bb7pdmgyr769ip890yi85zdb5-cl-libsvm",
+  "sha256": "1piafvpim4i3khjw3d2ccx43lcyh3yb2c0kslqfy027hdl2nz8va",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

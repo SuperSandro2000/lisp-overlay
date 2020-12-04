@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/redline6561/trivial-raw-io.git",
+  "rev": "b1a3c876305baa0dead419841de7b3e433a75867",
+  "date": "2014-12-02T08:24:57-05:00",
+  "path": "/nix/store/iqgzq1p4ms9bzkznj8z6zmjccf1vsvmc-trivial-raw-io",
+  "sha256": "19290zw2b64k78wr62gv30pp7cmqg07q85vfwjknaffjdd73xwi1",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

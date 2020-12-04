@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/vydd/sketch.git",
+  "rev": "1a2e4bba865d5083889c68f8755ef6c0e2a7d5a2",
+  "date": "2020-04-17T16:11:56+02:00",
+  "path": "/nix/store/cww05zfcn2a6gd3xkpk4rrgcj70qvnaj-sketch",
+  "sha256": "0wnc3b8dsxf2xb1n5rsy2rhmrrciv8jxnk6dwl4lacgllgjndlx8",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

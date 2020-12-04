@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Ralt/restful.git",
+  "rev": "725e93f0383f171da57b3630d769d37c1a7602d2",
+  "date": "2015-05-25T22:59:13+02:00",
+  "path": "/nix/store/z0m0lfgl57bxdjmrqqxgln7ya84h7fk4-restful",
+  "sha256": "1imcpd9zm1dbb1675pf3g3d6w9vyxk07g7r33174qdw470j8ml5n",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

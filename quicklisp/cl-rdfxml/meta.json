@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/tayloj/cl-rdfxml.git",
+  "rev": "3364ddaaba7542af42949616d135bacd44181484",
+  "date": "2014-07-10T18:54:35-04:00",
+  "path": "/nix/store/gcj5ww3w5ljihcxc0z7gib4ja10z2j78-cl-rdfxml",
+  "sha256": "09v76qg6l3y1llapnkfqrfgib67h7lpkzrdmfimwk49bi80iii8v",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/AccelerationNet/buildnode.git",
+  "rev": "c614ead94d00795c1a862f344d45aef52e568e2b",
+  "date": "2017-02-27T12:16:19-05:00",
+  "path": "/nix/store/ilcrl6d832m8j8swxs9qzwkg956i5vp3-buildnode",
+  "sha256": "09pd3mkjd278dl1hq30mxh6m2iyyfha4byadyb9drw4n7ncnjggs",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

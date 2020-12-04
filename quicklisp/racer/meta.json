@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ha-mo-we/Racer.git",
+  "rev": "d690841d10015c7a75b1ded393fcf0a33092c4de",
+  "date": "2018-12-08T19:33:00+01:00",
+  "path": "/nix/store/3rbag44dmn7bi53fkl48a97a4f8m7674-Racer",
+  "sha256": "120x046c6vcrj70vb6ryf04mwbr8c6a15llb68x7h1siij8vwgvk",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

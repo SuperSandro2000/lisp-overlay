@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/macdavid313/cl-libfarmhash.git",
+  "rev": "14f0b9d9b49759b37e0924b9aabf8f4681337968",
+  "date": "2016-10-07T18:21:48+08:00",
+  "path": "/nix/store/zkgjw769s955yhbc1k4qnqqx4003i01i-cl-libfarmhash",
+  "sha256": "1r8rhwh4jdvvby15nzaxikzhd1q8ipsfylqbsq2m9q482vcxs6sb",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

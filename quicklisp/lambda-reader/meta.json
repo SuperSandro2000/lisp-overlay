@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/frideau/lambda-reader.git",
+  "rev": "1209d688989cf23dd125486830892502d3deb1b5",
+  "date": "2016-12-26T17:07:20-05:00",
+  "path": "/nix/store/6sz8ydcrkfwafqy2splv0dxbmz0a5dg4-lambda-reader",
+  "sha256": "0s73nrnvr0d2ql1gabcasmfnckzq0f2qs9317hv2mrrh0q1giq1w",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

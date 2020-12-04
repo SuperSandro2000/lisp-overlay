@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/dnaeon/cl-covid19.git",
+  "rev": "fdd93071f212f03ed1e6edd96854d502b90c9248",
+  "date": "2020-11-28T12:42:05+02:00",
+  "path": "/nix/store/10rr78qr47br2plnifdfv3y2iprra24r-cl-covid19",
+  "sha256": "1d4lfy914fpa4hmwhkwdydcf4ybwxl9sa32r3z12dlh4gi844dvc",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

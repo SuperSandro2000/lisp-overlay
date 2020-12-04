@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Clozure/ccldoc.git",
+  "rev": "7c5dcf1513a4e8826718a70df8cfb7415401900e",
+  "date": "2020-04-18T22:04:15-07:00",
+  "path": "/nix/store/cqfccf1b33aj28yg52kkjvixhhkwr7qq-ccldoc",
+  "sha256": "0pxjk07drvxrk65g46lbpz2y0xgxgn04k6yvirl0hk2dry0myinp",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

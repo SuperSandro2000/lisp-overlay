@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/frodef/pithy-xml.git",
+  "rev": "c687f98f6bb4d9db9400cddad725c478552ceb65",
+  "date": "2010-07-01T13:06:49+02:00",
+  "path": "/nix/store/rhbmh3s98b26f8nfysx7lhq1yybjpnxh-pithy-xml",
+  "sha256": "05zw5adiw7jgvi9w9c661s4r49fidpcxn6m7azmn0pzc936dg17h",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

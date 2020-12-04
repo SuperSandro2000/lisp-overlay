@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/melisgl/named-readtables.git",
+  "rev": "c3933aeb89d36970a07074c5821c1bb02563d0b5",
+  "date": "2020-09-05T10:54:10+02:00",
+  "path": "/nix/store/b95ddv0xvzr1x0h81jf4kfak8894nnnj-named-readtables",
+  "sha256": "18rd3nbswwmbkvfkbp3z4wk3kpg8dj2bfd485b0vaimd0k3h2j8w",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

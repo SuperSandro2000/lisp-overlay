@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/nikodemus/madeira-port.git",
+  "rev": "81021859d8bc69d7714adb320dfcaf0ed4fda843",
+  "date": "2015-06-18T17:49:55+03:00",
+  "path": "/nix/store/qbfzimfmgkpn8b5x9yz48c0jbbkknzm7-madeira-port",
+  "sha256": "0zl6i11vm1akr0382zh582v3vkxjwmabsnfjcfgrp2wbkq4mvdgq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/phoe/destructuring-bind-star.git",
+  "rev": "341ad432448c0c485e2ea413bf652fc9e824bfb4",
+  "date": "2020-04-30T08:44:33+02:00",
+  "path": "/nix/store/av0f1z9kiwwrxvzhajwwcj3psjmjds60-destructuring-bind-star",
+  "sha256": "1j1xnhvb6pm9q291aawbrcwp8bgbmiij9a53gifxhr4kp934ciz2",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

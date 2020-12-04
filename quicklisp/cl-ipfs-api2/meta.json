@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/JadedCtrl/cl-ipfs-api2.git",
+  "rev": "470dbd02258367cb6de3eb870a79aae7096f6a50",
+  "date": "2020-08-27T10:46:58-05:00",
+  "path": "/nix/store/ahvbc0nnbirj3cjyirq9fsxaznzyppvl-cl-ipfs-api2",
+  "sha256": "1kkfld8a4dr01nciw4dcmp7vbjq05hv4z8wr5ykjhcda2day5jyb",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/inaimathi/clj.git",
+  "rev": "496d9079b31e1333f1f49eb7985107e21cc0c223",
+  "date": "2020-10-09T14:25:37-04:00",
+  "path": "/nix/store/v5cqp831ppkh7nnhiy47dq6xxf9q2922-clj",
+  "sha256": "0w66mhh98zkwvrbsny61ls5smp1vvjini0sncrrk0dc9plb9y9a1",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

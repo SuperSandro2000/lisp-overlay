@@ -1,0 +1,10 @@
+{
+  "url": "https://notabug.org/cage/clunit2.git",
+  "rev": "21e76aa449841a082d976a45c7f5832d1a127634",
+  "date": "2020-09-30T15:46:03+02:00",
+  "path": "/nix/store/r1k4n8jnw2yl77dswx16v038bxg397a6-clunit2",
+  "sha256": "10fm5d4s61bcdvhww2a36hka1d0sxps1swfn4mldj73v22rql4ib",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

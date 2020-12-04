@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/melisgl/mgl-pax.git",
+  "rev": "4566fb2f990b45e29f11d3cfeaac35db69beda59",
+  "date": "2020-09-30T21:37:59+01:00",
+  "path": "/nix/store/wy399ppm4m2i4m1aqysfk1dsjfa5cyxs-mgl-pax",
+  "sha256": "0g3al8cn0342459bmsl8jd18v2g08hps12r4cbraz0vksi6ps71y",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

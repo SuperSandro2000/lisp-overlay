@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ralph-schleicher/open-location-code.git",
+  "rev": "5cebc8672a6606e39ad4aa481ac4d89ac6400300",
+  "date": "2019-05-06T17:49:38+00:00",
+  "path": "/nix/store/h32qzp3f1cna9plklb3cy4j882qjv71k-open-location-code",
+  "sha256": "121m3s9b26grx1hd2i9shrkinjir1ipm37znv2rdjf97hga0kb50",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

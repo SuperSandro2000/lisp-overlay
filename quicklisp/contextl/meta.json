@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/pcostanza/contextl.git",
+  "rev": "5d18a71a85824f6c25a9f35a21052f967b8b6bb9",
+  "date": "2020-02-01T15:59:44+01:00",
+  "path": "/nix/store/4rwqw1mn3iy6hh4ak6nk5wvl3f5ylb0p-contextl",
+  "sha256": "0gk1izx6l6g48nypmnm9r6mzjx0jixqjj2kc6klf8a88rr5xd226",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

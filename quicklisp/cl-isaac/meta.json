@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/thephoeron/cl-isaac.git",
+  "rev": "938318303d31a7be886ce3b68b427b087d519d90",
+  "date": "2015-07-30T12:33:53-04:00",
+  "path": "/nix/store/20yn27pfvqv28yifdgi8550n0brvm58f-cl-isaac",
+  "sha256": "08w7nnifdypv0d0i6wbqydzph970zfgzda6bhcf318lz3lllaks7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

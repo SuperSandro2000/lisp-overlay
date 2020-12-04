@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/orivej/quickdist.git",
+  "rev": "2c3f41c53807cbae1fc75c3701ab029e2b6ab371",
+  "date": "2013-02-23T04:03:56+04:00",
+  "path": "/nix/store/2flk46cyn6xbd4g2cfry9d54irl20dyi-quickdist",
+  "sha256": "1cqkr2xy8y9qa4j7jm1a1v6vr873z4vrfhbr6h0219b2hjmksac3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

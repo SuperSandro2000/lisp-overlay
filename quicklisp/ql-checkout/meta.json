@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/roswell/ql-checkout.git",
+  "rev": "c4814f283a6b15e57627c7efa65c2c915d30ae2a",
+  "date": "2019-04-01T15:16:17+02:00",
+  "path": "/nix/store/n9na99j29n2065qzwlbn3riyrripvdy6-ql-checkout",
+  "sha256": "1zp3wa7g1wn7sypfsla7510ywvldqavlmv90pncanwpwn79klyhw",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

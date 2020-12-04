@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/cbaggers/fn.git",
+  "rev": "8d8587d03a7b5e26b306fc90018e385d9e5acc2c",
+  "date": "2017-09-13T19:21:14+02:00",
+  "path": "/nix/store/m7gvvzjn5p2ycq7hjkhzm1yfmfsizrz9-fn",
+  "sha256": "0yyp9z6iwx476whz0n1rpjznjyqqhlylhzwpgg5xx92lxmskl752",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

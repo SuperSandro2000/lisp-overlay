@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/eudoxia0/git-file-history.git",
+  "rev": "7a4c33fcd94c98600d968af8c0035e8f706aeff9",
+  "date": "2016-07-02T10:21:01-03:00",
+  "path": "/nix/store/ld3slk7s46zl0cd73czcc2yhlqa2dzib-git-file-history",
+  "sha256": "00kdawcy3mhljv04xpx5n7l2s21qdpbm8i9avjdqbxvfc5j05bq8",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

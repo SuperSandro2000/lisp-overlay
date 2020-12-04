@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/parachute.git",
+  "rev": "e9cb9b59be02226dca4794621c21d2609cc4ffa6",
+  "date": "2020-11-12T22:19:22+01:00",
+  "path": "/nix/store/lngvighry8vgl7bfzywxpp40cczfhmi6-parachute",
+  "sha256": "0xf4iymswwpyiv8sdrcw6j1q2qcr8z9gw56mf34l4992lkzp70ai",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

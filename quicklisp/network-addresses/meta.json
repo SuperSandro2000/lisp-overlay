@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ralt/network-addresses.git",
+  "rev": "b7ce23eafcdf6e337a09bdf19d0314842d99482e",
+  "date": "2016-06-06T21:53:09+02:00",
+  "path": "/nix/store/bx2v13lx2pc092nsrh4pvvvhjnddh99i-network-addresses",
+  "sha256": "0zkyfdvfy9pz08vrgz40qpnqx0y7vf92aarp9dq2wipimnwy8df2",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ralph-schleicher/rs-colors.git",
+  "rev": "960ca6e7b6a3e51069668472d3d3aa2077bc87e6",
+  "date": "2020-02-11T20:12:21+00:00",
+  "path": "/nix/store/qwq49ij9d296jz2m6lhds6liqdzii81f-rs-colors",
+  "sha256": "0vbnfirq4sa63vp47hazbnjwgplzc7af0laznb47jqxhb7s6jnai",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

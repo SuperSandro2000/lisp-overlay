@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gwkkwg/trivial-backtrace.git",
+  "rev": "6eb65bde7229413040c81d42ea22f0e4c9c8cfc9",
+  "date": "2020-05-11T09:46:26-04:00",
+  "path": "/nix/store/kqx4159f7vr0jzawqz6cfm68cpi1k7zd-trivial-backtrace",
+  "sha256": "1mbaqiwj5034iw6jzw30jyhwzp1pvhnz1zcy0lns0z5j2h9ldapw",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

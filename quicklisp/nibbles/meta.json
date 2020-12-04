@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/sharplispers/nibbles.git",
+  "rev": "dac5ac3a91eca732ca4db8d3f09e3730f30bb6f7",
+  "date": "2020-11-01T17:13:01-05:00",
+  "path": "/nix/store/dfbdvyyikmiqq2q8srj8rad6755043sz-nibbles",
+  "sha256": "1sic8l5rfdvg2bn22q8wcq8klmiykwyk3wq74spl1lzhmn6aj5k4",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

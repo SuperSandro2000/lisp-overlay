@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/martin-loetzsch/ht-simple-ajax.git",
+  "rev": "42a09cf03aaae5268c89e72bc4ca46d11885d495",
+  "date": "2013-04-17T23:19:48+02:00",
+  "path": "/nix/store/n9k4j63xvmsks9v7l8x4rsnm1f9q902z-ht-simple-ajax",
+  "sha256": "1l87c0arjzyrp3g6ay189fjkqmy81b7i35rfrcs9b269n7d4iis4",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

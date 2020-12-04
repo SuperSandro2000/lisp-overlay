@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/40ants/cl-prevalence.git",
+  "rev": "5a76be036092ed6c18cb695a9e03bce87e21b840",
+  "date": "2020-11-09T19:12:07+03:00",
+  "path": "/nix/store/xdrlbiniz0mxkg90vfiq4arlmkd8mgwx-cl-prevalence",
+  "sha256": "050h6hwv8f16b5v6fzba8zmih92hgaaq27i2x9wv1iib41gbia3r",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

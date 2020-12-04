@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/guicho271828/bit-ops.git",
+  "rev": "db91ca76a63b6b59dfa5bb99531e9a1dbf9ba22f",
+  "date": "2017-02-22T10:38:26+09:00",
+  "path": "/nix/store/7jkpmr55pgxqyg6242ymr6i6fm2zl7ds-bit-ops",
+  "sha256": "0rwmm438bgxfl5ab1vnrsxgimxnr3d5kjv9a0yzmlnbg9i2hyhz7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

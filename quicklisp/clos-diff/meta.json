@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/krzysz00/clos-diff.git",
+  "rev": "d96473f18470d0d39edf0605edddb51d211e688d",
+  "date": "2015-06-03T20:38:31-07:00",
+  "path": "/nix/store/74m4pavwlhxa3lpm83j1fy5dnak2yl5l-clos-diff",
+  "sha256": "0y6chxzqwwwkrrmxxb74wwci6i4ck6i3fq36w9gl03qbrksfyjkz",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

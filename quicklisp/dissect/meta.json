@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/dissect.git",
+  "rev": "cffd38479f0e64e805f167bbdb240b783ecc8d45",
+  "date": "2020-04-14T19:26:37+02:00",
+  "path": "/nix/store/22bdp8x1x66v8p7wrkv6hj65p5194qcw-dissect",
+  "sha256": "0rmsjkgjl90gl6ssvgd60hb0d5diyhsiyypvw9hbc0ripvbmk5r5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

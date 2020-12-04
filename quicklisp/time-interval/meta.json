@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/slyrus/time-interval.git",
+  "rev": "576dbc47f4d758486970cf30e13aefb5be324e46",
+  "date": "2019-02-01T15:20:56-08:00",
+  "path": "/nix/store/bmnn8bw90144csxnyqpmvizrxqm4arpr-time-interval",
+  "sha256": "0dydlg42bwcd7sr57v8hhrd86n80d5cb5r6r2id0zyqbrijabdw5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

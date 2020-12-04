@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mmontone/cl-xul.git",
+  "rev": "049c8664bb58d177c71d93ac5b5e1a2ba9b9469b",
+  "date": "2016-03-01T13:46:48-03:00",
+  "path": "/nix/store/gh91c8say74rrm9yhpvd74zq5la5rw8q-cl-xul",
+  "sha256": "0ldny4bjfndrkyqcq6klqxvqkpb0lhcqlj52y89ybl9w7dkl2d9p",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

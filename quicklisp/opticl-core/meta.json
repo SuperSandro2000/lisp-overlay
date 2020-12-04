@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/slyrus/opticl-core.git",
+  "rev": "b7cd13d26df6b824b216fbc360dc27bfadf04999",
+  "date": "2017-09-05T23:15:00-07:00",
+  "path": "/nix/store/2lhmlnd5p1nl4y2jxvq2j3lmd9dkkn8f-opticl-core",
+  "sha256": "0458bllabcdjghfrqx6aki49c9qmvfmkk8jl75cfpi7q0i12kh95",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

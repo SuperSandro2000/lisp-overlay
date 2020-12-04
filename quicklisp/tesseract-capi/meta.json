@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/egao1980/tesseract-capi.git",
+  "rev": "36ee8ae3aa1170c78ddc75af7368514a86b43f4f",
+  "date": "2020-10-19T19:12:36+01:00",
+  "path": "/nix/store/jrrgsjzsq802hngjly41h7zrm3zif9my-tesseract-capi",
+  "sha256": "1g8afgzbvfk80gi05nbwp9cmmrsqm5knhqi04v1cx556vrbp6ks1",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

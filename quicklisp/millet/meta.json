@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/hyotang666/millet.git",
+  "rev": "556ef11b8a86ca79c804197cac74fd3b33119c12",
+  "date": "2020-11-01T14:06:14+09:00",
+  "path": "/nix/store/81xpkjh6aixjaxj6ijqf2whcfnlnx847-millet",
+  "sha256": "1ggyvj2q94gsj736zzf01whvcqnya1fwv5azxv76i9nmxbm2wfp5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/pnathan/genhash.git",
+  "rev": "220ae1af8361dbd2005177f2ee11072b6a33934f",
+  "date": "2018-11-06T21:08:46-08:00",
+  "path": "/nix/store/i1ngfwvbnnjcnalyv7yb3hwjwnlb3y2c-genhash",
+  "sha256": "1jnk1fix1zydhy0kn3cvlp6dy0241x7v8ahq001nlr6v152z1cwk",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

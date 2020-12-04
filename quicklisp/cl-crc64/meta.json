@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/RobBlackwell/cl-crc64.git",
+  "rev": "a587a4f1dae5f409781d91ac5df7b111254e18d1",
+  "date": "2010-10-24T21:56:17+01:00",
+  "path": "/nix/store/ran96hh3k0bqq92rsd577pwnjdgnrcdj-cl-crc64",
+  "sha256": "1cqky5ps28r49z6ib4vjwfjpq3ml81p2ayf0nqppf2lc4vf3kb20",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

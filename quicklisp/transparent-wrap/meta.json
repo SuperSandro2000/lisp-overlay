@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/DalekBaldwin/transparent-wrap.git",
+  "rev": "3b7dc26b313aab17468ce94153840d4753a6d44d",
+  "date": "2015-06-20T21:26:43-07:00",
+  "path": "/nix/store/wlwgzfa11r906h40nskzwblx47w1qi9s-transparent-wrap",
+  "sha256": "0ghva34ksdvczfwpjdaf97bkjxrp35fjqkxamyqf7fbadh4wmfqj",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

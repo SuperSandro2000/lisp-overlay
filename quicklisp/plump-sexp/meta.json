@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/plump-sexp.git",
+  "rev": "ab52757df473d0d8eae141744710418eb2ba57a7",
+  "date": "2019-06-22T09:56:29+02:00",
+  "path": "/nix/store/46pq721yxrlz4c22x6i0z9s4d7dh7vpd-plump-sexp",
+  "sha256": "0fcaiahwzgm4k0d2r9fzyy8f38sj9p96yxk9ff1y0fxniny834hq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

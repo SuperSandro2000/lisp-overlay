@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/CommonDoc/common-doc.git",
+  "rev": "66cabe67241449a1c0e2cbdc955a60c9439869e6",
+  "date": "2016-04-20T23:08:13-03:00",
+  "path": "/nix/store/6pavwyzf520p73fg866dnqz1b453h1r5-common-doc",
+  "sha256": "1wkycm56pk3w7qh82bxb1qjnzrhypfccq622552n1dd951mndifq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

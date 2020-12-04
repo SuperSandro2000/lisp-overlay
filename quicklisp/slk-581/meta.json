@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/DataLinkDroid/slk-581.git",
+  "rev": "49ed6e4626a4a4ba85c831b75e407b5aed47cfe4",
+  "date": "2018-12-25T12:10:32+11:00",
+  "path": "/nix/store/71va8diria6695021wzqkichis5nyys2-slk-581",
+  "sha256": "1pxyr1gi4ppnfld399wiypqqkgm3bqd9kpizpwgll2fd10yh2qmf",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/osicat/osicat.git",
+  "rev": "fa858fd434aa6b619a32a059b86d03138999a3c9",
+  "date": "2020-07-18T17:00:44-04:00",
+  "path": "/nix/store/42q6nxb028s0p3yml1sv7iwi3bb8n1hi-osicat",
+  "sha256": "05dlwzh5m9i6vq5qfqxnvwbgpx0rpahqsdl09scks15phq8hp70f",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

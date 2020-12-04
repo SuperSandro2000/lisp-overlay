@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/myway.git",
+  "rev": "172807db9a32617cd2a03fbc323a99e76badec8d",
+  "date": "2020-03-20T08:31:13+09:00",
+  "path": "/nix/store/q81fd3k1lw0y8b0xdza17kyh3dzx39af-myway",
+  "sha256": "0vs1z6krn8rrpqjsxfx1hp9x0qhbn8zr67f55b5pj0zg1cv258n1",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

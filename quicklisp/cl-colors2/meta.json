@@ -1,0 +1,10 @@
+{
+  "url": "https://notabug.org/cage/cl-colors2.git",
+  "rev": "795aedee593b095fecde574bd999b520dd03ed24",
+  "date": "2019-12-31T20:03:50+01:00",
+  "path": "/nix/store/q9h4jwy9nyaamkamvy10q55a373r7b0a-cl-colors2",
+  "sha256": "0hlyf4h5chkjdp9armla5w4kw5acikk159sym7y8c4jbjp9x47ih",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

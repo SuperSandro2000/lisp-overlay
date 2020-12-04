@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/nikodemus/ec2.git",
+  "rev": "5a48b57b7f2d65e51af57c08f8e4a61346eed81d",
+  "date": "2011-06-16T18:36:33+03:00",
+  "path": "/nix/store/hk1jwvhvbzbdjlyql5kfviqlb6fcgkjw-ec2",
+  "sha256": "1z9yv1b8ckyvla80rha7amfhhy57kylkscf504rpfx8994fnfbsy",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

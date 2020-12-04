@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/phoe/trivial-method-combinations.git",
+  "rev": "01c7607a472473b79423073686fde0958f091786",
+  "date": "2019-11-22T22:42:44+01:00",
+  "path": "/nix/store/3kzqgbaqa3mrq7nlr6596c9khhx0sk9f-trivial-method-combinations",
+  "sha256": "0w9w8bj835sfp797rdm7b5crpnz0xrz2q5vgbzm2p9n9jskxnxnv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

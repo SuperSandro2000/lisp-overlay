@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/tpapp/cl-colors.git",
+  "rev": "827410584553f5c717eec6182343b7605f707f75",
+  "date": "2018-03-07T13:46:53+01:00",
+  "path": "/nix/store/vzhqhy4dxlg30fq4ijzq9k9gbd681xbs-cl-colors",
+  "sha256": "0l446lday4hybsm9bq3jli97fvv8jb1d33abg79vbylpwjmf3y9a",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

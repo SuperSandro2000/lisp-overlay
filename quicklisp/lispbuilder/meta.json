@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/lispbuilder/lispbuilder.git",
+  "rev": "589b3c6d552bbec4b520f61388117d6c7b3de5ab",
+  "date": "2019-03-24T16:46:18-07:00",
+  "path": "/nix/store/czl39mqz25bn4xg6m1hj3prd63z1q7k5-lispbuilder",
+  "sha256": "0zga59fjlhq3mhwbf80qwqwpkjkxqnn2mhxajlb8563vhn3dbafp",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

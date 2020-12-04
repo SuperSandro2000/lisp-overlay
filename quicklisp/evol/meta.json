@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/e-user/evol.git",
+  "rev": "d84a23d2f5126f288ef6b5f9a75b1434933b6a33",
+  "date": "2010-02-12T16:02:07+01:00",
+  "path": "/nix/store/8m8pflvvkq9yz0p1i9859i1p2j2bkhc8-evol",
+  "sha256": "1hp6wygj44llkscqq721xg4a7j5faqjcfc646lvkia5xg81zbf65",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

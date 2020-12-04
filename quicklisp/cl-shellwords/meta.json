@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jorams/cl-shellwords.git",
+  "rev": "313576b9f6b925cbbc3dcf5e49e8f47c9c1b46bc",
+  "date": "2015-09-20T20:24:55+02:00",
+  "path": "/nix/store/ja85r2lj0qnw01rhnvdrwxkr8yjbanyd-cl-shellwords",
+  "sha256": "0im8cni1ig5zaha9gbmma7zk1xxa4xajvzfgalvl2f0fhvksl4pn",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

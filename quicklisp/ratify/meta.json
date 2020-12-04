@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/Ratify.git",
+  "rev": "5cb1471ff93b8ab45f343e548666d2effc1efc67",
+  "date": "2019-08-14T19:43:29+02:00",
+  "path": "/nix/store/35wmgashi6a80sc4pvxb7s4s7zrw40hk-Ratify",
+  "sha256": "0lhz3g85sc8ral59bs6g32f9nvxvbz126wchr8c3f5jj95xhngma",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

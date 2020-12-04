@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/qtools-ui.git",
+  "rev": "f94a2b37c217227909ec99568371083b57f4cfd4",
+  "date": "2020-02-08T16:34:42+01:00",
+  "path": "/nix/store/gfxzhnblfm38mblsdhlrv063drf2x83m-qtools-ui",
+  "sha256": "0zlygq42mi2ngk8q7a36k2rp6ydb98gryfxvcbg3dijg34i70f2z",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

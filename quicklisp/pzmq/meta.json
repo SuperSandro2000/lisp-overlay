@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/orivej/pzmq.git",
+  "rev": "91dd3a891e639f41d44bfb5f449daf0fcd408e29",
+  "date": "2020-05-01T06:20:03+00:00",
+  "path": "/nix/store/7az6j0005cxkiksg1ansz94wbrh5nf8g-pzmq",
+  "sha256": "1vpnzpd7325dac97sjgj1dxbf5gljjmi73g8777yj4a4vhm4xgjs",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/noffle/cl-flat-tree.git",
+  "rev": "eb546475e436e670e7ef0917e05a6dd4fbd379e8",
+  "date": "2020-08-20T08:46:01-07:00",
+  "path": "/nix/store/yv0bzp3x7i9am7f5qkllw7q1dmr8bdqz-cl-flat-tree",
+  "sha256": "02jgj2d2xnawh8s5ni5akbycjza5m6pclbxxfma0gdzdr3qlz5sa",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

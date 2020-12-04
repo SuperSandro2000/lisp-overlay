@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/marcoheisig/fast-generic-functions.git",
+  "rev": "0ca43f12445739ce3f51016beb7eb550a59081d5",
+  "date": "2020-06-09T23:27:33+02:00",
+  "path": "/nix/store/dpw6qhyix3gvcf0qmhc4v3phpxl14fjw-fast-generic-functions",
+  "sha256": "1ib4dxdys29y1cqnhgjzf5p52qhmh0py4nvl09525d83161sjlfr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

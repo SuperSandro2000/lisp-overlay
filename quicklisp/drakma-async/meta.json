@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/orthecreedence/drakma-async.git",
+  "rev": "3353e5cd8c14e40ac1f21e4065b07c75065b1500",
+  "date": "2015-10-19T09:26:23-07:00",
+  "path": "/nix/store/46xl4rwswv2dwr82yfc4m7br41bq8yvf-drakma-async",
+  "sha256": "13k64vksig8kaw3ia18lymr0433ynsgc1bviljw031v3yprxkfr0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

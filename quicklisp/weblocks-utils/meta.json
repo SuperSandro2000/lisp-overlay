@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/html/weblocks-utils.git",
+  "rev": "00e921bd26669ebc98a8fe7f8a1f7c5ec1ba6157",
+  "date": "2017-01-24T05:18:56+02:00",
+  "path": "/nix/store/vfam99dq9rm29nv866wz74yqy0bv6xmp-weblocks-utils",
+  "sha256": "17d9k47cf4ih6kwwkhqx9859jwd04v7kbvx5hgb1zczbmyvi5xrr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

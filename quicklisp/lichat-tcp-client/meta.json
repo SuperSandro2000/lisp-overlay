@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shirakumo/lichat-tcp-client.git",
+  "rev": "ff61f55f336afb36fb6faec0cedba3ff88d2b28a",
+  "date": "2019-06-22T10:25:13+02:00",
+  "path": "/nix/store/47hgmkwwqcs14hlilj6c9pmjhksmbmxh-lichat-tcp-client",
+  "sha256": "1nvhdriqddcbg3amngjdl8lz1va1h66cki8jvg7l2m70j99vy6w8",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

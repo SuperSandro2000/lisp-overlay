@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/colored.git",
+  "rev": "fa6cf2bd17c9acacd5daa0a0d7f40889ae7eca0f",
+  "date": "2020-11-09T11:07:12+01:00",
+  "path": "/nix/store/1i1y6izbri650w6xy99sf3lvxbb7l71w-colored",
+  "sha256": "06ds695qp0hy28h534shhrwlagiihzivrl3zi72kwkymsabp22v3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

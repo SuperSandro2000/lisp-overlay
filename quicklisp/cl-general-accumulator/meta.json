@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/tlikonen/cl-general-accumulator.git",
+  "rev": "442e90fd90b9191e66a4ad1bb4ff276f4aa104d8",
+  "date": "2019-04-19T19:16:41+03:00",
+  "path": "/nix/store/3r5bi31yvghbl8g66l8x9g08s0461d2n-cl-general-accumulator",
+  "sha256": "0zj9wl3raphnywxx880ngh7bgpy5dkasizavg7pl0p15y7qxbxqv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

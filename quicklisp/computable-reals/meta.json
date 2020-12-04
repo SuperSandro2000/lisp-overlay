@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/tarballs-are-good/computable-reals.git",
+  "rev": "0b82437d19323d0dd889a57fcd43e4ee8dcbfa65",
+  "date": "2018-03-07T11:24:17-08:00",
+  "path": "/nix/store/7k1m9z5sqxrvbwm8kw51zkmahpdg21b2-computable-reals",
+  "sha256": "06mkmw9vfmf3505dlgj26s939l3nam3n1k11g0587r6ynbqjbz9s",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

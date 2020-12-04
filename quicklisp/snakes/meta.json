@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/BnMcGn/snakes.git",
+  "rev": "8c7eae579bb24539dbd584a81a1049f3d3ff8bf8",
+  "date": "2018-12-08T09:03:07-08:00",
+  "path": "/nix/store/7qw9llcsyxb71i49libpi9dwl0makj7z-snakes",
+  "sha256": "1ibp919qcpm6kg67b507kpjzdlhpdjr7vkh9vabln3a75k8lnlsg",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

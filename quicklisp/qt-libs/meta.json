@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/qt-libs.git",
+  "rev": "1e1db3c3d9c56ab8bc6313f1d8be949567041c7d",
+  "date": "2020-11-06T15:14:13+01:00",
+  "path": "/nix/store/ijd6m9ksxziyhabygj07qbl14i3lr52r-qt-libs",
+  "sha256": "0y43i7cnzmv3jaijxnizx4clvrp9a5dhkfzi9wymy2hqsnjimqnb",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

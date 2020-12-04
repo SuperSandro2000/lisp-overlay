@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/shamazmazum/vp-trees.git",
+  "rev": "08ae5f3f9861ace8b349919f668dffa5345044fb",
+  "date": "2020-11-21T10:37:33+03:00",
+  "path": "/nix/store/70k03hhxq6i644kkd610y6bksfbkm2ls-vp-trees",
+  "sha256": "1y78l7ijbwb8j79mm95axclfxgvnhg7mawi6jkwy27q2vyhvhlip",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

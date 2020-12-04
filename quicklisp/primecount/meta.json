@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/AaronChen0/primecount.git",
+  "rev": "1ba261a99bb53d3f021e239fb72882b58a702c12",
+  "date": "2020-02-16T13:42:19+08:00",
+  "path": "/nix/store/q1lj8x8lzp9nbax5035dzadpgp456f8l-primecount",
+  "sha256": "1fw855qp82b887azww7z3yhd2zafaxjnzyff1ldf2wa6mb4f0dj8",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

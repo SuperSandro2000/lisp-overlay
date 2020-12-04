@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/daewok/cl-geos.git",
+  "rev": "07e5238e7cea9f639cb9996ee2a1f19acce8e94c",
+  "date": "2018-06-11T18:42:01-04:00",
+  "path": "/nix/store/q5wnn4ldip3gh19lpgrqwdcrwvp3hwyk-cl-geos",
+  "sha256": "0igq2c1p82pbkyc7zg90fm3lbsmhwnfmb3q8jc8baklb958555ck",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

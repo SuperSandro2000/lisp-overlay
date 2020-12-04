@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/knusbaum/cl-gopher.git",
+  "rev": "29fbe52e3f377e24e8bde77b00789a1e32a75b90",
+  "date": "2018-05-04T00:04:14-05:00",
+  "path": "/nix/store/qw6s0lma7cipl573zbr1j69r0f5bh7wz-cl-gopher",
+  "sha256": "1dilgbnbgbrn7wglv8n03kpgc94l43mgv9y0akg7h5mwn8ii5p6m",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

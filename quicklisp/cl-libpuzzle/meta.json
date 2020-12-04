@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/pocket7878/cl-libpuzzle.git",
+  "rev": "24dd040f78a26e2234f84248c756069ad89eeaac",
+  "date": "2015-06-07T07:59:48+09:00",
+  "path": "/nix/store/kjmsslbzpr8nwd96mhaxi485clcf9q3b-cl-libpuzzle",
+  "sha256": "0qgpdg4lni4sq6jp23qcd1jldsnrsn4h5b14ddmc8mb7va4qshlp",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

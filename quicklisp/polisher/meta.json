@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mrcdr/polisher.git",
+  "rev": "a29cb64a46582ac92677c16c409fcbeefcd16328",
+  "date": "2020-04-05T21:50:45+09:00",
+  "path": "/nix/store/hwky1rrq9ri4x4j3jrd5mli8afcv9q45-polisher",
+  "sha256": "1mbjm1yjb0ch14697fxy9yhwjffih3zxf6579y7rsrbdsmdp1sb7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

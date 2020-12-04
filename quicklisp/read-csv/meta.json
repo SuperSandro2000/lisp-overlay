@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/WarrenWilkinson/read-csv",
+  "rev": "b2650d82e86992c6e4d5a45f157a7dff9c6f68cf",
+  "date": "2018-09-23T07:15:37+09:00",
+  "path": "/nix/store/zsfj4wbrv95h7ssxl0bkx8grjxfq5y14-read-csv",
+  "sha256": "1wr6n8z7jm611xf2jwp3pw03qzq76440cmb75495l5p907lmrbcs",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mrossini-ethz/physical-quantities.git",
+  "rev": "348827f0632eb5bd14b378dab4e47bb6e3102f70",
+  "date": "2020-10-26T21:34:03+01:00",
+  "path": "/nix/store/xg8jjyfxl52ilzdd5x4l5qnn5rfyq4iy-physical-quantities",
+  "sha256": "0hdx5kvd3zms3h5s2yp6awgyapniy2bz68f0f2hqrcd7fn23j9ap",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/yitzchak/common-lisp-jupyter.git",
+  "rev": "d69019abd578bce96a168b157679c5a08ffe4e61",
+  "date": "2020-11-29T18:23:23-05:00",
+  "path": "/nix/store/98in2cqrp2lni1ibf1z8wqflb8qix1ag-common-lisp-jupyter",
+  "sha256": "1rvaw559d6zbdz2h5s3fnvcr97zwh0bf3wrp1vp6h1ykca3x4fww",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/sequence-iterators/sequence-iterators.git",
+  "rev": "5168bbe14ad6e331d2a0a6c89280db0cb840bcb6",
+  "date": "2010-08-23T08:34:31+00:00",
+  "path": "/nix/store/3wjls3p3jbycbwf5rfzpk8z6809s1viq-sequence-iterators",
+  "sha256": "12flvy6hysqw0fa2jfkxrgphlk6b25hg2w2dxm1ylax0gw9fh1l5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

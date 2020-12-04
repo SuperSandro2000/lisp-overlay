@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/phoe/safe-read.git",
+  "rev": "5a128cb1199ddca182cc970af29240e43f4def49",
+  "date": "2018-09-18T20:37:37+02:00",
+  "path": "/nix/store/lpb292hlv98jh32w9p1xzxni59x3cwr6-safe-read",
+  "sha256": "0677kqg1cn8a2z47b65sir5syjw4d4qggpwzyaf552z9n529ybyh",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

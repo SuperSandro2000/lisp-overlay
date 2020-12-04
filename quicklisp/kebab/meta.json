@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/pocket7878/kebab.git",
+  "rev": "e7f77644c4e46131e7b8039d191d35fe6211f31b",
+  "date": "2015-06-07T07:56:06+09:00",
+  "path": "/nix/store/4vj8dxhzgb4j5b72a7mjsf851nn59p16-kebab",
+  "sha256": "0j5haabnvj0vz0rx9mwyfsb3qzpga9nickbjw8xs6vypkdzlqv1b",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

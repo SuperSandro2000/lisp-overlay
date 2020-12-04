@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/inaimathi/cl-zipper.git",
+  "rev": "a8c77db2710186778a9e7db348429387927d999a",
+  "date": "2020-05-08T19:10:08-04:00",
+  "path": "/nix/store/0393nqh0s909f6a59y30d8nr9va4aar3-cl-zipper",
+  "sha256": "1zcfy97l40ynbldxpx8nad81jlrfp0k2vic10wbkrqdfkr696xkg",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

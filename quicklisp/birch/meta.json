@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jorams/birch.git",
+  "rev": "7f70362dba2c59bb61e9419d998407bdc62ea00b",
+  "date": "2016-03-05T01:38:07+01:00",
+  "path": "/nix/store/niakibyjpy0y429bv9223mdxzn0vb094-birch",
+  "sha256": "15vkw89zdvd9p7d6ddqdd21kkkcz9iyy8fvjwrqnn6gyqi4c109m",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

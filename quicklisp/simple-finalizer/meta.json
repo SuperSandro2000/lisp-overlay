@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Balooga/Simple-Finalizer.git",
+  "rev": "200b7dc43fbedab45cd07b1ecfdc61865e5d99fe",
+  "date": "2010-03-18T02:36:59-07:00",
+  "path": "/nix/store/jh2mhkg9b04sdz9wjdxsc9xyxw8578yp-Simple-Finalizer",
+  "sha256": "1qdm48zjlkbygz9ip006xwpas59fhijrswv1k7pzvhdwl04vkq65",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

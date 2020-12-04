@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/schani/clickr.git",
+  "rev": "a2c32e79951852243e32e803b1e4a5157d2505ff",
+  "date": "2014-05-29T13:29:51-07:00",
+  "path": "/nix/store/0fa5ghv1wwj5a1ahcaqrdkbilil2n814-clickr",
+  "sha256": "0sykp4aaxjf8xcyiqyqs6967f0fna8ahjqi7ij5z79fd530sxz2s",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

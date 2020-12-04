@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/cl-model-languages/cl-sat.glucose.git",
+  "rev": "ba7a9915212bed81a7eb336868cc3bc807a6c8fd",
+  "date": "2019-08-09T01:15:24-04:00",
+  "path": "/nix/store/5r37npisw8b65sk7gpwq7g2r142mrw6a-cl-sat.glucose",
+  "sha256": "0pszh9nkg6g2sq5kfkmav6xg74rrjap2k1da9skrq4wb39ppdlg3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

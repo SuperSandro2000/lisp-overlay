@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/vancan1ty/simple-routes.git",
+  "rev": "6f88c38945a4de73e85786d3499c39cacb400598",
+  "date": "2017-04-28T03:44:39+00:00",
+  "path": "/nix/store/2pd9zwz1j5abqps05bjbfqxxdpyhhzyy-simple-routes",
+  "sha256": "0zkjl69zf1ynmqmvwccdbip3wxfyi7xplivv70qwxzd27mc0kh3k",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

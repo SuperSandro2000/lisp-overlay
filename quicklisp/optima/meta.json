@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/m2ym/optima.git",
+  "rev": "373b245b928c1a5cce91a6cb5bfe5dd77eb36195",
+  "date": "2015-06-29T05:07:03+09:00",
+  "path": "/nix/store/ichm2l9nmqwgjf2j01f791b7ba74h4md-optima",
+  "sha256": "1yw4ymq7ms89342kkvb3aqxgv0w38m9kd8ikdqxxzyybnkjhndal",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

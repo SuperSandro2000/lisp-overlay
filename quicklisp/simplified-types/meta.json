@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/marcoheisig/simplified-types.git",
+  "rev": "8fd0727a70a9de76289ac62c1567b8d278e7434e",
+  "date": "2019-07-20T19:06:18+02:00",
+  "path": "/nix/store/3za587wc948azfqjmzi9k40v58cm09p3-simplified-types",
+  "sha256": "1hdwmn5lz717aj6qdqmfmr3cbjl8l3giwn0fb5ca9pj83cx7fg8y",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

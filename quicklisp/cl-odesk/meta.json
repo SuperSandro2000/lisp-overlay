@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/dym/cl-odesk.git",
+  "rev": "d408c55addabe1a08de9cf60aad374a9b7bf8e62",
+  "date": "2015-06-08T10:19:12+03:00",
+  "path": "/nix/store/ifh45ckqzk0zlxmfk47fncj9sda6kvyn-cl-odesk",
+  "sha256": "1j5pjq4aw83m1in0l7ljn7jq4ixckg91p4h0lwf420xks3lhi4ka",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

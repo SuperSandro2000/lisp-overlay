@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/zodmaner/trivial-mmap.git",
+  "rev": "635795cba46b70188aba26d436ad0c5f59d4807b",
+  "date": "2018-05-25T01:05:29+07:00",
+  "path": "/nix/store/z52jgnhh2xrifmas9fry77k1qw3hmslk-trivial-mmap",
+  "sha256": "0h5fjs5rxn55xn72r9jr3g75zpkm5apnkqcr89dyhj86jvwcsl2j",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

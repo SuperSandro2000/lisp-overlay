@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/trivial-main-thread.git",
+  "rev": "25f114973bb69eb63e01d0bbfead31f8e682846a",
+  "date": "2019-06-22T10:05:37+02:00",
+  "path": "/nix/store/s171bxn1in1b0qmr9xx9gj12fpra010v-trivial-main-thread",
+  "sha256": "0bw1887i7396lqg75qvmgjfzz4xbiq9w5dp8wxdgrcsm0qwlraw7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

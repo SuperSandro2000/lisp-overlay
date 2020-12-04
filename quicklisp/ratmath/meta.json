@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jesseoff/ratmath.git",
+  "rev": "3e3d74d70cfdeab198d566521d0fc09b92cc151c",
+  "date": "2020-01-25T08:47:30-07:00",
+  "path": "/nix/store/r996l3xjpm7q04apbx3g2rz49znlp7a2-ratmath",
+  "sha256": "1p5rl1bam8qjsgscn7gwk2w55hdjawfgjikka59lwb6ia13v4rj9",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

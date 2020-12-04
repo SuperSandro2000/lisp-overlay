@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/clss.git",
+  "rev": "2a8e8615ab55870d4ca01928f3ed3bbeb4e75c8d",
+  "date": "2019-10-23T15:31:30+02:00",
+  "path": "/nix/store/p9z3bxj6n97m5qqzkcqxiqw79jlcb02b-clss",
+  "sha256": "0la4dbcda78x29szanylccrsljqrn9d1mhh569sqkyp44ni5fv91",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

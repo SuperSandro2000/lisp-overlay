@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/phoe/trivial-package-local-nicknames.git",
+  "rev": "a0b9e1e5454feba3140496da7453e8f68843f52e",
+  "date": "2020-04-27T15:18:09+02:00",
+  "path": "/nix/store/xipcp7figmjhzag4h7bhzqa3qb00l6j9-trivial-package-local-nicknames",
+  "sha256": "0ygkd7agl003y9vdzir1ksmi1aps4chvzwhbfvz7agn5c07g8h98",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/soemraws/parse-float.git",
+  "rev": "3074765101e41222b6b624a66aaf1e6416379f9c",
+  "date": "2020-01-09T03:39:05+01:00",
+  "path": "/nix/store/n8g3i0km3pkfdfkd7b0sgisxvq2ks5l2-parse-float",
+  "sha256": "0jd2spawc3v8vzqf8ky4cngl45jm65fhkrdf20mf6dcbn3mzpkmr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

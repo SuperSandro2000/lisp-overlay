@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mv2devnul/taglib.git",
+  "rev": "7ba5488cf391c6208309277e421a212436593242",
+  "date": "2013-12-24T11:36:36-06:00",
+  "path": "/nix/store/44bf6yym220ppzj170gk3hj24pqcxzwr-taglib",
+  "sha256": "19ksjpfwlf8nyrigm7khqzkka0fm6pyp2b4pc0xkq1dnzrz50lyb",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

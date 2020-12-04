@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/resttime/cl-liballegro.git",
+  "rev": "89c7b058b3674dd5d5681ef8ce322767124e2a01",
+  "date": "2020-10-20T17:22:31-05:00",
+  "path": "/nix/store/9l5w0rl25qpcxj3wk1m889nvkyq7dhpw-cl-liballegro",
+  "sha256": "1kp73k2ifkxyp6ljlyyxpnsjxd7l0r64yd12693ch0xrr9d7n4nm",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

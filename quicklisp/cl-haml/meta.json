@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Unspeakable/cl-haml.git",
+  "rev": "ce9199b2ff8fd5e8a9e68a55139e39b0680475c3",
+  "date": "2017-06-09T11:57:52+09:00",
+  "path": "/nix/store/yf5m7vjxdmzsvi1c2ndqmgyxsliqbh8z-cl-haml",
+  "sha256": "017qr3509ha2680h3c8ip5rqyfaz7v9hfjmx0pg1wrjqw8vyjyb5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/hargettp/hh-web.git",
+  "rev": "d877398493196adffbd5d3e31fc1eaa60f331b36",
+  "date": "2014-10-15T07:31:05-04:00",
+  "path": "/nix/store/fa0g9wk4h4w4pwmzwk3ar2vr9yfhfx36-hh-web",
+  "sha256": "1i3jyifayczm9b7rvw3fafiisxvjq87xd9z0hdf957qc2albsq87",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

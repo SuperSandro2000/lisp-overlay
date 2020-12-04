@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/cungil/xlsx.git",
+  "rev": "a7a9f0ad42a35c9a7673a33731f6e0b9f17b0d84",
+  "date": "2018-05-08T16:03:11+02:00",
+  "path": "/nix/store/ljf2nrg4lbr5mrw838nkh85mrmwdvwm4-xlsx",
+  "sha256": "15vw5zl13jg9b1rla7w2wv6ss93mijrnn9fzsh0fakgvfikqq1n6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

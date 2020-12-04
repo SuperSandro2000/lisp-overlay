@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/yitzchak/trivial-do.git",
+  "rev": "03a1729f1e71bad3ebcf6cf098a0cce52dfa1163",
+  "date": "2020-10-31T20:53:40-04:00",
+  "path": "/nix/store/lih98v1kpjxv8zyc7xlibv5rdwcl5vqr-trivial-do",
+  "sha256": "1ffva79nkicc7wc8c2ic5nayis3b2rk5sxzj74yjkymkjgbpcrgd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

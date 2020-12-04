@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ruricolist/cl-yesql.git",
+  "rev": "08c18b025cb72463695e2e4754838e5dc235fd6e",
+  "date": "2019-12-09T22:43:31-06:00",
+  "path": "/nix/store/vxk9a9mf83qy3v2zn18bdxmkdydlm1xl-cl-yesql",
+  "sha256": "1800nlppln3cgfyikla02ffgx70s9najc09h148p7vfkzwnc6f2j",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

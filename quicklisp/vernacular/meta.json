@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ruricolist/vernacular.git",
+  "rev": "79be179e9ada423b3ec41d2a1ea6f6e0266ed21f",
+  "date": "2020-09-19T11:30:32-05:00",
+  "path": "/nix/store/kykgdxl36afsffxincibhhwvkwyajnxl-vernacular",
+  "sha256": "19vzn28hw4is4sgmvzqin18ds89s0pai21vcm0ky10vmfv6wg745",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

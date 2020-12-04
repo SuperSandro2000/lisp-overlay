@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/fix9/cl-fix.git",
+  "rev": "083bd85ebdc5d2497a35330393e2ff2cfc8ea644",
+  "date": "2020-09-03T15:33:59+10:00",
+  "path": "/nix/store/aa1v7s7xkvqmf49lwvg60314ny2gwpiv-cl-fix",
+  "sha256": "1dw528f98py1m61xgxb8a8qr9qv4l1vra4fb60l26dzbcfdl4wbg",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

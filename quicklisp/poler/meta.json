@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/carrotflakes/poler.git",
+  "rev": "977adf4502ddddd7055d4ebea2f8f76f1b252f12",
+  "date": "2018-11-04T05:04:20+09:00",
+  "path": "/nix/store/jhk7mz72p6ndxq6bil4ydr1111y8wlkm-poler",
+  "sha256": "1lcyjxmz5vm5is1kgxqjvpkllywvbsj6wqx5v2ac0py5vqws1l8z",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

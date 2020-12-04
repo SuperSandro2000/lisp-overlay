@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Lautaro-Garcia/cl-aubio.git",
+  "rev": "07e6eed2ed15a1143b82e4940335b2eb0bfec90b",
+  "date": "2020-04-23T21:26:48-03:00",
+  "path": "/nix/store/dk8825w4pnxx235mgzz23njb12siq92n-cl-aubio",
+  "sha256": "1xyflxy46z4487dbnizhv058y2mdka9iyikl097m60w42blidpn3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

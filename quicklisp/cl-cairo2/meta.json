@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/rpav/cl-cairo2.git",
+  "rev": "41ae45aac86553c46f4bb460f80e1fb620930f5b",
+  "date": "2016-04-25T08:45:38-05:00",
+  "path": "/nix/store/6wb706115n6p60j601zmzkkz88d0drcv-cl-cairo2",
+  "sha256": "0cpfgyxw6pz7y033dlya8c4vjmkpw127zdq3a9xclp9q8jbdlb7q",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

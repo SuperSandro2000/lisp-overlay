@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/heegaiximephoomeeghahyaiseekh/recursive-restart.git",
+  "rev": "29d846cefa802973049425ed961f73581d2361e4",
+  "date": "2016-10-02T23:51:09-04:00",
+  "path": "/nix/store/iqpdf7zyfzm87m669yv5ag078aarm97l-recursive-restart",
+  "sha256": "0lgw95bnzw99avrb7vcg02fbw3y5mazfgnkim8gsazfjliaj21m7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

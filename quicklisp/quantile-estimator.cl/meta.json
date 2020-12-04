@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/deadtrickster/quantile-estimator.cl.git",
+  "rev": "c9e2955c4577b7fedbc7255e44ea5dcf0e744d59",
+  "date": "2016-07-05T15:17:50+03:00",
+  "path": "/nix/store/95m43gzgbbkzyd4gxrpdh416a4ilfw9l-quantile-estimator.cl",
+  "sha256": "1rrazbl0gbsymynlxp7ild6wvwp6csmdig4hwrp3wjvqhdl8j3mj",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

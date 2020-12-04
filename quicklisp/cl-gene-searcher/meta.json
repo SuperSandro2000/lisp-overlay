@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/TheDarkTrumpet/cl-gene-searcher.git",
+  "rev": "6cfdeac895a10cd8b710c9793440ed24c355a3a5",
+  "date": "2011-08-16T15:04:01-05:00",
+  "path": "/nix/store/dcy5zi20jv8p64c8lp8m6lf5fa5yg728-cl-gene-searcher",
+  "sha256": "0n8p6yk600h7m050bjxazmcxdrcfrkcklrcj8ncflyshm72qv1yk",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

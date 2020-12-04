@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/wemeetagain/path-string.git",
+  "rev": "6ce9b61f7fe38826bc9c1aab7a73e60033e1ccd3",
+  "date": "2016-07-25T12:21:41-05:00",
+  "path": "/nix/store/vvvl1f30f391w88p5rqswn8c0ifw289r-path-string",
+  "sha256": "0hs36kf4njxafxrngs1m1sh9c7b9wv7sa8n316dq4icx3kf3v6yp",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

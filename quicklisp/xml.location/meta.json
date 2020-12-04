@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/scymtym/xml.location.git",
+  "rev": "3828f44d51003d8954ba027feade7d30e53c06af",
+  "date": "2020-02-21T18:33:40+01:00",
+  "path": "/nix/store/8nfi51rdfxd452rbjwbspqldjr2k5x9k-xml.location",
+  "sha256": "0ajl03k7krns6b0z3ykmngq3i77yd2j85z3h76drlc9whxvm2kii",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

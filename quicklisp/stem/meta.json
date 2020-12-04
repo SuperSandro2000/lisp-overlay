@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/hanshuebner/stem.git",
+  "rev": "901e859bdc2b8cc5d8e91dbaca8909e6db05fa84",
+  "date": "2015-06-01T14:33:10+02:00",
+  "path": "/nix/store/7fjblkza0ca8vq7l2h035fiwwvkv5nqi-stem",
+  "sha256": "0a2kr09c3qcwg16n8rm15qgy5p9l6z4m72jray0846hqbnji77mp",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

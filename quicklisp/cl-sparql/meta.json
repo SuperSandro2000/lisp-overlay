@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mmontone/cl-sparql.git",
+  "rev": "1f52ef71330d8f4da665a254b419070ae2dc38fa",
+  "date": "2020-04-19T10:48:48-03:00",
+  "path": "/nix/store/vz67iw5vg0lrkrk65gxyhiiclani6k4j-cl-sparql",
+  "sha256": "0sa7j8j0978j0qg3fdhd31a4yifk4nsdjyfdqjsii3b7r8d4fm5y",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

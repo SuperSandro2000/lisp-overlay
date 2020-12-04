@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/alexandria/alexandria.git",
+  "rev": "f35e232ceb2ada8d10e7fdf27ccac07f781eea0e",
+  "date": "2020-08-21T18:45:02+02:00",
+  "path": "/nix/store/i2q58n77b6zla1yvd3lgvm6qdrxhk07d-alexandria",
+  "sha256": "0bcqs0z9xlqgjz43qzgq9i07vdlnjllpm1wwa37wpkg0w975r712",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

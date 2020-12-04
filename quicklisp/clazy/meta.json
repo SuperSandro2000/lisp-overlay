@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/clazy/clazy.git",
+  "rev": "1939add876366d1d815bde81d6364e3bf0109d50",
+  "date": "2020-01-06T18:13:31+02:00",
+  "path": "/nix/store/n9hnkd1hnq1pbvrzm48m62z5rk4mpw8b-clazy",
+  "sha256": "0ffslixkjxqlpydi98z5qgj13252mv6qp0qwlarw2gcj998awmp4",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

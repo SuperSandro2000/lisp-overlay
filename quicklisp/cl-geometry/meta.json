@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/vydd/cl-geometry.git",
+  "rev": "24eddedc47b931cec27361752736ef0b54fc9984",
+  "date": "2016-05-29T15:14:29+02:00",
+  "path": "/nix/store/7nr1wjp3rpfy7qknahairq4nq0wxphdz-cl-geometry",
+  "sha256": "188xrd8plvc34gz7q01zmkdrzxbpwzln103l5dl78pa4a6vzz34h",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/privet-kitty/wild-package-inferred-system.git",
+  "rev": "6aacfba5c52a84def8e0609ebf828aa2a0ee07cc",
+  "date": "2020-02-29T17:22:58+09:00",
+  "path": "/nix/store/i77fsdpl580jhzzar2i5kvsgp5yzn5in-wild-package-inferred-system",
+  "sha256": "16zr5x93a21m0i8drw94a0s9yb8sjj2ghrdc3z1vsy0v3ql8xdds",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/tkych/quicksearch.git",
+  "rev": "fb02ecf7c876ec580ab18c7d2c8c7814c06af599",
+  "date": "2014-04-13T12:14:22+09:00",
+  "path": "/nix/store/2b3ld6sdpg0yn5h63x8rbv6gn3f3s8gc-quicksearch",
+  "sha256": "16k19zjkhh7r64vjq371k5jwjs7cdfjz83flh561n4h4v1z89fps",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

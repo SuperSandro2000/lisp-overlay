@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/eadmund/cl-sxml.git",
+  "rev": "e5542b1d9bd6cee03ae27547d00660ccfbb60109",
+  "date": "2020-02-24T22:33:04-05:00",
+  "path": "/nix/store/nkdilixpl3v527qqwrcbq07zra31ivbl-cl-sxml",
+  "sha256": "1105s9whidq1lf0lli2wdhcfcs5gwzxa0h1x3izx4mp2p7psvciz",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

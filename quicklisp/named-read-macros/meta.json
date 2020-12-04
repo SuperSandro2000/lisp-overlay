@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/williamyaoh/named-read-macros.git",
+  "rev": "6af7e8bb9217d31bae8cb11730915e213334bcbb",
+  "date": "2017-02-02T16:48:27-06:00",
+  "path": "/nix/store/9ffngchxky79l65rrkar4k51rs12ma3i-named-read-macros",
+  "sha256": "01vyqjn660wz0rcqm9v8npf9shpsila2yg4w35dvzjwwxn471zlv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

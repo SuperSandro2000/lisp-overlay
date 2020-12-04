@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/varjagg/cl-ntp-client.git",
+  "rev": "71e80c1884ab5b2bc0f25834b3b00757474e4047",
+  "date": "2019-05-31T15:50:37+02:00",
+  "path": "/nix/store/jb7jfw90gxsksj94z0bfiii3xzxvi58a-cl-ntp-client",
+  "sha256": "0jnfk055nhjyc6kjnjz5hv4zqcci0n4cs8zhnld4b321ifnhjsi1",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

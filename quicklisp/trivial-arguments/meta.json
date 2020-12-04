@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/trivial-arguments.git",
+  "rev": "ecd84ed9cf9ef8f1e873d7409e6bd04979372aa7",
+  "date": "2020-07-31T17:41:11+02:00",
+  "path": "/nix/store/mwyycb6i8ysk12s913czamfc9q9xgkb9-trivial-arguments",
+  "sha256": "02vaqfavhj8jqxnr68nnzvzshm8jbgcy6m9lvyv4daa6f7ihqf88",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

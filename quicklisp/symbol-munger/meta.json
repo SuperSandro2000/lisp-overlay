@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/AccelerationNet/symbol-munger.git",
+  "rev": "97598d4c3c53fd5da72ab78908fbd5d8c7a13416",
+  "date": "2015-03-05T16:16:04-05:00",
+  "path": "/nix/store/hklva15sl1wwwqmswlm9vdi8i9mg6262-symbol-munger",
+  "sha256": "0y8jywjy0ldyhp7bxf16fdvdd2qgqnd7nlhlqfpfnzxcqk4xy1km",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gigamonkey/manifest.git",
+  "rev": "f8a09e2105c26848e639d623325d2f44a1c2def3",
+  "date": "2012-01-27T13:48:08-08:00",
+  "path": "/nix/store/8nzqgimqr31qvz0fkcz0w7wyhwdv64v0-manifest",
+  "sha256": "0dswslnskskdbsln6vi7w8cbypw001d81xaxkfn4g7m15m9pzkgf",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

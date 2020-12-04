@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/death/leveldb.git",
+  "rev": "66970cf05a4138cf9e57846cdb9b2cfcd67aab80",
+  "date": "2016-05-30T16:38:33+03:00",
+  "path": "/nix/store/wza213izxvx6s8air0wyhl3fzaz4fwl8-leveldb",
+  "sha256": "03i4qr3g8ga2vpc8qbnipan3i7y4809i036wppkkixcsbckslckv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

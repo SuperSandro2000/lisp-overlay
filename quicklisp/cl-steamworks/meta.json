@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/shinmera/cl-steamworks.git",
+  "rev": "47302cda36ac4169baa2803d05c362fec881449d",
+  "date": "2020-11-19T09:58:54+01:00",
+  "path": "/nix/store/bj2l7vg1b2sb2x6nwcg7qyicpc9i72cw-cl-steamworks",
+  "sha256": "1gg8825mppf08qalpwpkym3qgibhpkir8256l7z9qqdzxadf11fn",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

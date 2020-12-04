@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/hargettp/cl-base32.git",
+  "rev": "8cdee06fab397f7b0a19583b57e7f0c98405be85",
+  "date": "2013-04-18T20:07:12-04:00",
+  "path": "/nix/store/87pcvrb78j994fdnn14g66sg870hzklq-cl-base32",
+  "sha256": "17jrng8jb05d64ggyd11hp308c2fl5drvf9g175blgrkkl8l4mf8",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

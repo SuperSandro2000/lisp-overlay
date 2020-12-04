@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/ediethelm/trivial-object-lock.git",
+  "rev": "3f15427cd824f9086467be088b333b5fad4ee82d",
+  "date": "2019-08-18T14:39:04+02:00",
+  "path": "/nix/store/1i8xykgkrgx3m39a39v8b1afyan4w5i0-trivial-object-lock",
+  "sha256": "0ms4rlgc84hz34kqjayf8yd8n0hg8q7mrr1zcl1amma2gr81ys3g",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

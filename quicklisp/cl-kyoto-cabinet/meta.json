@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/kraison/cl-kyoto-cabinet.git",
+  "rev": "28cde23185cf786f2953990446c8e0aaf107a6fe",
+  "date": "2019-11-20T18:13:46-08:00",
+  "path": "/nix/store/jm48vcgnvmfdn0w3brh7r687glzgildn-cl-kyoto-cabinet",
+  "sha256": "0ayp87ggayaf8d1dblpv90a87fmgh9vhhcah3ch6jvcw6zzb9lcr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

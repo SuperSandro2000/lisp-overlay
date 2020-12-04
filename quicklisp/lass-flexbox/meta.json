@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/eudoxia0/lass-flexbox.git",
+  "rev": "f83cc14661cb6122dd7d49b8236188ffaadeaf97",
+  "date": "2016-01-18T23:16:26-03:00",
+  "path": "/nix/store/fq4x276i6061laacq23aq5i8gi2f2rys-lass-flexbox",
+  "sha256": "143rkff1ybi3b07qyzndxxndp7j4nw1biyp51rkl0yvsk85kj1jp",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

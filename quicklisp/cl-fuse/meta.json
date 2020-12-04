@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fb08af68/cl-fuse.git",
+  "rev": "da34d98511824eb45156975c98fd17ba498f4363",
+  "date": "2020-07-26T17:21:45+02:00",
+  "path": "/nix/store/081hj1lm4pir66qfifx73mv7hcaanamd-cl-fuse",
+  "sha256": "1qxvf8ybn0v1hiaz11k1h47y0dksj8ah9v8jdfrjp9ad1rrrnxqs",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

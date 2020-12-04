@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/marcoheisig/ucons.git",
+  "rev": "00a49444c55f96fd435400da58716e43af0a9eec",
+  "date": "2020-10-10T18:14:32+02:00",
+  "path": "/nix/store/aqd051zpfxiynr59m81a8rknwfphkc9v-ucons",
+  "sha256": "14g1khbl4mld6849plbhnvzgzimvsvc8r3ixyx813b05cpi4ibhk",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

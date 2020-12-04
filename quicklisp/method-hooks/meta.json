@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Gnuxie/method-hooks.git",
+  "rev": "4b0ce800092580ca074fe7cc222cdf479d4eb1ae",
+  "date": "2020-07-24T16:49:02+01:00",
+  "path": "/nix/store/rv6xawm32vr5haxpn2zld9vn9qsgb8z2-method-hooks",
+  "sha256": "0kzijk02wjzms3hihmn6n6p9r6awkrsqlkghf6ixzf6400fiy212",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

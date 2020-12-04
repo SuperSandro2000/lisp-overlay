@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/joaotavora/sly.git",
+  "rev": "68561f1b7b66fa0240766ece836bb04da31ea17d",
+  "date": "2020-11-25T19:07:01+00:00",
+  "path": "/nix/store/kz4ybd6dfgzf61m5wyngi1wynr7a9mmw-sly",
+  "sha256": "1xwx537dhgclngi6b0faf320i8pnac9309wvmk6z2g6dm3v652ds",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

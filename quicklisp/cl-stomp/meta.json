@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/cl-stomp/cl-stomp.git",
+  "rev": "18c7279793241613bcfd742b22b960199c31141b",
+  "date": "2020-09-05T19:43:04-04:00",
+  "path": "/nix/store/4x1srd8j91mrnrix9aaax0ar0cscfy5k-cl-stomp",
+  "sha256": "180y0x53ghsvz6n0bz67aw69p962bsslarikk89rf41kcv998xvw",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

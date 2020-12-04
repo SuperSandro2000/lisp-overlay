@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/trivial-benchmark.git",
+  "rev": "42d76733dd2e873471c6f1e27d39113293f7dd5c",
+  "date": "2019-10-15T13:20:57+02:00",
+  "path": "/nix/store/rsmkq5illaagha26fb4gk324ax07vyzc-trivial-benchmark",
+  "sha256": "0fbzqbpm2ixz85555krl36kbbbjyn699vdj6k383khi3g9y629fa",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

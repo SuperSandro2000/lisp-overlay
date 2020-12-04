@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/numcl/numcl.git",
+  "rev": "3e8d40bf774e070e7af1d3dbf01bc8c37dbebd3a",
+  "date": "2020-06-10T21:04:03-04:00",
+  "path": "/nix/store/ms7p1wnvl55y2rxjfcc0chix71zaqdb2-numcl",
+  "sha256": "1hqpr68f6xkxaj1hjjayyh97wcdmj51k20qrd3nsv1rcpmdc5ll4",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

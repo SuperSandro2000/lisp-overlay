@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jl2/utm.git",
+  "rev": "82d2684c0de721bc5d0b5b41c137ff77d312e2f5",
+  "date": "2020-02-09T20:39:09-07:00",
+  "path": "/nix/store/lp4n24mx440ag07bd0zkc0c8m8r3brxr-utm",
+  "sha256": "1a5dp5fls26ppc6fnvd941nfvk2qs72grl0a3pycq7vzw6580v01",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/inters/geneva.git",
+  "rev": "126d330aec6c3b1cba212387888c738bf7196dec",
+  "date": "2016-11-06T02:33:32+01:00",
+  "path": "/nix/store/q9ndv7aipvi27r6g9s66fi8d2lij6vcp-geneva",
+  "sha256": "1pw18xkbndqssx6iix8a8zcw8bgjh88jxxxrklkgkghk04bmqxw3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

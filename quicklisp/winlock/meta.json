@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ruricolist/winlock.git",
+  "rev": "675e138790ecebf911e47e921d1be6c3229a72b5",
+  "date": "2019-10-17T19:34:35-05:00",
+  "path": "/nix/store/gqsg1y05712wi6sqb98c234kqxjch8yw-winlock",
+  "sha256": "0sgjq1cjbmshnh2zwyqws7rkr93zkjl0rrzyf04542gb1grj0vd8",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Symbolics/select.git",
+  "rev": "1c7d6124657a827ec484d56c8e65ed8d76eb8d86",
+  "date": "2019-10-03T09:10:10+08:00",
+  "path": "/nix/store/68i80khs1hjpykdkaaqychcjsdnrzaax-select",
+  "sha256": "0xzd07amw4v2ppiz88cdcrqdgqfkg16qi3i240gnkyp3i9pa5wmr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

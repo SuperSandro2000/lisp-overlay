@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/lispgames/mathkit.git",
+  "rev": "fd884f94b36ef5e9bc19459ad0b3cda6303d2a2a",
+  "date": "2016-01-29T17:15:53-06:00",
+  "path": "/nix/store/hb09f61c8jcyvi5b9nv6w8s1i15nsf91-mathkit",
+  "sha256": "174y6ndmf52h8sml87qjfl48llmynvdizzk2h0mr85zbaysx73i3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

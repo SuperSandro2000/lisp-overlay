@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/chirp.git",
+  "rev": "6cf360851fee71e8acbfbb1788ce7704a44a1831",
+  "date": "2020-10-10T21:02:40+02:00",
+  "path": "/nix/store/x16qncfz8k6b1v89h4r5541j59sp2n99-chirp",
+  "sha256": "1gkwg55zf9vm5yga4hh79n4n96am9pzdmgka5gaf3xyrwkbil8hr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

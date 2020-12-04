@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/varjagg/also-alsa.git",
+  "rev": "1af1be64a974cbd2ca15dc70a7efa97a0dd9aa40",
+  "date": "2020-01-11T18:04:59+01:00",
+  "path": "/nix/store/s8kqwglh1lzflygx8mi7jbrryfjjy6yj-also-alsa",
+  "sha256": "1l375qwp310w5wkby91zqgz1gnfr7mlwbv3jshg1ifval2q98i09",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

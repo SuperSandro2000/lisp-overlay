@@ -1,0 +1,10 @@
+{
+  "url": "http://wukix.com/dist/wu-decimal.git",
+  "rev": "5b348bdb32a0f83e80e17aa68cd51787ae8c8a45",
+  "date": "2012-12-05T12:29:05-08:00",
+  "path": "/nix/store/vvnj3a05d2a7016fc42v1mylfg4c1kjk-wu-decimal",
+  "sha256": "1p7na4hic7297amwm4idfwkyx664ny8cdssncyra37pmv4wzp8dm",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/arielnetworks/cl-pattern.git",
+  "rev": "4717b690d21a3388bec3a4a271d2dcb7cdb561ce",
+  "date": "2011-09-30T07:22:10+09:00",
+  "path": "/nix/store/dd9ngara2p33xq1xfz7snbdl2w58s1z0-cl-pattern",
+  "sha256": "0kc1yynn1ysa7bcaazhi1pq8l3hj3jq6p835kh5di7g1imrfkrny",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

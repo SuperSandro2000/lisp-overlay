@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/macdavid313/cl-libhoedown.git",
+  "rev": "7d9767690f83215e3c09089e60f622c34777f1bd",
+  "date": "2016-10-07T18:24:07+08:00",
+  "path": "/nix/store/7p0ib4hnmv9kr4h052bkszddbc4576kz-cl-libhoedown",
+  "sha256": "1bm8iganj8533m5y46zjvai1fb0dw32hdfx22jjp5k31kyv9d42c",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

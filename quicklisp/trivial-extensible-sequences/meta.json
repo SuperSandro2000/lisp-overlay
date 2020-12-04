@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/shinmera/trivial-extensible-sequences.git",
+  "rev": "5a16c2b43f91d9590638ab6ff4b07ada453a9865",
+  "date": "2020-03-13T09:17:54+01:00",
+  "path": "/nix/store/dvj88cm6r01q2q4wfymyl5m9xiab9m90-trivial-extensible-sequences",
+  "sha256": "1sq9d37msnamakd306j11sib8w8hxsy4byqngn36wiipx6a394f4",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

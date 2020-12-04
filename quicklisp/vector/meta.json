@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/elbeno/vector.git",
+  "rev": "924ab188358afe2c320513ad351862e417cc08a1",
+  "date": "2012-11-24T17:31:21-08:00",
+  "path": "/nix/store/iq0c494xk4dim9v99hwrcrwwmjzlmdyz-vector",
+  "sha256": "04czvqycn9j2hzbjmrp9fgqlgns5l7vbb73dgv3zqmiwzdb66qr5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

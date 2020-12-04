@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/nlamirault/climon.git",
+  "rev": "380f6be22d1369b5454a4c68c0b9c7b730d42499",
+  "date": "2015-10-14T09:36:11+02:00",
+  "path": "/nix/store/2h8q6fy3n7rqwhgdhlvp8x3a8z4x1l9b-climon",
+  "sha256": "1xsizr3rnz52xrc18kqkn49iagqywf9ag1xjb4mrwv9yl7iz1xm1",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

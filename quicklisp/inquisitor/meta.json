@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/t-sin/inquisitor.git",
+  "rev": "423fa9bdd4a68a6ae517b18406d81491409ccae8",
+  "date": "2019-03-16T21:40:33+09:00",
+  "path": "/nix/store/ygdyd3wa055szhvcvyj1r5msx024y7aa-inquisitor",
+  "sha256": "08rkmqnwlq6v84wcz9yp31j5lxrsy33kv3dh7n3ccsg4kc54slzw",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/moderninterpreters/clsql-local-time.git",
+  "rev": "3a6d1f93cbe1549edc3ece63ed473d1dbd31c241",
+  "date": "2020-10-04T13:31:52-07:00",
+  "path": "/nix/store/c2z218hd6ab1nvplx22j9kgzxlwsbz0v-clsql-local-time",
+  "sha256": "1ipv6ij1md5mw44cbif31hiccrric3302rhssj8f7kg3s8n6mphv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

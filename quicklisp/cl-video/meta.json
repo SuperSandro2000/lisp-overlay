@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/varjagg/cl-video.git",
+  "rev": "eb5fbea3592b74cdb0458b7bcdeb70f0423a8183",
+  "date": "2017-04-08T17:16:00+02:00",
+  "path": "/nix/store/hkghn6vmlrdvmrn7im9gzgxkx8rlp5i4-cl-video",
+  "sha256": "1azldcp6r0j1kw6rczicmnv4m0d7rq4m5axz48ny6r2qybha80lr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

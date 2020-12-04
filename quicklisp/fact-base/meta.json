@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/inaimathi/fact-base.git",
+  "rev": "fb7e2996b61ee1974084a3c4d84569cc2b91e5ca",
+  "date": "2018-02-19T19:31:35-05:00",
+  "path": "/nix/store/2y4fxdds1af7g8xgcm4m0mqn95zkiyfv-fact-base",
+  "sha256": "14i0vqqxszabhas0z9dfxhvnbsxl4iic77m4i76w7iznmrcma2ar",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

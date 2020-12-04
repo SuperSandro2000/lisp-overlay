@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/a0-prw/simple-currency.git",
+  "rev": "4619dc6e03db5d8aeb42bba9313393bfd5b03f52",
+  "date": "2017-11-12T12:33:39+01:00",
+  "path": "/nix/store/qrkzhsygp22f2pb9ymljq3ixi35axrrr-simple-currency",
+  "sha256": "1qrxaj5v25165vyjp2fmasasjri2cn53y6ckv3rlv04skifvnq2s",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

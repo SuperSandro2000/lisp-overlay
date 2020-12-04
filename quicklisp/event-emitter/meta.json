@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/event-emitter.git",
+  "rev": "cb0e15f9de4c617cef3f5d5a22a41e28f9613d0b",
+  "date": "2018-12-07T16:56:49+09:00",
+  "path": "/nix/store/bnajqf4fw496zzh0c9wf9gndzcxzl2ig-event-emitter",
+  "sha256": "1i18xzfr6334db9dzj0lsl7wxw1r1l0ixvn883mjbyqw0czp21h6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

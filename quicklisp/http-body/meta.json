@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/http-body.git",
+  "rev": "3e4bedd6a9d9bc4e1dc0a45e5b55360ae30fd388",
+  "date": "2019-08-11T14:04:41+09:00",
+  "path": "/nix/store/7zyv37fpbfvh89wjzisncadrwd10qq46-http-body",
+  "sha256": "0kcg43l5674drzid9cj938q0ki5z25glx296rl239dm7yfmxlzz2",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

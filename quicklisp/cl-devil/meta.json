@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/zkat/cl-devil.git",
+  "rev": "0e326c6c911299883852ebf2e33d48f8680f995d",
+  "date": "2013-06-23T09:09:55-07:00",
+  "path": "/nix/store/jdfrdd093z1cbarmjc6g3n22d2r3b6hc-cl-devil",
+  "sha256": "1qdjb7xwzjkv99s8q0834lfdq4ch5j2ymrmqsvwzhg47ys17pvvf",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

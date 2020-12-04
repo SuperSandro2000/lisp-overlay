@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/orivej/defmemo.git",
+  "rev": "4b9a772f844c2b52be43555d95d0cc86b8c6201b",
+  "date": "2012-03-18T18:53:38+04:00",
+  "path": "/nix/store/mj2bzykn0m4y5k26ra9bhqd4sg3cx3c2-defmemo",
+  "sha256": "0rkvnjfb6fajzfzislz6z372bqpkj6wfbf0sxmzhhigni4wnil27",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

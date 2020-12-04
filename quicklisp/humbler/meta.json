@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/humbler.git",
+  "rev": "eef324b6a2aecb164fc29af0dce2fe9ee09f0ba4",
+  "date": "2019-06-22T09:29:00+02:00",
+  "path": "/nix/store/3bllx0382icp95b6h8840l3q9mdzf1xr-humbler",
+  "sha256": "0s7li33q3ww1ka76v6pdjv5pnvwgs695wj9ciijy9cqxxp2x8vx0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

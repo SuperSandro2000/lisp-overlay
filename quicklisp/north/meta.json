@@ -1,0 +1,10 @@
+{
+  "url": "http://github.com/Shinmera/north.git",
+  "rev": "b34fe49d7f8eb34644b0957bd3f6d4a4ede35bd6",
+  "date": "2019-06-22T09:42:15+02:00",
+  "path": "/nix/store/748jg7w9976fb3pkymfbyg8rz8kh2djc-north",
+  "sha256": "15vli4jhzp32p3iwssiwkg3vdmfjx9c7lvpsmvpzgv3qdjal6hnz",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

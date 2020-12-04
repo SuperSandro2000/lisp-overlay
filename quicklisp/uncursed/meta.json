@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Plisp/uncursed.git",
+  "rev": "44977566fd549e73396c2f137e4cb3ef0d0d7fc2",
+  "date": "2020-08-19T18:10:07+10:00",
+  "path": "/nix/store/q3s7jjibizi1j07zxhh7x5kdh7fpykdd-uncursed",
+  "sha256": "0h4whs442221pafkhvww9fa29pa1ll1jbv1yihnh9mrj494pfgvd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

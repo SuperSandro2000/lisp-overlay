@@ -1,0 +1,10 @@
+{
+  "url": "http://github.com/Shinmera/random-state.git",
+  "rev": "c270d4f15e0b66ba9680ca8734a5de56959cb118",
+  "date": "2020-07-21T10:31:42+02:00",
+  "path": "/nix/store/q3vlf8r95pzfry6q3yvwhvv8jvlij1aw-random-state",
+  "sha256": "0r3bk6hqpr0qmpza93pknl8wpsd6y0yy9qg7vz751a7gzzww9vj6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

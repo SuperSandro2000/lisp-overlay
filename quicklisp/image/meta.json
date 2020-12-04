@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/kevinlynx/image.git",
+  "rev": "d989c560edaca4f6c704c2131672d46efee9eefd",
+  "date": "2011-12-16T09:42:54+08:00",
+  "path": "/nix/store/ljphpq1nl3q1rkms36z2j1hbclksvpx0-image",
+  "sha256": "04by1snzw2kpw208fdi2azxbq5y2q2r6x8zkdh7jk43amkr18f5k",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/pcostanza/closer-mop.git",
+  "rev": "02a9edd54689d1c617e539cec572ba0dbe2cddf9",
+  "date": "2020-12-03T17:23:31+01:00",
+  "path": "/nix/store/pwgv5c3h9hs3mjyvdm32jr9zjv5vlm41-closer-mop",
+  "sha256": "1bd08xbj0jvpz5g6xqnqxx1sxvxxk70hf9911g33jgd3flah0v0y",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

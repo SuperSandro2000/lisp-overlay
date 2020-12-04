@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/pkhuong/Napa-FFT3.git",
+  "rev": "f2d9614c7167da327c9ceebefb04ff6eae2d2236",
+  "date": "2015-11-15T20:17:37-05:00",
+  "path": "/nix/store/mhxmc6v4w77yz5cz0qfamgv2d74nf72k-Napa-FFT3",
+  "sha256": "1hxjf599xgwm28gbryy7q96j9ys6hfszmv0qxpr5698hxnhknscp",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

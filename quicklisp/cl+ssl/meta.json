@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/cl-plus-ssl/cl-plus-ssl.git",
+  "rev": "ff4634a2addedc033394e93a402523532e9b470a",
+  "date": "2020-06-09T19:49:50+03:00",
+  "path": "/nix/store/7wv4zzkzcgffaawzp4z4gzi0nysp3c86-cl-plus-ssl",
+  "sha256": "068wxy516zh47yy02zrzswsw1zy6b703myslwz0ln527w9bhmgw3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

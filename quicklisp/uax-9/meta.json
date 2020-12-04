@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/shinmera/uax-9.git",
+  "rev": "1bd98c75b601f025c9d7fc2930f2f79db5d17831",
+  "date": "2019-09-17T13:26:28+02:00",
+  "path": "/nix/store/z06na242sg8j1n24bvbnya6lsk3jlhzx-uax-9",
+  "sha256": "0z9wfvrs5xpqw059igqdlhrvg1g87bvsxyvgwrx59dvr16v6f0h7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

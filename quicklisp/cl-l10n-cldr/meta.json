@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/cl-l10n/cl-l10n-cldr.git",
+  "rev": "6a3a5b97afd0caa891d3c90bf5f71c337f717c70",
+  "date": "2010-10-30T23:56:41+00:00",
+  "path": "/nix/store/50lp035wzlws5m71phc0678brkdwcl4n-cl-l10n-cldr",
+  "sha256": "1mwkjdc51158v9rpdpsc1qzqqs0x8hb9k1k7b0pm8q7dp9rrb53v",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

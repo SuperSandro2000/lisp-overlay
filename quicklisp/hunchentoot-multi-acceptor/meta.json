@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/moderninterpreters/hunchentoot-multi-acceptor.git",
+  "rev": "57ac3476e8b078023d5301ac01d68a18ce35c81f",
+  "date": "2020-09-18T15:41:36-07:00",
+  "path": "/nix/store/4l1aqq1rnk206cz6y6i1anv99fbpcsax-hunchentoot-multi-acceptor",
+  "sha256": "1il3f7c886n0rnx8y6x5lxahc567cg02ffvdmymcfwla3a26imp6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

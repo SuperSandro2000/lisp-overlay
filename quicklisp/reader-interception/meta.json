@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/frideau/reader-interception.git",
+  "rev": "0a56d857735d4bb47141ae6f861c08f71c7f8c45",
+  "date": "2015-05-26T20:43:41-04:00",
+  "path": "/nix/store/a013rll7gp08bxppbs96772k63jvjqwg-reader-interception",
+  "sha256": "1f6xblayqb9q01qclvqx2gllqxm0qk8rmlp38rz433vgjxbq79y0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

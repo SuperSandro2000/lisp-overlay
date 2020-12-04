@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/dherring/able.git",
+  "rev": "8e199825cde6bdfb1002d0871b109cfbf7e2f2e9",
+  "date": "2017-12-10T11:31:26-05:00",
+  "path": "/nix/store/5dgf3v7wr6q37g3v4by4hag9jb1yh6nl-able",
+  "sha256": "1fbcmr6hy7bwlnsnrml3j4b2jkkj8ddxw27l8hr2z6l3fi3qw4hh",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

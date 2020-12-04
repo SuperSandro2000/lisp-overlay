@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/cl-unification/cl-unification.git",
+  "rev": "01079f34d197495880aa49ab727d63774d83035c",
+  "date": "2020-08-20T14:21:21+03:00",
+  "path": "/nix/store/90sdclqkhqy5805ysmg0p4rk6xvq81z5-cl-unification",
+  "sha256": "0nhqamn3qgg38i6aw2pshffdwr2hzslycg8ficmn333gw0h9rf4g",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

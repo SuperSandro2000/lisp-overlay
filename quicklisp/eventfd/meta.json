@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/deadtrickster/eventfd.git",
+  "rev": "e0fb1073fa4181ec8a53ee719b1576297b72a894",
+  "date": "2017-10-25T16:42:23+03:00",
+  "path": "/nix/store/5jyj8k7g1k25lbgbbxi18jmkbm5ddhnc-eventfd",
+  "sha256": "1zwg043vqzk665k9dxgxhik20wgkl204anjna94zg6037m33vdiw",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

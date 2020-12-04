@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/keithj/cl-prolog.git",
+  "rev": "d55870e57a90db4112e78c08de8fab6cc4c1099e",
+  "date": "2009-10-13T22:24:07+01:00",
+  "path": "/nix/store/ck82s3h0b7vyn1chnq31j7zk5rsg5icg-cl-prolog",
+  "sha256": "1n5ba20rxybvwl2q9d2nq024ln1axn9w39s5rcx6qki4xmc6h3li",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

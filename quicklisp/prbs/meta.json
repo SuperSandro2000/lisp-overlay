@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jlowder/prbs.git",
+  "rev": "5aea2d180230fd0410976e02a29f3f99071ba852",
+  "date": "2017-05-23T15:17:58-06:00",
+  "path": "/nix/store/8z4zbjbs4nwcnm3fr2g1fx7pi8nvdzs9-prbs",
+  "sha256": "0qbvbmxa66b367z9px4nyxqb21b9w2hr82rw7hfq5aynmwfk3fzi",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

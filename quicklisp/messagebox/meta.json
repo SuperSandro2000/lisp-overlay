@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/messagebox.git",
+  "rev": "99afa1268db9d05167925af002bc4b0b475bf3ee",
+  "date": "2020-10-08T20:42:17+02:00",
+  "path": "/nix/store/w4azs9hby00kcqw8a30sdacnw0c31r57-messagebox",
+  "sha256": "1kz4h5nr0af6lgmc4a1j0mbz0a696jnqh7fw84kkgrx7ji2hy8lj",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

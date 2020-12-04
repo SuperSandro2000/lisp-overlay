@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shirakumo/lichat-ldap.git",
+  "rev": "2770e0c3487d58a1639cab038f9dc68adb5a1844",
+  "date": "2019-06-22T10:31:22+02:00",
+  "path": "/nix/store/6lddjh278m0m9708g88n1a8n8h2vfwm1-lichat-ldap",
+  "sha256": "03x60jmgx4s2pkzrgl1j70xrvycfi4yj21nzi64cd0pdprqa88d5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

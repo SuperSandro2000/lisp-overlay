@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/dimitri/cl-abnf.git",
+  "rev": "ba1fbb104dedbdaddb1ef93d2e4da711bd96cd70",
+  "date": "2020-02-29T17:51:12+01:00",
+  "path": "/nix/store/wngiqqn3ygkwwy6fdhvgswd0ydyxbj7s-cl-abnf",
+  "sha256": "0f09nsndxa90acm71zd4qdnp40v705a4sqm04mnv9x76h6dlggmz",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

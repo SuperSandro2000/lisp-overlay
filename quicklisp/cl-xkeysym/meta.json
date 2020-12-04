@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/stumpwm/cl-xkeysym.git",
+  "rev": "8a745d2a79dd7edf33354eeafc5c91fdbab2d30c",
+  "date": "2014-08-27T17:33:59+02:00",
+  "path": "/nix/store/adacjw4rrwlz6hpcby7mhfa4k5kbnhz6-cl-xkeysym",
+  "sha256": "0yxijl6xb5apb6v6qm8g3kfdr90slgg6vsnx4d1ps9z4zhrjlc6c",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

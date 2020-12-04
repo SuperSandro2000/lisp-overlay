@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/quasi/pooler.git",
+  "rev": "d55aaf7d3a8900d7626a2bbdbdd9ea744666e6dc",
+  "date": "2015-06-01T12:45:39+05:30",
+  "path": "/nix/store/dz0ghkfwlwd7kdjy29sxay121p4hv75d-pooler",
+  "sha256": "18vdl06cckk07m7r477qzcz24j3sid1agfa69fp91jna5aqi46kb",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/AccelerationNet/a-cl-logger.git",
+  "rev": "cf2b586e9fae0ae2f11ec132a45d69ff8f82d2d5",
+  "date": "2020-04-14T17:51:58-04:00",
+  "path": "/nix/store/yaj8jxfzdcpgpclkdmcni9kf8h0ixbzb-a-cl-logger",
+  "sha256": "13z21mvqppswcq3wyg7i8085ck03h9vvb064r65v43x2rvjlph6w",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

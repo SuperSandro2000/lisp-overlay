@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/AccelerationNet/css-selectors.git",
+  "rev": "0237bee83b9437aa0b10b6014e29b6b553256cd6",
+  "date": "2016-06-13T10:03:11-04:00",
+  "path": "/nix/store/yc0gla6wbrzhwvqsxd3j42zj7zn76nxp-css-selectors",
+  "sha256": "0x0a5jq4kdw8zrkljmhijcbvjj09iyrwwgryc6kvzl5g7wzg2xr6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

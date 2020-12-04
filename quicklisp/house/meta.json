@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/inaimathi/house.git",
+  "rev": "ba30a381670c681fa722c22c5a03f329d4c67c2e",
+  "date": "2018-03-30T10:32:22-04:00",
+  "path": "/nix/store/lzr1sfqw1d52g99kgqgsaalr2yqfqvc9-house",
+  "sha256": "0aqdfahhn6mz0cwar1rw84553l07dqdkydhniiiphc71pl88iwph",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

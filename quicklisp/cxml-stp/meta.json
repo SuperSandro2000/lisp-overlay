@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/sharplispers/cxml-stp.git",
+  "rev": "4fe6c71c9a96905ef6db3b60c6626fb7845b4dcd",
+  "date": "2020-02-25T10:25:39+01:00",
+  "path": "/nix/store/qr5kqzgvl9v08b2ngsffnfimrcckz4yl-cxml-stp",
+  "sha256": "01yfxxvb144i2mlp06fxx410mf3phxz5qaqvk90pp4dzdl883knv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

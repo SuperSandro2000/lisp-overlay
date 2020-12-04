@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/shamazmazum/jpeg-turbo.git",
+  "rev": "f79c646cc266c107bdace53572a31664754c6e0c",
+  "date": "2020-11-21T10:21:26+03:00",
+  "path": "/nix/store/2qyyl827acbjr8q0rwq719f4sz3vvxp5-jpeg-turbo",
+  "sha256": "1andd1ibbk3224idnpsnrn96flr5d1wm9ja3di57fs04wn577sag",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/universal-config.git",
+  "rev": "956f69fdb4f91d993c09865346e0e6e1c7c662b2",
+  "date": "2018-04-24T22:37:49+02:00",
+  "path": "/nix/store/kb30znqx3jd25vhbyq6snnrckgdyz70b-universal-config",
+  "sha256": "17sjd37jwsi47yhsj9qsnfyhyrlhlxdrxa4szklwjh489hf01hd0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

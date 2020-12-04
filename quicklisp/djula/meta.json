@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mmontone/djula.git",
+  "rev": "20ea8d3db1be905b6f4761539e08f721a6ebd6c5",
+  "date": "2020-10-05T09:37:45-03:00",
+  "path": "/nix/store/yi4pwxrxspy6lmlq7x20rc8lxsbbr4f4-djula",
+  "sha256": "056fkfyjqy545r6an82cnv8ppvyaaj6dfg2rxbqfddc5m6g567vl",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

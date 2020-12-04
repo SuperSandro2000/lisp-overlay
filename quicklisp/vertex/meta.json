@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/CommonDoc/vertex.git",
+  "rev": "5c13132e3b8fea89d463a28f35536ea3a2044d3c",
+  "date": "2015-05-31T19:15:02-03:00",
+  "path": "/nix/store/221aavc5dia7kmrwfrv9p415r08pid4s-vertex",
+  "sha256": "0g3ck1kvp6x9874ffizjz3fsd35a3m4hcr2x5gq9fdql680ic4k2",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

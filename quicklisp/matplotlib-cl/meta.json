@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/koji-kojiro/matplotlib-cl.git",
+  "rev": "ccb11c60e38c72dc2cede31e739b526d7d331283",
+  "date": "2017-06-30T19:56:39+09:00",
+  "path": "/nix/store/ykz4lz5gfgjgillya1n0lkiwi3yswf92-matplotlib-cl",
+  "sha256": "0l6bqmx5jn63rdpgfild6a8cz6vmaa5y6cyq92cci9jhqvqdblmw",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

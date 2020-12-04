@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Islam0mar/cl-cxx.git",
+  "rev": "4375539002694d5cb9ae7e656bc5170139065a45",
+  "date": "2020-02-18T14:22:21+02:00",
+  "path": "/nix/store/b2cldlkskswvyfii10w61s138a5wcgq3-cl-cxx",
+  "sha256": "0dhk4yrb7zd3hi43r2bd0g4d8j4qdcwx17qmsf4i2f3ls9c3q46w",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

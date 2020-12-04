@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/tamurashingo/cl-dbi-connection-pool.git",
+  "rev": "911550db9f330f0ed37346a21f47c438041b4cad",
+  "date": "2020-05-18T22:38:43+09:00",
+  "path": "/nix/store/j4sx3dw2d3jrql249vr5xcc4gbvvbnw2-cl-dbi-connection-pool",
+  "sha256": "1w63rad1ws78kp5kmsbx99lwzxd0ybchqq1686g0h8wiakkl82b3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

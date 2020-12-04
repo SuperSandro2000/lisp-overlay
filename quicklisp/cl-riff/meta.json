@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/RobBlackwell/cl-riff.git",
+  "rev": "2d1191c236095fd5a86daeb61a7fc4d4eee95f04",
+  "date": "2018-01-10T17:36:45+00:00",
+  "path": "/nix/store/86m01r4jiapqszrlmpmb0crrs39f38yy-cl-riff",
+  "sha256": "0iz4xr8s7dx1kc8y4jmq932xdmhqi0cns308narvp158nyazygf0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

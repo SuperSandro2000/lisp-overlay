@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/rpav/cl-freetype2.git",
+  "rev": "96058da730b4812df916c1f4ee18c99b3b15a3de",
+  "date": "2019-08-14T09:31:03-05:00",
+  "path": "/nix/store/1fkagss947kvzgis93426cwqflp0ahn9-cl-freetype2",
+  "sha256": "0f8darhairgxnb5bzqcny7nh7ss3471bdzix5rzcyiwdbr5kymjl",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

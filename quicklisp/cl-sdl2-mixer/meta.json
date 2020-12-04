@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/lispgames/cl-sdl2-mixer.git",
+  "rev": "34b5e5de82dbb02a60db9e5160d1d5a832ac025b",
+  "date": "2020-11-17T05:54:26-05:00",
+  "path": "/nix/store/ryp4c9m9wsyc1lx8dii7dnwrfdc6d8m2-cl-sdl2-mixer",
+  "sha256": "1c9lz1666i296j3s9misgzzcv2971m3b5s080vl2ixsjnqdpxih8",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

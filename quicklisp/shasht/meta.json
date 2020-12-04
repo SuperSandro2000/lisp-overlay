@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/yitzchak/shasht.git",
+  "rev": "712c20922a92f90127ce6a8d615d1b88ea901fe8",
+  "date": "2020-09-26T19:25:05-04:00",
+  "path": "/nix/store/igragmnb9c7bcsqw8b0gkshfa6mc3kkz-shasht",
+  "sha256": "0mrpj4y2kjqvs5p7pibrv555zg3fh7mwic7gcjgn1kby8pcg9qz6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/yitzchak/cl-indentify.git",
+  "rev": "eb770f434defa4cd41d84bca822428dfd0dbac53",
+  "date": "2020-08-06T10:48:14-04:00",
+  "path": "/nix/store/whsi5qzmqcax626v7rqdh8ixs9mfx6sz-cl-indentify",
+  "sha256": "0ha36bhg474vr76vfhr13szc8cfdj1ickg92k1icz791bqaqg67p",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

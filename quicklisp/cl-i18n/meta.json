@@ -1,0 +1,10 @@
+{
+  "url": "https://notabug.org/cage/cl-i18n.git",
+  "rev": "fa0aa5bef8dfbdf2d72f7cc9f49e848ccbb567aa",
+  "date": "2020-07-04T11:41:23+02:00",
+  "path": "/nix/store/5yvw8c2i3lyy7fll10ivbjyv99bd6kxh-cl-i18n",
+  "sha256": "1hpsdbb3hd79bzbrnbqgk2j3f0ispxvk91snp08fm2z3f1sds5as",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

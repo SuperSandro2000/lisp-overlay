@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/rove.git",
+  "rev": "bbc7b8e3e300266b44780fc926aee2962e649392",
+  "date": "2020-02-25T17:23:56+09:00",
+  "path": "/nix/store/z0ksyb6jnfvmr70smcv0c2qzsyn44ls3-rove",
+  "sha256": "1mdwy8h98fynp2s8xbig3yk1s00d5lgiq3sm2wd7v5w6janjiyi9",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

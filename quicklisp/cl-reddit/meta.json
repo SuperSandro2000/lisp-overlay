@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jperson/cl-reddit.git",
+  "rev": "c78d2a5854cddfd9b72ffebb51c9253c242b4f5e",
+  "date": "2019-03-27T15:04:33-07:00",
+  "path": "/nix/store/8qpzli4i7kprcrvclj78kcbkm9zswcli-cl-reddit",
+  "sha256": "1fbgx43m88di36wdrfs09f5d48hj6x4z3n5ib098swpm80dq2sqv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

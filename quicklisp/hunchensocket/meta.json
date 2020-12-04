@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/capitaomorte/hunchensocket.git",
+  "rev": "ec8a28ab0182b9127ba61ad8ced01a9a7a44e2aa",
+  "date": "2018-05-25T14:08:41+01:00",
+  "path": "/nix/store/csn4d5hcvsvy9xrvhs0drs3dp2mgfr66-hunchensocket",
+  "sha256": "156xwwqywscipg1n0q4f252haw4aylw3i45fgza912kl5kiihxdd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

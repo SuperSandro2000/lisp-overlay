@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/guicho271828/type-i.git",
+  "rev": "d34440ab4ebf5a46a58deccb35950b15670e3667",
+  "date": "2019-12-03T11:39:30-05:00",
+  "path": "/nix/store/057sh6675rnkyk88hng5z9b2w6a4pjxx-type-i",
+  "sha256": "12wsga0pwjkkr176lnjwkmmlm3ccp0n310sjj9h20lk53iyd0z69",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

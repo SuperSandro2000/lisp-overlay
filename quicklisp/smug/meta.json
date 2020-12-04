@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/drewc/smug.git",
+  "rev": "3da612307e6b56b1d8d17b0a57e6fda6ca6522c5",
+  "date": "2016-04-20T18:05:43-07:00",
+  "path": "/nix/store/g93dff0qm72lzklp9ar9w8vm2d31b0bc-smug",
+  "sha256": "0x916gldzfcv1qpfnngw0fnz393zykgwqw08a3r3c25gnm24cwzl",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/massung/heap.git",
+  "rev": "a94bdead57c28bda05abcc1d2c68b5c1e666f0a9",
+  "date": "2015-09-29T20:31:15-05:00",
+  "path": "/nix/store/k13kxflx9j2njxy6hha4w1gnb9p32h3h-heap",
+  "sha256": "0jkgazjnjip7y41zd8rpy89ymh75yimk1q24qbddcisq5rzdl52k",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

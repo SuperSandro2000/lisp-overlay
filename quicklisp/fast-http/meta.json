@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/fast-http.git",
+  "rev": "502a37715dcb8544cc8528b78143a942de662c5a",
+  "date": "2019-09-11T02:31:50+09:00",
+  "path": "/nix/store/38f2rbl46nmwqlfcp85h4a9vjxfqsyci-fast-http",
+  "sha256": "0al2g7g219jjljsf7b23pbilpgacxy5as5gs2nqf76b5qni396mi",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

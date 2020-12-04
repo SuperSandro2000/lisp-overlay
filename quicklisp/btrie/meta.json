@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/peterhil/btrie.git",
+  "rev": "50e933c77b45f45506c86ca9530f3cac952388b9",
+  "date": "2014-07-11T19:01:32+03:00",
+  "path": "/nix/store/rzv5y702q2r1rry8m4chrylbfqpizf8n-btrie",
+  "sha256": "0f1rs2zlpi2bcyba951h3cnyz2mfsxr2i6icmqbam5acqjdrmp30",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

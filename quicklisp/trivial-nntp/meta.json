@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/stacksmith/trivial-nntp.git",
+  "rev": "a394b2861c9053cd0240c9bf43dd72850297bc6d",
+  "date": "2016-12-02T11:40:55-08:00",
+  "path": "/nix/store/a56baqywd8bjxfi7db87m6sb1m2j4k44-trivial-nntp",
+  "sha256": "0ywwrjx4vaz117zaxqhk2b4xrb75cw1ac5xir9zhvgzkyl6wf867",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

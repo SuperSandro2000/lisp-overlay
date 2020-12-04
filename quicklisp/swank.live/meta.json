@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/cbaggers/swank.live.git",
+  "rev": "3133ca3332e4529a1c6cf8bf924aa9d256a4980a",
+  "date": "2016-02-04T21:34:43+01:00",
+  "path": "/nix/store/bxc20rb1rvaczgwx2787d1f7ri1spmqw-swank.live",
+  "sha256": "0p7jyf07symfan6lmbhd3r42kf5vrsbmmh9li0n1kky8rd6fhgls",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

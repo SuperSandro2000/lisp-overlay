@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/trivial-gray-streams/trivial-gray-streams.git",
+  "rev": "8e6a1a0d3e46bb8cc1acd17902bada80b715f5ef",
+  "date": "2020-07-31T23:41:20+03:00",
+  "path": "/nix/store/xwgrg2y44n069ls83by37xslnhiswmyq-trivial-gray-streams",
+  "sha256": "0phrj658vfvv639mvffjkhh1v4snzq16cimri84y8zjsbz06gx44",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/zkat/sheeple.git",
+  "rev": "7e4f27e57d5c1ef6925c164cbe788874a99da0cb",
+  "date": "2020-07-31T09:07:06+03:00",
+  "path": "/nix/store/avi974jfn51fj3xy92s1ipxfca5y8ldb-sheeple",
+  "sha256": "08ghjmz6r1pz3pr747s6pxsshcy7zbrxf9sf96rcs7ba4skchags",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

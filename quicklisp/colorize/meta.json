@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/redline6561/colorize.git",
+  "rev": "ea676b584e0899cec82f21a9e6871172fe3c0eb5",
+  "date": "2017-05-04T14:14:24-04:00",
+  "path": "/nix/store/s9jxw592jklbh9z136gsjzg9sr8bnyiv-colorize",
+  "sha256": "1pdg4kiaczmr3ivffhirp7m3lbr1q27rn7dhaay0vwghmi31zcw9",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

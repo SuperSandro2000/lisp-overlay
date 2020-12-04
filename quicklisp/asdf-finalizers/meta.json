@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/asdf/asdf-finalizers.git",
+  "rev": "7f537f6c598b662ae987c6acc268dd27c25977e0",
+  "date": "2017-03-27T01:20:19-04:00",
+  "path": "/nix/store/z0lj0sd2h9hw0w9aid84s5sb6i2kbh9w-asdf-finalizers",
+  "sha256": "1w56c9yjjydjshsgqxz57qlp2v3r4ilbisnsgiqphvxnhvd41y0v",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

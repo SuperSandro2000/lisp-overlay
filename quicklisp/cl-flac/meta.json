@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shirakumo/cl-flac.git",
+  "rev": "d094d33d3cc2cf263263b917798d338eded3c532",
+  "date": "2019-06-22T10:29:58+02:00",
+  "path": "/nix/store/bsn4hnsgwcpwkpimjw8mr9pz5brpmz5c-cl-flac",
+  "sha256": "1dgr5xqf175hzq3sxpbixxia2k2g3rz0pn6msch4dnvk7a1naqlc",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

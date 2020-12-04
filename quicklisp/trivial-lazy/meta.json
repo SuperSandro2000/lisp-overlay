@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/dsorokin/trivial-lazy.git",
+  "rev": "b5f75bdbb3cd8f8e4b55ceee64a8db2d554194aa",
+  "date": "2015-06-20T12:41:10+03:00",
+  "path": "/nix/store/affsrb7i87rpf064rd3say4zxw52r3ms-trivial-lazy",
+  "sha256": "0fnsz2kdb0v5cz4xl5a2c1szcif7jmnkxhbzvk6lrhzjccgyhjc7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

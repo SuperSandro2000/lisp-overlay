@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/40ants/cl-hamcrest.git",
+  "rev": "7073de82c0e19b816d26aef4604d3b70f2ae58db",
+  "date": "2020-06-13T18:16:17+03:00",
+  "path": "/nix/store/lm4qs900yqycpma9yvn3jl7b4d16fnps-cl-hamcrest",
+  "sha256": "17ip7b1apcl6y3hcndfd01p5iq6hc49qa4px1krvj6xh9vyf3m82",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

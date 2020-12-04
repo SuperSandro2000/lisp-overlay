@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/CommonDoc/pandocl.git",
+  "rev": "f05f493eb7de6303fb97365383016c64d7add348",
+  "date": "2015-05-29T23:46:47-03:00",
+  "path": "/nix/store/79k9sz701w6vfqs254qw8ywijzl4n76x-pandocl",
+  "sha256": "1fmlpx5m7ivdkqss1fa3xqbpcwzqrpyyx2nny12aqxn8f13vpvmg",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

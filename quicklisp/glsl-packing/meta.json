@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/3b/glsl-packing.git",
+  "rev": "03628159468a8e5b7f2a1d5e78b77053e136794a",
+  "date": "2017-10-06T13:25:24-05:00",
+  "path": "/nix/store/gwi1y18zcj7xxwf8zqxg0bqmgxwv7x1p-glsl-packing",
+  "sha256": "0k2f1771wd9kdrcasldy1r00k5bdgi9fd07in52zmjggc0i7dd80",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

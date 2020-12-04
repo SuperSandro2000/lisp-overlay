@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/m2ym/cl-syntax",
+  "rev": "03f0c329bbd55b8622c37161e6278366525e2ccc",
+  "date": "2015-03-15T22:20:43+09:00",
+  "path": "/nix/store/g3r6ykgq5b9r4z9a2swc92ny6p43y9d6-cl-syntax",
+  "sha256": "17ran8xp77asagl31xv8w819wafh6whwfc9p6dgx22ca537gyl4y",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

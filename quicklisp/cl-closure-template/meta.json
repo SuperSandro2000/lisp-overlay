@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/archimag/cl-closure-template.git",
+  "rev": "f1983aa525045691e128027d2a2d74831c873d6e",
+  "date": "2015-07-26T22:31:51+03:00",
+  "path": "/nix/store/hhc16a39gig5b4bd0a9dygpvi8ahjgzn-cl-closure-template",
+  "sha256": "16h0fs6bjjd4n9pbkwcprpgyj26vsw2akk3q08m7xmsmqi05dppv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

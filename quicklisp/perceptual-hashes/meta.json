@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/shamazmazum/perceptual-hashes.git",
+  "rev": "8e4ea4417413d0a5cf56732380f1b9fd84ee4aa8",
+  "date": "2020-11-27T17:44:51+03:00",
+  "path": "/nix/store/8nqhh61xc2g3hj5j66mxcmlc450zdv8f-perceptual-hashes",
+  "sha256": "1zvikzs6cg0kgfp57by1wiyv783y51466iqqqbssdf3hwqzwcj29",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

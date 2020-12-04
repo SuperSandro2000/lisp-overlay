@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/bese/qbook.git",
+  "rev": "ed43925b7bcd632d1045d9b8171396165d5aa99f",
+  "date": "2013-02-18T14:31:05+00:00",
+  "path": "/nix/store/p5vgkk29b2ip9h2rrpwfn3zb8r0230aa-qbook",
+  "sha256": "0l5hc2v73416jpwc2nsnj03z85fisirgm4av2anvlpv5m1291p6g",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

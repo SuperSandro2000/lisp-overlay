@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/antimer/lmdb.git",
+  "rev": "2e60d31559a6b1d7241e64e22c8e291216f12477",
+  "date": "2020-10-18T13:52:26+11:00",
+  "path": "/nix/store/8flrdh42fxh5ynajsv26dzhwy3xppxyr-lmdb",
+  "sha256": "1iqhprn1a03y9jxnv7lr5kkvmk7xazw00g1p8bs502d60f0zpr02",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

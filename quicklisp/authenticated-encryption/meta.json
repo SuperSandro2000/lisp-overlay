@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/kkazuo/authenticated-encryption.git",
+  "rev": "fe67a206f98c93d171e8f1ead0036a54f60dd4f3",
+  "date": "2018-09-05T23:29:12+09:00",
+  "path": "/nix/store/vz3fjpm6bmpfd7jvgjgnnbskwg815za1-authenticated-encryption",
+  "sha256": "0cvl4g0g59z5dicg7q3f9hhqshz2m0a6l2fzic75c3yv28q8m2vr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

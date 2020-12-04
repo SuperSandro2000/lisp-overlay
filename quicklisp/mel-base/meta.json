@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/neonsquare/mel-base.git",
+  "rev": "7edc8fb94f30d29637bae0831c55825b0021e0f8",
+  "date": "2017-05-02T09:20:51+02:00",
+  "path": "/nix/store/x0887a5jhlhg8w21k0hslzlzxz8qglib-mel-base",
+  "sha256": "1dvhmlkxasww3kb7xnwqlmdvi31w2awjrbkgk5d0hsfzqmyhhjh0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

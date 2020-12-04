@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/3b/3b-hdr.git",
+  "rev": "b16fb6a7cffc9fada0ffa6a3c4cb292a7db9f202",
+  "date": "2020-09-13T15:16:38-05:00",
+  "path": "/nix/store/q2jiy3pxn1hi7sx82fhif1f81nywkj0s-3b-hdr",
+  "sha256": "0bvpdzz88xjwvqapjnkdr44ds3gh5xl3r6r1c2y7x9d6lnvc38jq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

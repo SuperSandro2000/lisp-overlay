@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shirakumo/lichat-ws-server.git",
+  "rev": "3879006bfb2893e6deedb7e51fa487fa581ab917",
+  "date": "2019-06-22T10:22:05+02:00",
+  "path": "/nix/store/qb9zsc8ladqrfkpps250b4cqfpyr19wm-lichat-ws-server",
+  "sha256": "10c4ccwvbz569ngfgmc68mg6jd9b26wv2nfh7cl4sqfmqzxnadg3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

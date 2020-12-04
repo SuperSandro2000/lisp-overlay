@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/safety-params.git",
+  "rev": "13e30916dfce130a6b35c22cd7969a9cba20a8f0",
+  "date": "2019-01-18T18:03:35+09:00",
+  "path": "/nix/store/8kr22m2cbzfx2kkwywqg9s92bc821n2w-safety-params",
+  "sha256": "1y69b9aw3vsnsk0vdjyxw011j0lgc5gdwv6ay6vzfipa9gzi92ki",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mmontone/duologue.git",
+  "rev": "f0b5c9180ad07c46879699d3f24612b0d4a19eb4",
+  "date": "2015-04-02T12:01:22-03:00",
+  "path": "/nix/store/rcb320bmkj0zz8h278a74y5zw1aiclk0-duologue",
+  "sha256": "1jpsx9gkcy3h57nv16hkdakyfvdw17h5k0yqzdqrib1zyrp0x0g9",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

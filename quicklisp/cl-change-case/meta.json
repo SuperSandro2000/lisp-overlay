@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/rudolfochrist/cl-change-case.git",
+  "rev": "5ceff2a5f8bd845b6cb510c6364176b27a238fd3",
+  "date": "2019-08-27T11:46:08+02:00",
+  "path": "/nix/store/n7w2wx3kjngzhjlqr7ab96p27431jmd5-cl-change-case",
+  "sha256": "1afyglglk9z3yg8gylcl301bl2r8vq3sllyznzj9s5xi5gs6qyf2",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

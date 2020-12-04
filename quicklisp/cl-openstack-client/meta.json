@@ -1,0 +1,10 @@
+{
+  "url": "https://opendev.org/x/cl-openstack-client.git",
+  "rev": "7065f810e22ed9b460acf3c373d8a5170d458b75",
+  "date": "2019-04-19T19:50:07+00:00",
+  "path": "/nix/store/5bgqfwcb0w60qs4drf8ml1j2zkwshvj4-cl-openstack-client",
+  "sha256": "1sak75i82vn3acg7bxx8vjbw2y35wbq1vkh1yqhs68ksnph6d097",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

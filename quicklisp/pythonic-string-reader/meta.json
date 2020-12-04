@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/smithzvk/pythonic-string-reader.git",
+  "rev": "47a70ba1e32362e03dad6ef8e6f36180b560f86a",
+  "date": "2018-06-17T17:43:08-05:00",
+  "path": "/nix/store/h35avdyd39p5asyrrllyadyf2kpxmza4-pythonic-string-reader",
+  "sha256": "1b5iryqw8xsh36swckmz8rrngmc39k92si33fgy5pml3n9l5rq3j",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

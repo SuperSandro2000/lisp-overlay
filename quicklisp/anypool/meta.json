@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/anypool.git",
+  "rev": "0d3976606d1bba0038640faa94bbc03522bb5691",
+  "date": "2020-08-26T10:43:28+09:00",
+  "path": "/nix/store/l8ajjq5zvk10762pp7b57s1xgmf771hc-anypool",
+  "sha256": "1b1q937jc44jx2f6v6wvks9ndihi2x3w5339dys4wjdy0mskgb9p",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

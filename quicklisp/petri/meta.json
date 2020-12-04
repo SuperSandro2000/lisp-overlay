@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/phoe/petri.git",
+  "rev": "08e3a925d629e82bb2151acbecbf52d3b8be105f",
+  "date": "2020-04-13T14:12:05+02:00",
+  "path": "/nix/store/9fb5w4il1gk9591qiz7b2qg25i3qm2qv-petri",
+  "sha256": "1y78s3jndyxll46zq7s5is9pwv8f6jr2npjkcpd48ik7xkj2269b",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/mp3-duration.git",
+  "rev": "4093c3fe3f33594319c0181a884fcb411cfb7de7",
+  "date": "2016-01-06T02:34:57+09:00",
+  "path": "/nix/store/si3wyvjgz52jag44la6zdjqnpppjbiq7-mp3-duration",
+  "sha256": "1mhn9g1kz2yan178m2adg0pz3dx2nmg7hq4gfmfz7lrlsxm08bs7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gwkkwg/trivial-timeout.git",
+  "rev": "feb869357f40f5e109570fb40abad215fb370c6c",
+  "date": "2013-02-24T12:44:08-05:00",
+  "path": "/nix/store/jma0qvhvamvani7mpl22j3i2mf2iy2ba-trivial-timeout",
+  "sha256": "1kninxwvvih9nhh7a9y8lfgi7pdr76675y1clw4ss17vz8fbim5p",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/stacksmith/trivial-rfc-1123.git",
+  "rev": "3462e0f881c9a25858eee6db6cd3773eccda5ce9",
+  "date": "2016-12-19T19:05:39-08:00",
+  "path": "/nix/store/4rh9j2gy6w6s9cn61wp8hdzsjzvaxan6-trivial-rfc-1123",
+  "sha256": "0xm5a95xkfbpm5ndndk7ah1nnx2y22l6dx0i29pikxf7vhvncydy",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

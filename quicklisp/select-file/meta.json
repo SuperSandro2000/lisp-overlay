@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/tapioco71/select-file.git",
+  "rev": "a98b6bc17d1feb17bbcd91d183b21c0b68f165e0",
+  "date": "2020-03-27T14:25:52+00:00",
+  "path": "/nix/store/6czb1hb20ksszi6nf2561lw4qdkmszwl-select-file",
+  "sha256": "1v89k5vvn1a3gdhlwbb4wxggzzr1ic7iqzvrrxgsh90fr129rmzq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

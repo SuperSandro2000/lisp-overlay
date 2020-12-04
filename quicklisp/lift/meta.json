@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gwkkwg/lift",
+  "rev": "2594160d6ca3a77d8750110dfa63214256aab852",
+  "date": "2019-03-26T10:58:07-04:00",
+  "path": "/nix/store/q854bm7c8w8xvpfpq398ri7n9gmbqygg-lift",
+  "sha256": "01xvz9sl5l5lai4h9dabmcjnm659wf5zllaxqbs55lffskp6jwq3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/slyrus/hunchentoot-auth.git",
+  "rev": "7c2492e947afc65452c43ac78966a76f0192641f",
+  "date": "2014-01-08T08:27:39-08:00",
+  "path": "/nix/store/yvkzlm46fkc0ddjkc2i2lrq43rk1cz25-hunchentoot-auth",
+  "sha256": "1bc70lh2jvk6gqmhczgv0indxk6j5whxbh7gylrlbv16041sdkbj",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

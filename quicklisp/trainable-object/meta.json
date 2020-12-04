@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/guicho271828/trainable-object.git",
+  "rev": "49821f30a72bdf1b1102555cfc65268279ded928",
+  "date": "2019-12-22T23:44:39-05:00",
+  "path": "/nix/store/vkvkashlvd9zpga5q49d6npv3268n2ha-trainable-object",
+  "sha256": "06hfv039xx5vwm3qpm4kwlzlxc4zxlfcpxnbbq8x12a32ngqykwm",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

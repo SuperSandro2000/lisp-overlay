@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/soemraws/pack.git",
+  "rev": "e5ee0c6817ad10b81b81e6b723e3552228d8cd89",
+  "date": "2011-05-14T23:17:45+02:00",
+  "path": "/nix/store/ypqmiwwm1kxcgh09v7pfwspqk59ysmvy-pack",
+  "sha256": "1b3qi04v1wj9nig0mx591sl4phqcalwdl0vsnf4kqp4d2qx2czi1",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

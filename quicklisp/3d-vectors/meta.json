@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/3d-vectors.git",
+  "rev": "a49aeb4041e52b9d9b4adffd8baf6575e2508dad",
+  "date": "2020-11-05T09:02:25+01:00",
+  "path": "/nix/store/1jl65kazlmj45sk2fjhc9jy6mwdb6di4-3d-vectors",
+  "sha256": "18dh1wx4ab019dbzghw3yzqria29czjpv5zbrmqv5jnqazhygm7n",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

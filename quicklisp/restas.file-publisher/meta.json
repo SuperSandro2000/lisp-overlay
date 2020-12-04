@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/kevinlynx/restas.file-publisher.git",
+  "rev": "b216df0939aeb8022440a5a147835b8b3fe1f94f",
+  "date": "2011-12-14T22:52:14+08:00",
+  "path": "/nix/store/7i6xj31f82s4b2yjnf8hrbr7jm7hbc9r-restas.file-publisher",
+  "sha256": "12h291as21ziqb1l6p2p4hy429z6zznacp1gn0m2vah7f811q75l",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

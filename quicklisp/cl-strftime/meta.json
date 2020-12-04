@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ruricolist/cl-strftime.git",
+  "rev": "21cb57f2595faa26d687893963f24ec41822b63c",
+  "date": "2016-03-04T17:58:34-06:00",
+  "path": "/nix/store/1n82n3k6irv9q1f9mk03v78017bjzmba-cl-strftime",
+  "sha256": "00c8hq7vzgb89ab3q7mrp60x743kiqmsk1g51ynhxlqhph2bnslf",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

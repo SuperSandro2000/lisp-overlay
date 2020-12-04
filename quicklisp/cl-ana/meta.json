@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ghollisjr/cl-ana.git",
+  "rev": "cb907cead87b9c741517cc7b717e7e6baa98743e",
+  "date": "2020-11-28T17:49:43-05:00",
+  "path": "/nix/store/ndqbmgh7w98kallqc66j95hlc71i6bz0-cl-ana",
+  "sha256": "1a9j0nzjng9d42f3b8fykmpbj9b54vlir88097h8300xhnl2lgbm",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

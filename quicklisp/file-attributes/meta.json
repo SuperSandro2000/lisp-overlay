@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/file-attributes.git",
+  "rev": "2c6fdb08f136d5f9a8d12626ed5b64edc2ae1bb8",
+  "date": "2020-08-03T12:28:44+02:00",
+  "path": "/nix/store/iw22g6psim41glwb4lm8a6sw7ylbvw1q-file-attributes",
+  "sha256": "1vi1h6pd04g41ay3hr76ac89isyz4x864g87r8v9xcl4gizkzwlq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

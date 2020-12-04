@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mbattyani/cl-pdf.git",
+  "rev": "752e337e6d6fc206f09d091a982e7f8e5c404e4e",
+  "date": "2019-09-16T10:42:42-04:00",
+  "path": "/nix/store/w8fznn9kxyzcf3kzhdx8qjkzx2npsqzg-cl-pdf",
+  "sha256": "1cg3k3m3r11ipb8j008y8ipynj97l3xjlpi2knqc9ndmx4r3kb1r",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

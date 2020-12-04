@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/cl-l10n/cl-l10n.git",
+  "rev": "0cf6f4e4a8b419cd435cb8ee042b64bb63ebd8ab",
+  "date": "2016-11-21T17:13:16+00:00",
+  "path": "/nix/store/n8f72jgpyvy76r4fc5rd55bmrsnf15qa-cl-l10n",
+  "sha256": "04hxmq83l2z538kgqij86735n611lm40bmxfq1riayn1k0mrkdfc",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

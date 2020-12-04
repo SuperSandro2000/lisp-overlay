@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/lispy-stuff/clite.git",
+  "rev": "b69ddcf28a5b6efd1c978a5e1d4fc48b5ac85374",
+  "date": "2013-04-29T12:34:18+02:00",
+  "path": "/nix/store/hbcb46vwfcgyav23xnm565c7dy1f3mj9-clite",
+  "sha256": "0q73vzm55i7m6in9i3fwwaqxvwm3pr7mm7gh7qsvfya61248ynrz",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

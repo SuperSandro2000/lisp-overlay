@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/tpapp/latex-table.git",
+  "rev": "bd2d193a2d366ff7b2cc819f585a598edd321176",
+  "date": "2018-03-07T13:53:19+01:00",
+  "path": "/nix/store/lxmh3j2ffq6nx0qq2bjrkwgad3nx2396-latex-table",
+  "sha256": "04qqr62pdi7qs9p74a4a014l6sl6bk6hrlb7b7pknxx5c15xvcgv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

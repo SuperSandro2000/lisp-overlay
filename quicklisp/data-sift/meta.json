@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/archimag/data-sift.git",
+  "rev": "fd617d8200cdcc1b87ecf45ab59bb38e8b16ef7e",
+  "date": "2013-01-20T18:47:27+04:00",
+  "path": "/nix/store/a9ik9p5cs43b1hvjmy3bikr9nzxzr4z9-data-sift",
+  "sha256": "1v7gf0x4ibjzp0c56n9m77hxdgwcm9356zlk5n4l3fx4i0hj6146",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

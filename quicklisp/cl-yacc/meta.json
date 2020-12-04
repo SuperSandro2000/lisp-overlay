@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jech/cl-yacc.git",
+  "rev": "1334f5469251ffb3f8738a682dc8ee646cb26635",
+  "date": "2009-01-03T22:39:05+01:00",
+  "path": "/nix/store/5fxb3khrfvcgadg8pps0sfna9jvp5yrj-cl-yacc",
+  "sha256": "16946pzf8vvadnyfayvj8rbh4zjzw90h0azz2qk1mxrvhh5wklib",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

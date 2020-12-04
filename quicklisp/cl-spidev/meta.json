@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/cl-spidev.git",
+  "rev": "369e7a98a22881cfbbdf5c85c646cbf9572b255a",
+  "date": "2019-06-22T10:46:00+02:00",
+  "path": "/nix/store/nk45cq8m3zpql2vz9s5wq4i9pgs7zyhb-cl-spidev",
+  "sha256": "1kif1ygpm7z7bymg86h305171vnp5jsqyq4dz8h3fbi1rzjnqfcy",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

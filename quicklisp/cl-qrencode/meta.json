@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jnjcc/cl-qrencode.git",
+  "rev": "0de2d8a3877b499a9a0bbb0a9e1247056ae4311e",
+  "date": "2019-08-28T16:46:02+08:00",
+  "path": "/nix/store/0wds0399c1n3idz1ricsz9x5vbiqp69n-cl-qrencode",
+  "sha256": "1l5k131dchbf6cj8a8xqa731790p01p3qa1kdy2wa9dawy3ymkxr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

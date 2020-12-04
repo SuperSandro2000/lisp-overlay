@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/trivial-features/trivial-features",
+  "rev": "e7bb968d1e0b00aaf06e0671a866a81dbfe99bee",
+  "date": "2020-07-02T23:57:28+01:00",
+  "path": "/nix/store/9xqjdqfzcp0afvs3nczk6ry0909rpf2v-trivial-features",
+  "sha256": "1iczrsl561fz9f71dzals16749fccznm4jn8nmxnqas1qk7b331k",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

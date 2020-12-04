@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/eudoxia0/lime.git",
+  "rev": "c7a20153fe49da736f252e3c37252ce2c7277831",
+  "date": "2015-11-22T12:39:04-03:00",
+  "path": "/nix/store/hk1yfcdiimrf83nvq9y9anivzf0wj95q-lime",
+  "sha256": "0g8spvpsl2cddn8ldmx90fwgh0gghjsbb3zspa0r9f2k7sb6gcgr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

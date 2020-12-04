@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/nklein/FFT.git",
+  "rev": "5cf6132c49f3868cac4ce20284fbb6c1b4a62ba0",
+  "date": "2015-05-26T13:47:49-05:00",
+  "path": "/nix/store/7yvkfb8hllsq6ky0mjpj4q59ncqmsbp2-FFT",
+  "sha256": "0ymnfplap2cncw49mhq7crapgxphfwsvqdgrcckpgsvw6qsymasd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

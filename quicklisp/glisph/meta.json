@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/tamamu/glisph.git",
+  "rev": "4fdefe9f20a792584623f741cdebb10b00eeca19",
+  "date": "2017-03-14T00:59:09+09:00",
+  "path": "/nix/store/3g606mhfvdvlrh4a2r65bd1x7h7d68wh-glisph",
+  "sha256": "097d6kjk4rndpqn181k9nyr2bps4gf3shq5x2fy1swvks3pvys91",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

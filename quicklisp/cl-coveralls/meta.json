@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/cl-coveralls.git",
+  "rev": "4007adb5478cbb948a9265a1e41403f7444d8f68",
+  "date": "2019-08-20T03:55:26+09:00",
+  "path": "/nix/store/v6dckb088shzksg0pbdfqzxp4h2gxigc-cl-coveralls",
+  "sha256": "004zs90285wq1ycnqfqhbq0cd553hrvwdg0mlx8xj8ybcg0v12c3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

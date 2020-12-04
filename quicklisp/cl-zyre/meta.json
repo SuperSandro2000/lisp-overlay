@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jesseoff/cl-zyre.git",
+  "rev": "34aa160e0780f142773b4e29eec98cf6c1950294",
+  "date": "2020-08-24T08:12:52-07:00",
+  "path": "/nix/store/5wfvg6bkfp3s3x4403rabaa2l7169l3r-cl-zyre",
+  "sha256": "1pfb176k655hxksyrans5j43ridvpkl8q8h6d37zgi2z4iiz15wv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

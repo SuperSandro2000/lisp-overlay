@@ -1,0 +1,10 @@
+{
+  "url": "https://git.theta.eu.org/eta/osmpbf.git",
+  "rev": "98702b136fe21ec280cb09bd51ee1d71938a2065",
+  "date": "2020-06-22T12:03:14+01:00",
+  "path": "/nix/store/ygwqgyirzlzd91k5nhri1n16l76d9d52-osmpbf",
+  "sha256": "1m78nyh4wmwk7i37pl6bybxhlzhgaffgyypiinf49hq2h1r9nbs6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

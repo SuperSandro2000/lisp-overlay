@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/frideau/fare-utils.git",
+  "rev": "66e9c6f1499140bc00ccc22febf2aa528cbb5724",
+  "date": "2017-01-13T09:48:56-05:00",
+  "path": "/nix/store/82vv12n7kk03k42y8fdjwc6sh2mkkkc0-fare-utils",
+  "sha256": "01wsr1aap3jdzhn4hrqjbhsjx6qci9dbd3gh4gayv1p49rbg8aqr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

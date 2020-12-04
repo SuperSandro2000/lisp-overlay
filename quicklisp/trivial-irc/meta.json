@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/karvus/trivial-irc.git",
+  "rev": "7cb6e99e68c5391a31c693fcc65144d74ed4063a",
+  "date": "2017-10-16T16:42:36+02:00",
+  "path": "/nix/store/86a62k0b5axmsmd7wz615i0lk9vpxyq8-trivial-irc",
+  "sha256": "0jjgx6ld2gcr0w0g5k62dr0rl6202ydih6ylmypv6m5jmrarcbza",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

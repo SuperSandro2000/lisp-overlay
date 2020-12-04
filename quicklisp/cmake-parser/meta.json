@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/zbq/cmake-parser.git",
+  "rev": "276b54187af1980c116a0e99d9e41f624fd3361f",
+  "date": "2018-08-11T14:02:49+08:00",
+  "path": "/nix/store/fbwyclyazldddkfqcsb3z16n88h5z68k-cmake-parser",
+  "sha256": "1sb5pwxhg7k41202kvxj1b60c5pxnl0mfbqdz53xayddngn2brgl",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mgi/cl-las.git",
+  "rev": "d5133f1301b7a58910d58581ee140c8d8c91ad2e",
+  "date": "2020-02-14T11:18:43+01:00",
+  "path": "/nix/store/a43ihsar2z4apip42zirrlbckww5z0f6-cl-las",
+  "sha256": "13vmlvbwwqlgl4sl6mbjyln0dpnhch1h3jzh2ah1yks3rzw5pslb",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

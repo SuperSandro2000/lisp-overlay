@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/coleslaw-org/coleslaw.git",
+  "rev": "d1e30f150d694f53c5ba267e3a55694d60541099",
+  "date": "2019-11-24T08:18:31-05:00",
+  "path": "/nix/store/s7k3yvja1ksn89iw83wrrznhaprphbqq-coleslaw",
+  "sha256": "07flahka4m07mlrf1js2viq46a6636vl67yy6zxixh6qca50j8w4",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

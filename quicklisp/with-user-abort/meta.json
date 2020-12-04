@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/theZacAttacks/with-user-abort.git",
+  "rev": "16cc952d95d045b46c958309a4e988895f65d539",
+  "date": "2019-11-04T15:13:55-05:00",
+  "path": "/nix/store/nbi47mcxyx1yp53mwqr123vwnvnqrfc6-with-user-abort",
+  "sha256": "10r90c8ylr16yp6b8gzav66653xwpi9zahig7z18c0kqljy2ighg",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

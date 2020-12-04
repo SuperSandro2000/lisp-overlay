@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/rotatef/aws-sign4.git",
+  "rev": "a191cfb161568a6e2345317b0b444de3a58c2a8e",
+  "date": "2020-10-16T18:47:15+02:00",
+  "path": "/nix/store/zvg1dzf1x0x27i7g3fxy6ncrlrash3h9-aws-sign4",
+  "sha256": "1bwqmy9vlq0ilwhp48y05cdfav9inwv4kai8mjj1a95776xjmjnk",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

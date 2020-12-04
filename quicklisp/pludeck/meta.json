@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jorams/pludeck.git",
+  "rev": "d15712b53edd40cfe87aeb50e9c307f6fa9bc43f",
+  "date": "2018-08-20T22:54:20+02:00",
+  "path": "/nix/store/j14f4cg8p4s9snh9zqay9y4ds35791cj-pludeck",
+  "sha256": "0p6v7fxs48fxr76kvkh6z2mjjyz3vf2rp698jq1fl6p3hihbgl0m",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

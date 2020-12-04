@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/RobBlackwell/cl-azure.git",
+  "rev": "03b097256d85ea09f090987c0c833c61eb7b9b5d",
+  "date": "2016-07-28T16:15:34+01:00",
+  "path": "/nix/store/lqn8mczs90x5r86ppx7z7lxzk2211r6l-cl-azure",
+  "sha256": "19sgzbvgs1f1h3qhx11xhpia2x3n8x729h9fsqkc7fap0ak1h31d",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

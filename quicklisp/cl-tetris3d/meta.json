@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/grouzen/cl-tetris3d.git",
+  "rev": "0abcfca715456589b027aac20b875b00abdd5f18",
+  "date": "2018-10-28T11:37:33+02:00",
+  "path": "/nix/store/3mnkb78yl10s4prkby63hjl0azbjza63-cl-tetris3d",
+  "sha256": "09n7344is2vfbp32cd22ynk14h4vqs4xw3plbhga8q25ghhx5y9p",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

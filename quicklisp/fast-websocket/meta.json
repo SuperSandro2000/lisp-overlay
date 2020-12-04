@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/fast-websocket.git",
+  "rev": "7087d9cf4c3f7da4c68a275ad79eda853ac6f1b9",
+  "date": "2019-08-09T19:51:53+09:00",
+  "path": "/nix/store/gyh7dvcn2awz0rrzg5ax504jhzd904d5-fast-websocket",
+  "sha256": "0hmp9mzz7svl0csh9n2954ddpcbngl87jfv32il2q8kkawiycij7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

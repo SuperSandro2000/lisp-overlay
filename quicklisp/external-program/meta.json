@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/sellout/external-program.git",
+  "rev": "5888b8f1fd3953feeeacecbba4384ddda584a749",
+  "date": "2019-02-07T19:23:53-07:00",
+  "path": "/nix/store/6chs7hb5g20klfl0gx88vmzrn0vxa8cw-external-program",
+  "sha256": "0vww1x3yilb3bjwg6k184vaj4vxyxw4vralhnlm6lk4xac67kc9z",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

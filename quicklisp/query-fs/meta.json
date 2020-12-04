@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fb08af68/query-fs.git",
+  "rev": "f6dd61b2c6c68f05c3217dd67e392d12800612b2",
+  "date": "2020-06-02T00:29:58+02:00",
+  "path": "/nix/store/1fh1l6952fq6ijr6db1spvm8bslwv919-query-fs",
+  "sha256": "1qqvgkfkbrh8rj21sngq7f807r758r4flcwhw6l5nw8f7hf1qrwz",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

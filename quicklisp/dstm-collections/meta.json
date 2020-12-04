@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/danlentz/dstm-collections.git",
+  "rev": "02a67b82b70d3e9393a39c28692efe80bfbe4c2c",
+  "date": "2012-06-14T08:33:55-04:00",
+  "path": "/nix/store/sdsqnfcwpdglyndbnyjqz7q407pcmjs5-dstm-collections",
+  "sha256": "1scyxwlp57b2jpj22z8h706kk8s15xla59398wpx78dpwnsngvz8",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

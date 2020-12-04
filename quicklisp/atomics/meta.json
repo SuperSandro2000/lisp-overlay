@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/shinmera/atomics.git",
+  "rev": "c03d58d80ac871e0a1f5f342b42a4443d2f2ae38",
+  "date": "2020-07-27T12:53:56+02:00",
+  "path": "/nix/store/jlzblk4m8jrfj0cs79vzn57xb8dlpd83-atomics",
+  "sha256": "1dn8ckg6d6h9pr5ai0zg5phal0aqb0x789j3g2cailqczyc11r67",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

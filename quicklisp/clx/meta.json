@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/sharplispers/clx.git",
+  "rev": "8e071554a5531988d21f088953de7b741c2b2980",
+  "date": "2020-07-13T17:21:28+02:00",
+  "path": "/nix/store/sw7m46m2pw2g84vzipsg21fladwj0rd5-clx",
+  "sha256": "050z32b5v9c74fgggpns8qlfkk26bb73v7mlrxpbw55xkv0dhamk",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

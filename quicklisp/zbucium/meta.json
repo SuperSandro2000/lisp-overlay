@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mihaiolteanu/zbucium.git",
+  "rev": "5b0135f5c586088ae40183b0d7661fec5eb47791",
+  "date": "2019-07-02T13:36:42+03:00",
+  "path": "/nix/store/xynw24y8fnlwx3ak0w1sjzx3y8dvw7db-zbucium",
+  "sha256": "112qx8lwcsaipnnypv2jr57lwhlgzb5n53wgck3r66b8vjjb91gy",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

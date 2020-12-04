@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/agrostis/diff-match-patch.git",
+  "rev": "c9cb0734b6956230a4caa6f8f2debdafc0faf73d",
+  "date": "2020-07-22T14:14:23+03:00",
+  "path": "/nix/store/5s29kms0sqdkrbmdknhq4r4j46a921ni-diff-match-patch",
+  "sha256": "00mq7p1qgdlxxsb4ji4cnd2m06b75whn0n4fby68xx7vhl40z4hx",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

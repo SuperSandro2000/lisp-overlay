@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/AlexCharlton/cl-glfw3.git",
+  "rev": "0577f261192e2a84c49cb4a6d71d27346c828a96",
+  "date": "2020-10-26T21:51:06-07:00",
+  "path": "/nix/store/lnq71q50cdg52x709j9psklnwbklcv19-cl-glfw3",
+  "sha256": "1frvq7dxar1zn9h87k9mf3mqwq09kwddfr4fyq0indgbbjnamchm",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

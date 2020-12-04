@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/GrammaTech/trace-db.git",
+  "rev": "fe6250a207722e1b59789de26004ba0ad778ccf2",
+  "date": "2020-10-28T12:55:40-05:00",
+  "path": "/nix/store/mjdxy2152y892b1m1bj835483js8iaqd-trace-db",
+  "sha256": "1laryhdsm3fy2yj7y5zi17l7hxmpls03ha1fcf0dk9zdrl11a14s",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

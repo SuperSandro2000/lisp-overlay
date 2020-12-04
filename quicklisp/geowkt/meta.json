@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mgi/geowkt.git",
+  "rev": "cea76d4bc5baad505ef501d72fb4cd18a4f78d1e",
+  "date": "2020-05-05T21:55:12+02:00",
+  "path": "/nix/store/mm9x3vnnl3fhja35zg5rrip5ngigd2kr-geowkt",
+  "sha256": "02l8cb2k10j7k6fvhk9dpqmkxs6vb5w5nh3159w7drprvjqhfrjw",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

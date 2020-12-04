@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/vseloved/should-test.git",
+  "rev": "48facb9f9c07aeceb71fc0c48ce17fd7d54a09d4",
+  "date": "2019-08-29T11:37:09+03:00",
+  "path": "/nix/store/hgv3l9jsib0r1nfk42nxxr0v04cji7ij-should-test",
+  "sha256": "1fqqa7lhf28qg60ji9libkylkcy747x576qpjn1y7c945j2fxmnm",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

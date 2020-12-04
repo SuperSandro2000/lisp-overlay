@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/shamazmazum/easy-audio.git",
+  "rev": "a83ed5341dd9570d724c1d8378d5e1b16323451f",
+  "date": "2020-11-21T10:52:34+03:00",
+  "path": "/nix/store/6sbqpgdhh9hh5wi05ksq5kgyg33hsf6i-easy-audio",
+  "sha256": "0p1iw1j85d4302km47zwkdl6pqkfrfl241sni9paba7827cppm04",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

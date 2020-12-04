@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/DataLinkDroid/omer-count.git",
+  "rev": "2488c6e61c579af5e2b1f576b687ba281401b95b",
+  "date": "2018-12-23T18:51:38+11:00",
+  "path": "/nix/store/2g3lwr1kfs1r34y8b2pac5a8g1ms3jkr-omer-count",
+  "sha256": "09k999153afskp13mi6qh1przh3839gpzhsbgddriyxp684pvww0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

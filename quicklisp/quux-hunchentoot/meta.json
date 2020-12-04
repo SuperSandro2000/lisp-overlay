@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/qitab/quux-hunchentoot.git",
+  "rev": "a20a3d9097c756d9ee57a5a032b031b1e048178b",
+  "date": "2020-07-28T14:55:18+00:00",
+  "path": "/nix/store/4jimr07y3y9l2k0zk56hhnmzf8nan8wx-quux-hunchentoot",
+  "sha256": "0v0x4hzzfm835blqbp00vmj74gaq8wyldrnfj0x5s6zfl64w135y",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

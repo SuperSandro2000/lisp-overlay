@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mpasternacki/curly.git",
+  "rev": "9476259beefdba68588eacac4d31c187cad03033",
+  "date": "2012-03-16T18:55:44+01:00",
+  "path": "/nix/store/xv49vkx54di9ym6n94yhzbmwix0wqryv-curly",
+  "sha256": "04gpkq6hd7wvvny0p3lgn87bfalswqc67sbg4p35j52w51mqd8vf",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

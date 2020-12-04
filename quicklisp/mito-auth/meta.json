@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/mito-auth.git",
+  "rev": "1105f1cd3314f71677b969b7d553bcb8e3adc1e5",
+  "date": "2017-09-05T18:48:55+09:00",
+  "path": "/nix/store/sc49x5vnigc6lizbx4izrimsxla264c7-mito-auth",
+  "sha256": "1q1yxjpnshzmia34a68dlscjadzynzyzz14sr4mkkkjyg5dhkazi",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

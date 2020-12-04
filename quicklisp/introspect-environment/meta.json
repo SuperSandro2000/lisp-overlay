@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Bike/introspect-environment.git",
+  "rev": "e3885d0c8d7efeefeefb6cb911587280ed584fc1",
+  "date": "2020-06-24T16:07:48-04:00",
+  "path": "/nix/store/7vsravs0qjsfb79p6gsqgrnjjrslrhbz-introspect-environment",
+  "sha256": "0gxmz6z7wb53xbwaqvnwax126y163jkb8sjn25cpnjfsazp0qwdg",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

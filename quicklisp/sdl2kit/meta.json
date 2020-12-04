@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/lispgames/sdl2kit.git",
+  "rev": "aae663224a10ece2b0c374aa5942a3f0bc1b3c2f",
+  "date": "2017-11-20T22:19:25-05:00",
+  "path": "/nix/store/nmybix1pqkf1qd71rd10g45cm0r8grza-sdl2kit",
+  "sha256": "10ymmxqsvdn7ndda9k2qcixj75l7namgqdxc5y2w3v5r1313fy2d",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

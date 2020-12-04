@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/dns-client.git",
+  "rev": "46507870bb96838d6e4335b171033fd33323dd98",
+  "date": "2020-05-01T12:22:26+02:00",
+  "path": "/nix/store/cvpjr4qaz5rgjv9i8shpvx6kqiwiyv87-dns-client",
+  "sha256": "09fsv74dzw4bgnvjj3v2353rn7ff9av6n0m1d1cpfwj1swfc41mg",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

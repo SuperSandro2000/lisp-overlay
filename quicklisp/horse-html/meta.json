@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/ralt/horse-html.git",
+  "rev": "25949066cf5039542f609c0e13baa3924a546f8a",
+  "date": "2019-09-29T21:52:52+02:00",
+  "path": "/nix/store/06d9rvvnnji2ifw3i811g33l00iy2lnx-horse-html",
+  "sha256": "0g6cs38123ajf1hvv056df9d8gy5ajarg0f5gywzhmmf0rhr9br5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

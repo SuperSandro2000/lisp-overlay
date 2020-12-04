@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/kraison/cl-skip-list.git",
+  "rev": "db45fc8dbea7872605f8991f80919255537d5f9e",
+  "date": "2013-05-07T09:13:55-07:00",
+  "path": "/nix/store/sr5d0srdxv3fy51lacd3zvzclf51m4d1-cl-skip-list",
+  "sha256": "1d9gim924gwrcyc7bi25qndv3abqwjfr6km59aq0bzmj9csr18bj",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

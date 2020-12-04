@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/m2ym/trivial-types.git",
+  "rev": "ee869f2b7504d8aa9a74403641a5b42b16f47d88",
+  "date": "2012-03-19T01:28:18+09:00",
+  "path": "/nix/store/ppyhgdbpi7xy8algmq6gllcvlcv6rxaf-trivial-types",
+  "sha256": "1s4cp9bdlbn8447q7w7f1wkgwrbvfzp20mgs307l5pxvdslin341",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

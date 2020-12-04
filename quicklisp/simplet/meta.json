@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/noloop/simplet.git",
+  "rev": "12268f95d2da9b84ea5afc05e2e790963566b0d8",
+  "date": "2019-12-03T20:56:54-03:00",
+  "path": "/nix/store/684n5qy12isa3w1f3jj53fql0kywk1kf-simplet",
+  "sha256": "1scsalzbwxk6z48b61zq532c02l36yr3vl2jdy0xjm2diycq6jgs",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

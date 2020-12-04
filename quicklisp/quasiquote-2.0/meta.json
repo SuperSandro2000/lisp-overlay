@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mabragor/quasiquote-2.0.git",
+  "rev": "cac90875d1f66e9385e559bfebafe6b7808b0930",
+  "date": "2015-04-20T11:56:04+02:00",
+  "path": "/nix/store/0bdgv9is17swa8bab6sh92p1l7qjgy5f-quasiquote-2.0",
+  "sha256": "1g0s3aplrgmdjj8k1wrx3dkqdsl4lka2nmgdng0rcd93xp11q6hn",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Kalimehtar/message-oo.git",
+  "rev": "448f925fbfea14f2aa268298d7de8f417e941a44",
+  "date": "2013-05-28T13:34:32+06:00",
+  "path": "/nix/store/56lzdhl5k061cc2vg2yfnywfyq649d1q-message-oo",
+  "sha256": "164yypzhr6pxb84x47s9vjl97imbq5r8sxan22101q0y1jn3dznp",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

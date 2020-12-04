@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/vy/meta-sexp.git",
+  "rev": "95199ec4a74be4e5bef563b5e740930ee6c65741",
+  "date": "2017-10-30T15:39:26+01:00",
+  "path": "/nix/store/lpl3b6ph403y1p3d9ag2pccja343xb25-meta-sexp",
+  "sha256": "14z4xglybsj4pdaifhjvnki0vm0wg985x00n94djc0fdcclczv1c",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

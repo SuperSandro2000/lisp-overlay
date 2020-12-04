@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/stassats/inotify.git",
+  "rev": "8ad433f646f0dd2205dbb2ec52663d6e9c0d9afe",
+  "date": "2015-06-01T00:23:11+03:00",
+  "path": "/nix/store/j24dk6qq8kbi265cs584kvcfylr2m6a5-inotify",
+  "sha256": "0jill05wsa7xbnkycc1ik1a05slv2h34fpyap2rxbnxvfjvyzw98",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

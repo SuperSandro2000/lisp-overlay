@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/svenvc/s-sysdeps.git",
+  "rev": "9aa23bbdceb24bcdbe0e7c39fa1901858f823106",
+  "date": "2020-04-15T22:04:34+02:00",
+  "path": "/nix/store/nm9b37k1x28f2q70j26rdwsh85062v16-s-sysdeps",
+  "sha256": "1fh8r7kf8s3hvqdg6b71b8p7w3v2kkga9bw8j3qqdxhzr6anpm0b",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

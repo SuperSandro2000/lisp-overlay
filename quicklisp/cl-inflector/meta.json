@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/AccelerationNet/cl-inflector.git",
+  "rev": "f1ab16919ccce3bd82a0042677d9616dde2034fe",
+  "date": "2014-12-23T14:28:05-05:00",
+  "path": "/nix/store/lqxqakfiv3yfmmi3b5xzdwij9hmgcnvw-cl-inflector",
+  "sha256": "1xwwlhik1la4fp984qnx2dqq24v012qv4x0y49sngfpwg7n0ya7y",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

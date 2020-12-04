@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/scymtym/trivial-with-current-source-form.git",
+  "rev": "0c5eca64214c35d711d7755dd06d60751e838451",
+  "date": "2020-04-17T15:12:14+02:00",
+  "path": "/nix/store/d8nns3c732s4pp8c7kh51y5kvacsf2sv-trivial-with-current-source-form",
+  "sha256": "16rmcx2xxncc277jw7yms4agfag5mxzmgyf2q29cdz88x94x5iav",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

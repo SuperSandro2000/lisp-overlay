@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/tooter.git",
+  "rev": "af67ae190877a65ec508c58179b9a27bd3211749",
+  "date": "2020-09-01T18:58:50+02:00",
+  "path": "/nix/store/g9lwr2dpa47iwd85y4nnzx4z87dlq0a2-tooter",
+  "sha256": "1s5vsdddgha0kb9ysm5vdn704fpiw5yjbxxd4rpyimdcd153r2vr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

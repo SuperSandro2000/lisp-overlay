@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/cmoore/cl-mango.git",
+  "rev": "631f41f8a52bc7fd4ec54483ff84d521d2ac59d7",
+  "date": "2020-09-21T18:21:06-07:00",
+  "path": "/nix/store/clk474v68bd7g09j91zff7sv0cih5q1i-cl-mango",
+  "sha256": "0ipa1azakzqigq103m1j2z597bp2i34kx4z1418kp2jn8zwbdz5s",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

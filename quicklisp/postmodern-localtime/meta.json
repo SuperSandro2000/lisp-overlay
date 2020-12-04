@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/radisb/postmodern-localtime.git",
+  "rev": "f032ca281bd3d83434d3e5cca44e2fc650d09b2d",
+  "date": "2012-11-14T11:37:55+02:00",
+  "path": "/nix/store/g7sxngs2rqd2za6kz68i97j88d4hq4wy-postmodern-localtime",
+  "sha256": "0kiswbdr3vsl7xfs43h0w9c2s6fm6ammff6mpab6zba7rdmfg6d3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

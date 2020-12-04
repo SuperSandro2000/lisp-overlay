@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/wlbr/cl-groupby.git",
+  "rev": "d7d64039a0b351917fb13ee4d06b152b612fe4c3",
+  "date": "2017-07-31T10:41:54+02:00",
+  "path": "/nix/store/hwgqn7rpw9161hh8s2q6cxrm9klvdq5q-cl-groupby",
+  "sha256": "1ra4zi9ifrhxxsj4svg1iqqzzsv9aqqa76pswygp7g084x6kn5km",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

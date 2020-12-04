@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/LASS.git",
+  "rev": "f51b9e941ee0a2a1f76ba814dcef22f9fb5f69bf",
+  "date": "2020-04-30T12:51:59+02:00",
+  "path": "/nix/store/x1zjs59dvg6k06m3aj9g899lf68n1m12-LASS",
+  "sha256": "11mxzyx34ynsfsrs8pgrarqi9s442vkpmh7kdpzvarhj7i97g8yx",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

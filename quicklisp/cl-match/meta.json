@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/tonyg/cl-match.git",
+  "rev": "6c19812c5c9d3f659eebddeaecf0d09cd7b019f8",
+  "date": "2012-10-25T15:21:08-03:00",
+  "path": "/nix/store/6izhrs8n6mi5n7dmvh5zvqmfy2iphisw-cl-match",
+  "sha256": "1qc8gzp7f4phgyi5whkxacrqzdqs0y1hvkf71m8n7l303jly9wjf",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

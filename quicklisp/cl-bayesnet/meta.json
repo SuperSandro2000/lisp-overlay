@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/lhope/cl-bayesnet.git",
+  "rev": "3834f6ec27a297054e9b2f67220161682d63109d",
+  "date": "2013-04-15T10:08:42+10:00",
+  "path": "/nix/store/v4rhb6902w6bfql03c5mlm3rgbrivp7z-cl-bayesnet",
+  "sha256": "02as2isvgm89qpyj49ccs1cg4fl9iswxi26w4j0svsha0q1dh5m8",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

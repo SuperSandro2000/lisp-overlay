@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jschatzer/clim-pkg-doc.git",
+  "rev": "13d7b6f07720a64c3d12d5c3aaa8f5749713fda1",
+  "date": "2018-09-28T21:18:30+02:00",
+  "path": "/nix/store/rigl3cfwkry4393m33wlqznag57kmyp0-clim-pkg-doc",
+  "sha256": "0vfb3zxvm3pjh8gp1imv9l54vf0nqpjnq4a14xib039h0plaz1qm",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

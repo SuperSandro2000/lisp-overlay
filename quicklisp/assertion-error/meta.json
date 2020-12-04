@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/noloop/assertion-error.git",
+  "rev": "8eab692a990d4caa193a46bae99af3e13e717b86",
+  "date": "2019-12-03T21:07:32-03:00",
+  "path": "/nix/store/sqsj4lazspfldrjh9nxqc6mm6rrapb76-assertion-error",
+  "sha256": "0ix23kkakmf4nwx852zsssb831jvajr3qyppqfyks7y1ls617svn",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

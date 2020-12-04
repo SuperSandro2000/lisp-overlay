@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gwkkwg/metabang-bind",
+  "rev": "9ab6e64a30261df109549d21ee7940df87db66bb",
+  "date": "2020-01-01T13:25:26-05:00",
+  "path": "/nix/store/kzzbwq7vjfv1k9khk9kf0ip7c2sap2gv-metabang-bind",
+  "sha256": "0681lp2j084w3dx02ah1vm5pk83cp5k090anwdlrjaxd1j4kbpbr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jollheef/cl-logic.git",
+  "rev": "0b3220e3be807ab77acc271456f8ee854dd968b0",
+  "date": "2014-12-07T15:18:32+03:00",
+  "path": "/nix/store/mvmxms49dl5gdh7c9vv2zsgj7kj0pbb9-cl-logic",
+  "sha256": "17n2wzqali3j6b7pqbydipwlxgwdrj4mdnsgwjdyz32n8jvfyjwh",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

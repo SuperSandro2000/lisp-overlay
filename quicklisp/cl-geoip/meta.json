@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/dasuxullebt/cl-geoip.git",
+  "rev": "b9f165c179900aac255e3f7afb64e2b4b1a1af48",
+  "date": "2013-05-09T14:19:22+02:00",
+  "path": "/nix/store/djlf5aangnpz7wkx3g09bv3wcrn5vjp7-cl-geoip",
+  "sha256": "0ys8wysppx06j3s0dc9lc9zjizr1fmj388fiigyn1wrdyyka41y2",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

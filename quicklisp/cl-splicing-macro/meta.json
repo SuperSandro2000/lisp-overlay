@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mabragor/cl-splicing-macro.git",
+  "rev": "2852877037274bdc564ecae7b762765dedcfbe2b",
+  "date": "2014-03-27T23:47:33+00:00",
+  "path": "/nix/store/l23sxbqppvgfr9xz0mfiw1w533kk6a23-cl-splicing-macro",
+  "sha256": "1hsmr6fv3s3k6ds41g3kg60naj1mgsy6hbc0r2jwzhmfmcmv4d73",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

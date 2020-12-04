@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/porky11/vectors.git",
+  "rev": "49585818b3d5c6a66e63a27b6a82445ac4add283",
+  "date": "2017-12-25T16:35:57+01:00",
+  "path": "/nix/store/d25a94hhl5vahs8ajvhdz52apna0y68l-vectors",
+  "sha256": "1sflb1wz6fcszdbqrcfh52bp5ch6wbizzp7jx97ni8lrqq2r6cqy",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

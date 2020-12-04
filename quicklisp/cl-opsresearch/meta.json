@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/opsresearch/cl-opsresearch.git",
+  "rev": "6989fad2c2bd213976a7885cd1d6138d42e27ad3",
+  "date": "2017-03-22T05:50:37-04:00",
+  "path": "/nix/store/04lrx79lsjzsnd29kv4fmaqh4la24xz7-cl-opsresearch",
+  "sha256": "1fipw6qjggswzcg8ifwx5qnhnc7mmi53s6h14l0vzj6afa5rdpm7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

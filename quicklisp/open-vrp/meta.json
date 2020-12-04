@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mck-/Open-VRP.git",
+  "rev": "408cb67063474ab61ddfc1631b5ac39714f2535e",
+  "date": "2014-09-10T11:07:48-07:00",
+  "path": "/nix/store/58hiv9pynhwk4c0d2k3j3yxa3yv35pbw-Open-VRP",
+  "sha256": "04k0kp18gpr4cfpsck7pjizawwswh372df4pvm5v87brm6xdw1fr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

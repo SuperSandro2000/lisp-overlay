@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/submarine/submarine.git",
+  "rev": "eb30cdbb4d120572612c8f2d151ed70abaf10ca9",
+  "date": "2007-11-07T11:59:04+00:00",
+  "path": "/nix/store/3lwymdkn73xrvbbm5gs133m7d86b72bc-submarine",
+  "sha256": "0y1qplm0d5b6wm3cdp8zdd4n2lpcg7bacmzb207kkrg4m5qc3iaw",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/adlai/Eos.git",
+  "rev": "b4413bccc4d142cbe1bf49516c3a0a22c9d99243",
+  "date": "2020-07-31T09:04:16+03:00",
+  "path": "/nix/store/5x6i86fm2a1pkisyxbzbkp0frcb2fsfw-Eos",
+  "sha256": "1afllvmlnx97yzz404gycl3pa3kwx427k3hrbf37rpmjlv47knhk",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

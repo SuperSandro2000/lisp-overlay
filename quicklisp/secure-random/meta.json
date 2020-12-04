@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/avodonosov/secure-random.git",
+  "rev": "0ee99e50a5a028ada10666dadbe7dcfd35e970de",
+  "date": "2016-01-07T15:40:01+03:00",
+  "path": "/nix/store/dnia0k2371xg91hr06x4v50lfvyvxaas-secure-random",
+  "sha256": "09cnclnivkc87ja3z12ihcm02vkwp0cflcfa6hpjlbd5m75hvgsd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

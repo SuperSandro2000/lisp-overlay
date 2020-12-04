@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/nallen05/pretty-function.git",
+  "rev": "0cd177cec439141db97b10b2c99cdcba25a78c75",
+  "date": "2009-03-28T16:28:10-07:00",
+  "path": "/nix/store/pz6anbn4z1s4xvh66i3d34hf3dzbkdcc-pretty-function",
+  "sha256": "1hzfjwsp6r5nki6h8kry8k2bgj19mrp0jbq7jhsz3kz6y4ll0hb5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/froydnj/trees.git",
+  "rev": "7b06048af0248c4302088c758208276f9faf2beb",
+  "date": "2012-05-23T07:54:51-04:00",
+  "path": "/nix/store/dkl3zzpbca3rz5k7f00i1hzqqwfdiqry-trees",
+  "sha256": "1xvydf3qc17rd7ia8sffxcpclgm3l0iyhx8k72ddk59v3pg5is4k",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

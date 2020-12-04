@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mbrezu/Cheat-JS.git",
+  "rev": "ad1882cdb65e14eef2862ec56262119c579be784",
+  "date": "2012-09-13T16:14:29+03:00",
+  "path": "/nix/store/0xj7vrqyyk3gvw3jzkjw76pps95nqwp9-Cheat-JS",
+  "sha256": "1h73kx0iii4y4gslz6f8kvf980bnypsras6xj38apm0fcwm93w03",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

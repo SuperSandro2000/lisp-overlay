@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/stefandevai/litterae.git",
+  "rev": "cf85196d83963f934073bdb9edffb4a798016ae2",
+  "date": "2020-04-07T10:59:56+02:00",
+  "path": "/nix/store/ryv1f9kx4ppvymikrkp1l56rg8zjr3hf-litterae",
+  "sha256": "05q6apkcxacis4llq8xjp468yg5v6za0ispcy5wqsb44ic0vhmsl",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

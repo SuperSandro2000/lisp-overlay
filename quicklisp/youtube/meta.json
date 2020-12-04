@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mihaiolteanu/youtube.git",
+  "rev": "0fde2a5481543fa0a2db0251cb0acc4134d82ac6",
+  "date": "2019-12-13T16:57:31+02:00",
+  "path": "/nix/store/wwp92m2srlnzpqvjkd7jkcmfw2r9x6d1-youtube",
+  "sha256": "0rqbyxgb9v3m8rwx2agaz7cq83w9k8gy5wl5wbw0rfg7r88ah5z0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

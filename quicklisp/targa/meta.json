@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/massung/targa.git",
+  "rev": "f4c08ee881bc8bc827ce9bfbd65082bab4f72a2a",
+  "date": "2015-09-15T23:02:04-05:00",
+  "path": "/nix/store/xfk4kck6fizfgb0sr7dks067p16xd4zj-targa",
+  "sha256": "0fslb2alp4pfmp8md2q89xh8n43r8awwf343wfvkywwqdnls2zws",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

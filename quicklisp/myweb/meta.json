@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/troydm/myweb.git",
+  "rev": "5067add358b92386db0ee593f2d8b13c2c6336aa",
+  "date": "2015-06-02T18:13:14+03:00",
+  "path": "/nix/store/h13vbpidiicrx1vwl7waqs0ajsvw629d-myweb",
+  "sha256": "0yncx40mfw7yxbm5hli9hr3aw4x1lf1912adyvylldfjfh2yxcjy",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

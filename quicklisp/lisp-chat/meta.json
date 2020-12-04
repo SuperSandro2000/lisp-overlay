@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ryukinix/lisp-chat.git",
+  "rev": "2a63f476553f2b8f7609fa4d07a269a3c17a85a1",
+  "date": "2020-11-19T14:08:49-03:00",
+  "path": "/nix/store/b5qh2bwqdc5h47iz5acp1c3nbdr52670-lisp-chat",
+  "sha256": "16ckgxg0c3rx6qvwj5cn6rmfgxbj7587r9g342bw3nfxab0sqlzd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

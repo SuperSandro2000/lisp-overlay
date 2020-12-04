@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gigamonkey/monkeylib-text-output.git",
+  "rev": "54515567752e392fcf0f069efac4204fd819c4cb",
+  "date": "2011-11-20T13:47:00-08:00",
+  "path": "/nix/store/0jcy677bsj597j1a2dc61hza64k21xad-monkeylib-text-output",
+  "sha256": "0lygfxap2ppxxi0sbz8lig1h878ad84jwbp3c895r7h9svjh1ffm",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

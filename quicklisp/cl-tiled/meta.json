@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Zulu-Inuoe/cl-tiled.git",
+  "rev": "92a1ba26239279b6965b095b3f5d841b74854af7",
+  "date": "2019-10-19T16:55:09-04:00",
+  "path": "/nix/store/bmadymxka7n0j6z0dp7v9hyiwb0i88zz-cl-tiled",
+  "sha256": "0a9kfyixr82x4jzkx287mc64483ykdh7y1f6vznmhwwvsc1x3alq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/xach/westbrook.git",
+  "rev": "ca68530b9cd4bccaa603d70d16623eb66204ee3c",
+  "date": "2018-01-24T14:07:33-05:00",
+  "path": "/nix/store/js89b7mp54r5c2mdin8dq3z9ssp7pssb-westbrook",
+  "sha256": "08qs5lpg34d1mn6warrrq1wimyqqrjb8jih62g1pbysgni4ihm2v",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

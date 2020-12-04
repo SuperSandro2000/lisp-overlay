@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/bufferswap/pngload.git",
+  "rev": "e6bb1b32c0e4062f4fcaa7fdadded93b1354bae9",
+  "date": "2020-10-02T19:35:53-04:00",
+  "path": "/nix/store/1aph1yl0rn492gc5r7739rm2mid8a4y0-pngload",
+  "sha256": "16n7f74s6l8x1gihjyi26mcpmiw2fs3z2bdassa8wy35khdvppgi",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/multiposter.git",
+  "rev": "b1cccb53ee3ea14c4081019b2b2adde67c739664",
+  "date": "2019-06-22T09:41:50+02:00",
+  "path": "/nix/store/vfl30jj7i2i02q6bkinw2v070savdshp-multiposter",
+  "sha256": "1g1611kil8yzidsgfab862j0jdjsdz3pyf7y5zdbsa4z1l1lsvaf",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/scymtym/parser.common-rules.git",
+  "rev": "b7652db5e3f98440dce2226d67a50e8febdf7433",
+  "date": "2020-06-12T14:29:58+02:00",
+  "path": "/nix/store/jj7070dcmmgfawacchgzhvp3agjsnskf-parser.common-rules",
+  "sha256": "138ygj0qp58jl4h79szg3i2gnwzywwc48qn1gj6dw113wasrnkwa",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

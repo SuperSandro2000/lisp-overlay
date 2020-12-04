@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/mmap.git",
+  "rev": "ff683459b01ce3e7404dfdad07aa95e6ab2bba49",
+  "date": "2020-11-07T10:47:16+01:00",
+  "path": "/nix/store/0gs4w0n6f0l73va6h8gmzciirydjmb6n-mmap",
+  "sha256": "13ms78l1v8zwszqbxhr0ci1sag7icnfx272qjjfjw7bkcrn3yvng",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

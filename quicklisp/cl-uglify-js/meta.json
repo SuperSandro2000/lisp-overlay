@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mishoo/cl-uglify-js.git",
+  "rev": "429c5e1d844e2f96b44db8fccc92d6e8e28afdd5",
+  "date": "2015-06-20T11:46:12+03:00",
+  "path": "/nix/store/qw4jf2k77fq0nk57cd06ji0vlwffn5a8-cl-uglify-js",
+  "sha256": "0k39y3c93jgxpr7gwz7w0d8yknn1fdnxrjhd03057lvk5w8js27a",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

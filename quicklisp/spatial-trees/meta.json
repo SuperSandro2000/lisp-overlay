@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/rpav/spatial-trees.git",
+  "rev": "81fdad0a0bf109c80a53cc96eca2e093823400ba",
+  "date": "2014-08-24T12:45:10-05:00",
+  "path": "/nix/store/cavjjrg0jjad9hw58mjyzz0yqjvk5s1m-spatial-trees",
+  "sha256": "11rhc6h501dwcik2igkszz7b9n515cr99m5pjh4r2qfwgiri6ysa",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

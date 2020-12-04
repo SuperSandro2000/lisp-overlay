@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/zkat/cl-speedy-queue.git",
+  "rev": "0425c7c62ad3b898a5ec58cd1b3e74f7d91eec4b",
+  "date": "2011-09-28T15:18:00-04:00",
+  "path": "/nix/store/0db2irlbljzmrh5w9j3fc6q41jz8mz8j-cl-speedy-queue",
+  "sha256": "0czhnvxn9lvbjz9h1lb7y18nqrsq3drq5icd3lqdaa07362alriq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

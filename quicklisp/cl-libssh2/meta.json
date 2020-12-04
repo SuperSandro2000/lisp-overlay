@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/alxchk/cl-libssh2.git",
+  "rev": "22481c176702eb211b223014fe1d040e9132a019",
+  "date": "2016-05-15T08:59:29+03:00",
+  "path": "/nix/store/3n5n9i9w2lb0dy61qppra934nwsrz146-cl-libssh2",
+  "sha256": "1f2zq30zli0gnawclpasxsajpn20cpyy9d3q9zpqyw1sfrsn0hmk",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

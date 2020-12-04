@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/asdf/asdf-package-system.git",
+  "rev": "61776f296b6c277fdaab6b7662e520c09985e4ed",
+  "date": "2015-05-26T13:23:32-04:00",
+  "path": "/nix/store/v6grrh6hra4kji20ms1dhpybavkph4zh-asdf-package-system",
+  "sha256": "1q4qgvbl64c4zdbq91by1la8licdgam7ybnhvg2bixdhq4v693sj",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

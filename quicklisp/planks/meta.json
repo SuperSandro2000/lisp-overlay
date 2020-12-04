@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/drewc/planks",
+  "rev": "ac600345ac5f01b1610720a69bfe57953dfb5695",
+  "date": "2011-05-02T12:53:25-07:00",
+  "path": "/nix/store/6bqg3lll2nbqnf2nn06q8ai31rqwkpdv-planks",
+  "sha256": "1y7cg9xb75j1yslbxsmw0fyg738f4d28lnlm7w7hzgc51fc7875k",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

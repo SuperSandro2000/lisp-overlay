@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shirakumo/harmony.git",
+  "rev": "a9c9289fa0d460f00b82608bd8c8737a97430a2b",
+  "date": "2020-11-03T15:40:49+01:00",
+  "path": "/nix/store/lqyrhxvil7b71zfwg68bxrp88wvny3px-harmony",
+  "sha256": "1cg6y1282rw9ii6ryk0mh0za7q5zacl4zsggm1wm0a6qbmwr40np",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

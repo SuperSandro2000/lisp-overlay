@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/DalekBaldwin/macrodynamics.git",
+  "rev": "1b4f683846b730e7dd3e04e9274a0fd71139344c",
+  "date": "2017-06-11T17:40:26-04:00",
+  "path": "/nix/store/jbxvfxj72mz63njybjn4qb5dxl9kki8n-macrodynamics",
+  "sha256": "1ysgin8lzd4fdl5c63v3ga9v6lzk3gyl1h8jhl0ar6wyhd3023l4",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

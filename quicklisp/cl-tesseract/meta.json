@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/GOFAI/cl-tesseract.git",
+  "rev": "24acb402890454a632c2f1f848dc72d33ed4770f",
+  "date": "2017-11-12T15:51:10-08:00",
+  "path": "/nix/store/hvggh04801nmh8k3hpfk5anjk96lrvs8-cl-tesseract",
+  "sha256": "086627k8whbj60bpw9r3jrdifr4bigqpnp9hxsi7r6702gixz50x",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

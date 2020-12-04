@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/qitab/cl-protobufs.git",
+  "rev": "1c786ecfbad114f7555aa0f118a444b2e055c655",
+  "date": "2020-12-03T11:06:41-08:00",
+  "path": "/nix/store/jy4i86a0afc8pv1pd9ldz5xjbs3b8miv-cl-protobufs",
+  "sha256": "1738w4qx11rp4l0qnhx82sn25hjs4k8bd0bn585f607lk1bjmpam",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

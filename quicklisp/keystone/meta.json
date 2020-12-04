@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/GrammaTech/keystone.git",
+  "rev": "08801d7c47ac5266baa2032c8d9af40f3498e8c7",
+  "date": "2020-04-02T09:59:49-04:00",
+  "path": "/nix/store/5nrcpmgwq20kqcxmp1wkpcw4ajy8yl78-keystone",
+  "sha256": "04fczbkihf87qyp9f1sv45h69xrvdmcmxkv4m868q8zqw6z48hlj",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gigamonkey/monkeylib-json.git",
+  "rev": "88a52b5fe7037f88fd57908b8f79fd8f1c521401",
+  "date": "2017-04-15T17:32:33-07:00",
+  "path": "/nix/store/xp7siw5ggbcm2xg5lb2gwy5wkzl1vqx9-monkeylib-json",
+  "sha256": "188717pmyhpgwg9ncc1fbqvbvw5fikbfhvchsy9gg4haxhdgpzsn",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

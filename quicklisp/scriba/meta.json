@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/CommonDoc/scriba.git",
+  "rev": "54aa119c4f2b500a29ee9e1552d44110ee1c3122",
+  "date": "2015-11-26T15:42:25-03:00",
+  "path": "/nix/store/18sisyg9m1f6kri86lmqjz3agj0n7ivd-scriba",
+  "sha256": "0mwg029w638psfbcpcidpysvnz5589rmfqayfsqaap4y3aql8pl4",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mgi/binary-io.git",
+  "rev": "08caced7b71491387736691232cc0be9c072fc5d",
+  "date": "2020-10-07T13:46:28+02:00",
+  "path": "/nix/store/pz06x8br8qszpgz13rqp21zran5zd3wc-binary-io",
+  "sha256": "0gxnl12nydh8aslw78jc4cmq8licj342y2f04jalqb4d9m9jbri2",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

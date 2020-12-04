@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/pkhuong/string-case.git",
+  "rev": "718c761e33749e297cd2809c7ba3ade1985c49f7",
+  "date": "2018-06-18T14:31:47-04:00",
+  "path": "/nix/store/a0yxnzln21vwnx7aca4qiciwmslhipmr-string-case",
+  "sha256": "1n5i3yh0h5s636rcnwn7jwqy3rjflikra04lymimhpcshhjsk0md",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

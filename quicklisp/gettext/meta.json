@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/rotatef/gettext.git",
+  "rev": "a432020cbad99fc22cbe6bb9aa8a83a35000d7aa",
+  "date": "2017-11-01T13:06:09+01:00",
+  "path": "/nix/store/d5bils97sqc9c0ma8x1rf27xh9n2r04q-gettext",
+  "sha256": "1pzhamgni6k5hi6bbvlb3dm659pcllrrr3vhhn3rpjn238zxg5ar",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

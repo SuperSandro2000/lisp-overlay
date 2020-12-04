@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/samebchase/hash-set.git",
+  "rev": "3a47ec6fb82aa3af7c39a09e46a50ce665170dcd",
+  "date": "2016-06-02T21:57:03+05:30",
+  "path": "/nix/store/dmhrkwn9mhm1jikxp8ydi81ygl2lvw8k-hash-set",
+  "sha256": "09fgl95ggdr1ihnfhg9ixxpkn9kq7rzvb0nfphkxd0zgrfyl4jd2",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

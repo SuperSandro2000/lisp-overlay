@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/markcox80/basic-binary-ipc.git",
+  "rev": "9a80a2e0ea9eba94b9bd357917c7066bbdf1b1aa",
+  "date": "2015-08-04T11:50:30+10:00",
+  "path": "/nix/store/qndm2q2qx63kiyxqyfyisdd1yrjg1i8l-basic-binary-ipc",
+  "sha256": "1v3bi24c2k27d33k8il4k89q8sjbrqlyw0399zbxh0laigm03p3q",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jorgetavares/zsort.git",
+  "rev": "f6724a6fff7662a942195cedb0d7f00da59c74ed",
+  "date": "2012-04-23T19:34:21+02:00",
+  "path": "/nix/store/bzckyyjrx71ji4rds2m0qg3qf0s6746p-zsort",
+  "sha256": "1vyklyh99712zsll4qi0m4mm8yb1nz04403vl8i57bjv5p5max49",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

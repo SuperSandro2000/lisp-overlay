@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/eugeneia/trivial-documentation.git",
+  "rev": "e71e7cf611ecd4a27bf5dba3add8698acda762ea",
+  "date": "2016-11-06T02:08:02+01:00",
+  "path": "/nix/store/crkknrgiq7bdbz07i75qd7ampp2lrdn7-trivial-documentation",
+  "sha256": "0y90zi6kaw7226xc089dl47677fz594a5ck1ld8yggk9ww7cdaav",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

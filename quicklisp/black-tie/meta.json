@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/aerique/black-tie.git",
+  "rev": "3033652660a8564b3cfb48dd782f57215c1e0760",
+  "date": "2019-07-30T16:33:08+02:00",
+  "path": "/nix/store/mvsnqmqsjab9rzhql89rnbi63gy34b8g-black-tie",
+  "sha256": "07nf8916a2rn8v51rafc71pppsapj1qigskldb6vnlxpghixdgkg",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

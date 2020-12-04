@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/frideau/package-renaming.git",
+  "rev": "89042a8548dbb3dd67474a043d8673a7b66d8696",
+  "date": "2012-03-08T18:30:11-05:00",
+  "path": "/nix/store/qpvaxsjw080l01g8951g4yflz6fji8vf-package-renaming",
+  "sha256": "15kgd15r9bib8wfnn3hmv42rlifr4ph3rv2mji5i9d5ixhyqqwgq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

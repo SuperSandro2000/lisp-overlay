@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/rpav/cl-gendoc.git",
+  "rev": "c8fed7dd008a0cc34138521e45116e063aea33bd",
+  "date": "2018-07-30T08:26:58-05:00",
+  "path": "/nix/store/7mcbndr58zqcvkh4snz27sw1vvl31h4h-cl-gendoc",
+  "sha256": "19f8fmz2hj332kh3y3fbil2dchpckdsqci6ljhadymd8p2h6w4ws",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

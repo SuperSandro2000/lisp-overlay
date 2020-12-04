@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/terminal625/utility.git",
+  "rev": "b34f9a6692d64383049560b672b1fbf9b0ae3f8c",
+  "date": "2019-01-19T03:01:03-05:00",
+  "path": "/nix/store/cbjilq62x61bscmy91b6cbz4ws743zw1-utility",
+  "sha256": "0nc83kxp2c0wy5ai7dm6w4anx5266j99pxzr0c7fxgllc7d0g1qd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

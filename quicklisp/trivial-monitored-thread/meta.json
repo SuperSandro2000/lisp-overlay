@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/ediethelm/trivial-monitored-thread.git",
+  "rev": "b0bab23f9a9bd06f0f33809635c7ba4e6a3d5a21",
+  "date": "2020-03-08T22:00:04+01:00",
+  "path": "/nix/store/6zrjxqm07412wj717m8341kqjzm1r4iw-trivial-monitored-thread",
+  "sha256": "1ipnp2l944hc587bifxsnmiymw468imar0v8bqvgxv8pc5sym4ib",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

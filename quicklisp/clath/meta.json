@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/BnMcGn/clath.git",
+  "rev": "0e6a3a2651a3c8f7cf3c685432dae0ac0bb876d6",
+  "date": "2020-07-01T08:12:22-07:00",
+  "path": "/nix/store/k7a3fljpg8zrlj57xzywb0dgvpf999mp-clath",
+  "sha256": "0x6iic6pi40srjwqpi0jym73jygap0aa57dh83vsnly9z9d0wp9a",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

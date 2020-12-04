@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ahefner/shuffletron.git",
+  "rev": "c84a0a42ec57d4903b53205409978af0dad2c523",
+  "date": "2018-09-05T22:41:27-04:00",
+  "path": "/nix/store/ajqvkn9cvg7riv0pj9vjzzf81hgar54h-shuffletron",
+  "sha256": "10626wp2xdk0wxj0kl49m9gyb2bp6f0vp67563mw6zrzfs7ynpkb",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

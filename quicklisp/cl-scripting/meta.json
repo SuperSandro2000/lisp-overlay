@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fare/cl-scripting.git",
+  "rev": "60c357e648ba5146a0a53b96fb73a3cc6ad387bd",
+  "date": "2017-03-14T19:19:31-04:00",
+  "path": "/nix/store/0kawcihsrgdar5q34ixl3mzmvrajz0dd-cl-scripting",
+  "sha256": "1xi8klkn4fhmcrnhxzxvl0rj68dc7az6l2hc10560g9jvblcmmpp",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

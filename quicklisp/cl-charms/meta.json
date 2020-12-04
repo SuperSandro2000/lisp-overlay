@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/HiTECNOLOGYs/cl-charms.git",
+  "rev": "64aba59d89f85bc5c9402e445873965338a66a02",
+  "date": "2020-01-13T12:53:51-08:00",
+  "path": "/nix/store/c4wgkv9mkdg522r3yxasrbvhfxki12ix-cl-charms",
+  "sha256": "1jczaypa9dhxr34yyhsxb6lrdnircjx8am4iqkc3shfpjn32q323",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

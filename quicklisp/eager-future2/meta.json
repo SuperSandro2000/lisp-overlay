@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/vsedach/eager-future2.git",
+  "rev": "54df8effd9d9eccac917509590286b5ac5f9cb30",
+  "date": "2018-07-04T15:14:48-07:00",
+  "path": "/nix/store/mw1cwp35z8h4s7h1xb869cw08wm2mqiw-eager-future2",
+  "sha256": "1qs1bv3m0ki8l5czhsflxcryh22r9d9g9a3a3b0cr0pl954q5rld",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

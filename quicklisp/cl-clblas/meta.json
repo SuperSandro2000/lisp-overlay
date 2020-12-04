@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gos-k/cl-clblas.git",
+  "rev": "e6ca2aa13dadcdd1f72866ea0b16f72818478cc1",
+  "date": "2017-04-29T13:15:18+09:00",
+  "path": "/nix/store/j1m5cicl0lhj7hvhimm0b6f92s422q60-cl-clblas",
+  "sha256": "0cn4hvywaw97ccnj2wxjf20lh7h7n5fs6rq6kgjyfs9cxcixmvrj",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

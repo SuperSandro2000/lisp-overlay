@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/klimenko-serj/cl-fbclient.git",
+  "rev": "7a87ea9764f7099c00e5e1c7b85b39a51f80b0a3",
+  "date": "2013-12-19T00:31:15+02:00",
+  "path": "/nix/store/w8by5cifna1nm446z14sxf046l83fqhk-cl-fbclient",
+  "sha256": "1q2dwizrjnal3fdcdgim4kdq0dma71p3s8w6i8bjkg4fs49k5p9j",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

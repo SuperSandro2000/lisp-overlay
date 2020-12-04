@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ahungry/injection.git",
+  "rev": "9cf6225175d4005e955387a4f2cf6656897a0d86",
+  "date": "2016-05-14T02:52:18-04:00",
+  "path": "/nix/store/xh487fp20m8y1dh7d5arc7zrg0f8k6mk-injection",
+  "sha256": "12f838ikgyl7gzh2dnqh54hfa8rncbkk266bsibmbbqxz0cn2da7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

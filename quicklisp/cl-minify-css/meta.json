@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/noloop/cl-minify-css.git",
+  "rev": "30edc35c4dcce481da15eff2ec4b269f5f979fc7",
+  "date": "2020-08-04T10:41:16-03:00",
+  "path": "/nix/store/i97knwfsj3mv406wyacsa9imig8p5zpr-cl-minify-css",
+  "sha256": "1wj1mh7qzr8ybqyx7kxnpsmj3d9lylnzmq1qmycdyf2llqkcdxgd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

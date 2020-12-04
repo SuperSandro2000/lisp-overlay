@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/compufox/glacier.git",
+  "rev": "95699e94242757a2e418999eb1dd6a0dad4ff868",
+  "date": "2020-11-19T10:43:32-05:00",
+  "path": "/nix/store/8xzzrsnjh99a7lvlb2vs684pkq90mbd9-glacier",
+  "sha256": "03hrypi8qx7nlpac1vwch19w0d17zn9accqak2xxrjnzggfmjxl8",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

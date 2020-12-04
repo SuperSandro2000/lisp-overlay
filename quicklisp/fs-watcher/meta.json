@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Ralt/fs-watcher.git",
+  "rev": "1c47fdd495f93ab4aea75cabd90d168df7ecc7dd",
+  "date": "2017-11-13T07:39:14+01:00",
+  "path": "/nix/store/h0g0ncbw217swbv9v27036fammqkwqa9-fs-watcher",
+  "sha256": "0fr2wb39609z4afk4w21vwnwi4g050x4gag2ykdx6hn9m65cp9db",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gonzojive/paren-test.git",
+  "rev": "ffa13492eb34f44f776259413ab76f9f89a7ffbb",
+  "date": "2017-07-28T10:21:24-07:00",
+  "path": "/nix/store/vfi3p7kqys0pzkfxwp0x4m3gv75q1zbv-paren-test",
+  "sha256": "0b2d3kcv3n4b0dm67pzhxx8wxjsgnb32bw2dsprblc7149gaczdr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

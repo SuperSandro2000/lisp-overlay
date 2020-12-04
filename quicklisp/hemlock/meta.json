@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/bluelisp/hemlock.git",
+  "rev": "47e16ba731a0cf4ffd7fb2110e17c764ae757170",
+  "date": "2015-07-03T11:01:10+03:00",
+  "path": "/nix/store/y03vzwxqi83h689z5wgk4c1c6g1n3z4d-hemlock",
+  "sha256": "0c1lmznz1md7r9jbyg2n22h1svw8pvqjxyp7mvxgvqp34mmbf5ad",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

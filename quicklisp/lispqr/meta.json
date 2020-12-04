@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mare5x/LispQR.git",
+  "rev": "5d706df2b1713b4859d0d898c13c82caf1343962",
+  "date": "2020-04-07T16:27:17+02:00",
+  "path": "/nix/store/xaxakaij7nay3jzm0630v3iz2rmfcg4q-LispQR",
+  "sha256": "1lkxj94s5kikhivla2n851y6qhkfx3inq97cjdpmhclwpy9mmw01",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

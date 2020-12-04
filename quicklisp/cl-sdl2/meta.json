@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/lispgames/cl-sdl2.git",
+  "rev": "bb2aa2a41cf799e3bb1ddf50de41fe389c6db668",
+  "date": "2020-11-28T13:23:24-05:00",
+  "path": "/nix/store/h06nkvcv63fx7p3j39agjcg16v1q6xd7-cl-sdl2",
+  "sha256": "1a4904310z2wwq80grnlixmyz30452vgd4lh74y105j2yrr43z97",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

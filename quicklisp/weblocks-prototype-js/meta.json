@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/html/weblocks-prototype-js.git",
+  "rev": "6d39ff1198baea08db51627b5db288326c8e2ab7",
+  "date": "2020-11-24T03:28:11+02:00",
+  "path": "/nix/store/f06lbnasyiip6f7hipym8vf9n15cfxp2-weblocks-prototype-js",
+  "sha256": "1lypzxh3hxv1zr4pxp9903hhb97i1xqv7ccaw8pvmp9cbibmnafq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

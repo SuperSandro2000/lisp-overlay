@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shirakumo/lichat-protocol.git",
+  "rev": "cba8f4f0ea97d5ec49909e9e1c9fe4947ef55d49",
+  "date": "2019-10-21T10:39:41+02:00",
+  "path": "/nix/store/2vqwdnqlc401mwsswd2cgac4sqm83av3-lichat-protocol",
+  "sha256": "1s9sa38wm338nr0wxgk0bqfly0gm7vwjymsrnjgpn8065vvdp54i",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

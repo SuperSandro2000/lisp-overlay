@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/y2q-actionman/cl-json-pointer.git",
+  "rev": "0c42a979055b7e81d7cc5fa7c5be255c0255c798",
+  "date": "2019-05-08T11:42:15+09:00",
+  "path": "/nix/store/g7can091khdai7sr3b2k70xhay0igllw-cl-json-pointer",
+  "sha256": "1877dx37hyy9b4izv3l1h0pc3df3z9lq8h80i1xf70xcbwn5cib6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

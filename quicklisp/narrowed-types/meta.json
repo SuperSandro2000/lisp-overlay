@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jpcima/narrowed-types.git",
+  "rev": "ed7b0362cc80ef5dffbfa2ad2863afad2ef9c383",
+  "date": "2017-04-10T11:27:01+02:00",
+  "path": "/nix/store/2fbssyg8m185vj2dcplsqngbgc5lp5cr-narrowed-types",
+  "sha256": "03v4jgdysapj3ndg2qij7liqc6n9zb07r5j4k1jhmhpml86jxg4g",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

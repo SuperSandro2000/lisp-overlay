@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/eudoxia0/find-port.git",
+  "rev": "811727f88d7f000623bf92fdb0e64678a7112a28",
+  "date": "2019-06-01T18:16:46-03:00",
+  "path": "/nix/store/5p02zbjlcqdzg45v9msv9lrvmclvgdm0-find-port",
+  "sha256": "1fw6q7d2bxxb7fqk548ylq8mx4sz95yc0q5h0rwd0mnqjrbwbari",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

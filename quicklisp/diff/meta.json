@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/sharplispers/diff.git",
+  "rev": "9c84befa598d4e07c3d223242b5b3f83cd94f301",
+  "date": "2013-08-09T11:18:27-07:00",
+  "path": "/nix/store/v1r7iykwskfm1djicd08yb2nk1mp83jn-diff",
+  "sha256": "1giafck8qfvb688kx5bn9g32rfc12jjywg8vdav36aqbd6lxf5z5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

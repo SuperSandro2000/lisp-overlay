@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/antifuchs/cl-beanstalk.git",
+  "rev": "7b925a769d6e61fbcf0c122400146123f18e55cc",
+  "date": "2011-06-15T22:38:02-07:00",
+  "path": "/nix/store/ij8lbvczjaq16mkzg9x6wa0rqiw03kpx-cl-beanstalk",
+  "sha256": "0zn45xlg1vw8zjzi8kn342kyhm19gzrqk9pb84x15p9a9dfpiy1y",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

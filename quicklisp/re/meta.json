@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/massung/re.git",
+  "rev": "cfbc1f482970221e80d445080a188fd5c755cd2c",
+  "date": "2019-12-31T00:29:17-06:00",
+  "path": "/nix/store/pvid3dfqvlxgkca05glg7sd3j9fhpgx5-re",
+  "sha256": "1y2gq2sckspnq8118bix55p2j43dk9qn3p8a2rplp1ip2qxqbb1i",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

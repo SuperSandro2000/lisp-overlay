@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/masatoi/cl-libsvm-format.git",
+  "rev": "3300f84fd8d9f5beafc114f543f9d83417c742fb",
+  "date": "2018-05-31T15:30:28+09:00",
+  "path": "/nix/store/l1phk5mc1w04mpi4dpzcjiavwn1yll7s-cl-libsvm-format",
+  "sha256": "0284aj84xszhkhlivaigf9qj855fxad3mzmv3zfr0qzb5k0nzwrg",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shirakumo/cl-soloud.git",
+  "rev": "f4958d96aede2a34a47ed32e39f63dc250aac0c9",
+  "date": "2019-06-22T10:28:42+02:00",
+  "path": "/nix/store/lf1iqidqzgq7q1dpiqjk2r16l6snvw7g-cl-soloud",
+  "sha256": "1scdnhf052sa77zd4f250mxdqjjny2jcigwhgccrp1gldcs0ks37",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/MartinEnders/hl7-client.git",
+  "rev": "e19ff719f2f5fffe6902cb57eafcb0689025d0a3",
+  "date": "2015-03-03T17:11:17+01:00",
+  "path": "/nix/store/dgwjmnh7vszyvyvxdq3q01f70p18n1sw-hl7-client",
+  "sha256": "0hq5ip6f1hbdiydml5f1z7qsjaq1v3a3g4y5a87jaif027pwhd89",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

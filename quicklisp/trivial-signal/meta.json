@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/guicho271828/trivial-signal.git",
+  "rev": "bd123bf618e7c8e0dd489401944d7ce409aa8583",
+  "date": "2019-06-25T21:00:50+09:00",
+  "path": "/nix/store/izjpira5g1ixvvb6gw7h9fh21g5rxg4b-trivial-signal",
+  "sha256": "13rh1jwh786xg235rkgqbdqga4b9jwn99zlxm0wr73rs2a5ga8ad",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

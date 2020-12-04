@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/modularize-interfaces.git",
+  "rev": "96353657afb8c7aeba7ef5b51eb04c5ed3bcb6ef",
+  "date": "2019-06-22T09:34:21+02:00",
+  "path": "/nix/store/2fagfiwdf8nb4hjhdwblz6iqamrbqgxb-modularize-interfaces",
+  "sha256": "0bjf4wy39cwf75m7vh0r7mmcchs09yz2lrbyap98hnq8blq70fhc",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

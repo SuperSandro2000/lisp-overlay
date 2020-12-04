@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/shamazmazum/freebsd-sysctl.git",
+  "rev": "5b4b6b939eb99f4a9f1be593c11932f7a11c947b",
+  "date": "2018-06-05T05:46:53+03:00",
+  "path": "/nix/store/gi5xlbjg6gn8zcgn344pjxhcxj25rn9v-freebsd-sysctl",
+  "sha256": "1vcqzq9ddzl87kww1s165fga60g1s8j0ywr2v5cac1gyf7j04mg0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

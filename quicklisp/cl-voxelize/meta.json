@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/takagi/cl-voxelize.git",
+  "rev": "a25f6234898c2fc28382e8e037e0de3f8f3a04e3",
+  "date": "2015-06-12T08:54:11+09:00",
+  "path": "/nix/store/586ii9jy55i6nvzdw2yiih0dycphg2y6-cl-voxelize",
+  "sha256": "1sim8n175dgy0i0dxi1vsqzgjx07lgsnrgn3bizzka58ni5y8xdm",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

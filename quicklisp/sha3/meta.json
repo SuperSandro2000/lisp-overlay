@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/pmai/sha3.git",
+  "rev": "92e0e0b916502085932e15a27525922135d9d065",
+  "date": "2018-02-24T13:08:14+01:00",
+  "path": "/nix/store/wl54q2anjvrpmmnvda5wsg1dlgcgw8i0-sha3",
+  "sha256": "112pwx8jzraxn0xqssmjlgd7j4sbl19vz6l8ansdq1zd69dryzy6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

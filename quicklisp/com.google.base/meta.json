@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/brown/base.git",
+  "rev": "e7a1233771c00fe4e178427872968d5a849df525",
+  "date": "2020-08-02T17:44:06-04:00",
+  "path": "/nix/store/zxzdfs7h3als7xmd1yfavvjzbzw2l279-base",
+  "sha256": "1drc341sqmrmyvdgqpdy066f0z0ia0kl3ppq0rlxznlxhn17x3xj",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

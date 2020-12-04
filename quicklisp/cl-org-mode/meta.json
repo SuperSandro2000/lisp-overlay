@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/cl-org-mode/cl-org-mode.git",
+  "rev": "5746839afd105b0a672a7f2ddb97bb5c8265014f",
+  "date": "2009-12-01T12:13:46-08:00",
+  "path": "/nix/store/gf0rzpzswx21cwgic4brxqqdb19g5nnx-cl-org-mode",
+  "sha256": "1fvwl9jlbpd352b5zn2d45mabsim5xvzabwyz1h10hwv4gviymzf",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

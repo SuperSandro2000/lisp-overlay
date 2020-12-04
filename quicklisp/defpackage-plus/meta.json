@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/rpav/defpackage-plus.git",
+  "rev": "5492e27e0bdb7b75fa5177ea4388519dc7a75f11",
+  "date": "2018-01-03T14:32:18-06:00",
+  "path": "/nix/store/i8vz82f0gk3xavmb6lp1jmnkdl1mzq8v-defpackage-plus",
+  "sha256": "0lzljvf343xb6mlh6lni2i27hpm5qd376522mk6hr2pa20vd6rdq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/rigetticomputing/cl-grnm.git",
+  "rev": "778a312e9eb3d3de7541457b516ea3d9055a15aa",
+  "date": "2018-01-26T13:34:08-08:00",
+  "path": "/nix/store/03c8aw565gjsii2ymkzi4jj5rwnzk1yb-cl-grnm",
+  "sha256": "1hb5n37n3x2ylrghcqsia2g9a6f5wg24l659jiz4ncpi5bsv4m3s",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

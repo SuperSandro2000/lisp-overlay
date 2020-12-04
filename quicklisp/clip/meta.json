@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/clip.git",
+  "rev": "7afa68702fbb99c47ed115ea0faccd97a29d9b2e",
+  "date": "2020-04-10T19:35:41+02:00",
+  "path": "/nix/store/7ag1v9f8pgjfml3lzq65njvlvzhvm6gk-clip",
+  "sha256": "13kkajkva2shm19fvn4yashsw18l6imv2rmy3hmpcky7g5ay7bv3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

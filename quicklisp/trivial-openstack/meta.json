@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/zodmaner/trivial-openstack.git",
+  "rev": "d0903b8ddc6f217f24b9e8a6e83ad8e1ae1aed0a",
+  "date": "2016-06-24T22:57:31+07:00",
+  "path": "/nix/store/20mx7yszxckxp33bls2mzklyvy8cggjk-trivial-openstack",
+  "sha256": "0sdc6rhjqv1i7wknn44jg5xxnz70087bhfslh0izggny9d9s015i",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

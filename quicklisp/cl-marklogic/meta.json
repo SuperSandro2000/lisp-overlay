@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/opsresearch/cl-marklogic.git",
+  "rev": "a84d0a06b8fc774e06c29a66b764cb46f95315f1",
+  "date": "2017-03-22T08:26:17-04:00",
+  "path": "/nix/store/ivin5im2xs70b93j5zrm51c603dqr0z8-cl-marklogic",
+  "sha256": "127z1da91gb09as8pc5gmp6xf877ny1ifxnb0fgf6cni7f6qcnqj",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

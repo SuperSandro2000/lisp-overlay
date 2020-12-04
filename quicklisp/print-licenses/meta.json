@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/vindarel/print-licenses.git",
+  "rev": "1f17230be205a72911a076007398ffe1ca3ba49b",
+  "date": "2018-09-01T21:48:14+02:00",
+  "path": "/nix/store/r82kjlab5dlsrw7wh16y657yjiyhbldr-print-licenses",
+  "sha256": "104d8dzb0015z83nl5gb2sirhrfbxsmc9jcgv4f6s7j42fsljm0q",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

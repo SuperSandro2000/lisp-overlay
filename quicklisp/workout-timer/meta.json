@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/frideau/workout-timer.git",
+  "rev": "0e3f0104ddb26524f8445ddcf5e34dafe43aa8dd",
+  "date": "2017-12-05T00:41:06+00:00",
+  "path": "/nix/store/vr5npmfyp5z7lq8c037rdn7zmkwgrwhg-workout-timer",
+  "sha256": "0h0afih971i0wv6ikknmk14115r5sdz5a011561f6ha251ynhy0f",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

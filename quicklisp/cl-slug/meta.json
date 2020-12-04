@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/EuAndreh/cl-slug.git",
+  "rev": "ffb229d10f0d3f7f54e706791725225e200bf749",
+  "date": "2017-05-05T01:41:49-03:00",
+  "path": "/nix/store/b1jm1q5y2x3nsga1wfd3b59z3xwwascp-cl-slug",
+  "sha256": "1asdq6xllmsvfw5fky9wblqcx9isac9jrrlkfl7vyxcq1wxrnflx",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

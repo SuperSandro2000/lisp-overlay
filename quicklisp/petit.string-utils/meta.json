@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ichimal/petit.string-utils.git",
+  "rev": "e07782bcd5b5f3b894864f7a0aee5109cd2cad83",
+  "date": "2014-10-12T19:32:40+09:00",
+  "path": "/nix/store/vgx6gfj55qzw9kjlb2ay1v2ldww1n173-petit.string-utils",
+  "sha256": "04kqdj69x53wzvpp54zp6767186in24p8yrr82wdg2bwzw4qh4yl",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

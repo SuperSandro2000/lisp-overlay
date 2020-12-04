@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/sharplispers/cl-jpeg.git",
+  "rev": "ec557038128df6895fbfb743bfe8faf8ec2534af",
+  "date": "2017-06-29T23:51:37+02:00",
+  "path": "/nix/store/vy1aq6pz68g29ir9qp18qjj67m2wqg29-cl-jpeg",
+  "sha256": "1bkkiqz8fqldlj1wbmrccjsvxcwj98h6s4b6gslr3cg2wmdv5xmy",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

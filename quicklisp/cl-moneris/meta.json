@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/vsedach/cl-moneris.git",
+  "rev": "422b61070a17468908d4f5bf3d2b023eef553f4e",
+  "date": "2011-03-22T21:52:56-04:00",
+  "path": "/nix/store/i908mvcr855kp1rvzcksm6gjs7pki898-cl-moneris",
+  "sha256": "1jvzssjb273ijbdcpxpl6ajh02k4h6l5j4vjxkh69cnrq3dcsvfc",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

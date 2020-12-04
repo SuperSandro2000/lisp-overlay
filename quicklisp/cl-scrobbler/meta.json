@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/redline6561/cl-scrobbler.git",
+  "rev": "0635e9a8de8ce785b755e31910e2e6f7750bd245",
+  "date": "2011-10-30T17:55:42-04:00",
+  "path": "/nix/store/pqdsx8cp94fzpnzqxk0kvrir0fiyrrw8-cl-scrobbler",
+  "sha256": "0cd0zfmhxf5chcg7hncavfjr8m06cjbiyqylk76z8mprdsv1n062",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

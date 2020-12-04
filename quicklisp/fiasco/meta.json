@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/capitaomorte/fiasco.git",
+  "rev": "bb47d2fef4eb24cc16badc1c9a73d73c3a7e18f5",
+  "date": "2020-05-14T17:10:55+01:00",
+  "path": "/nix/store/wz94xziwv3cksjrlrp8mcgnbzcd5dwmn-fiasco",
+  "sha256": "1k8i2kq57201bvy3zfpsxld530hd104dgbglxigqb6i408c1a7aw",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

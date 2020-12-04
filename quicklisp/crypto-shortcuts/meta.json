@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/crypto-shortcuts.git",
+  "rev": "7efd22d80e867cd8c9f8f363d4fe7b51ee2dadc0",
+  "date": "2020-10-10T11:44:57+02:00",
+  "path": "/nix/store/8d24rgydf9af28dzd6hd2gspvh8izhfi-crypto-shortcuts",
+  "sha256": "0c0m0ar04jn7qf2v8c4sivamlzki03r13rnxy8b3n27rh9r6hgin",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

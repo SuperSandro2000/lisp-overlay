@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/brown/swank-crew.git",
+  "rev": "63d1699f44f9bbf449415b1ea6426af2ed5a4c61",
+  "date": "2020-05-02T23:06:08-04:00",
+  "path": "/nix/store/lxl5vaycjak81d58g5vzk33hn8l8rm24-swank-crew",
+  "sha256": "0gfdkq4c1zzgkpxinfws9k9n6igisj6lmzz6n195m3g4kahx1nq4",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

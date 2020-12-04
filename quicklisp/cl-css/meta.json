@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Inaimathi/cl-css.git",
+  "rev": "8fe654c8f0cf95b300718101cce4feb517f78e2f",
+  "date": "2014-08-27T09:33:48-04:00",
+  "path": "/nix/store/zjy3cgvbs7x9ml96q8rv2asxd692j32v-cl-css",
+  "sha256": "1lc42zi2sw11fl2589sc19nr5sd2p0wy7wgvgwaggxa5f3ajhsmd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

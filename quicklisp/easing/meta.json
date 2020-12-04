@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/vydd/easing.git",
+  "rev": "1601a5f7413ba92c355d95a7d5200b648ddcdf35",
+  "date": "2017-05-30T20:04:25+02:00",
+  "path": "/nix/store/9bzdg7laadcy5jnwjlj3986nlhlsc02v-easing",
+  "sha256": "0750cs5kij8hi53960lzih57xrf92fj23i3hxzhqzcyla4wi4jv5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

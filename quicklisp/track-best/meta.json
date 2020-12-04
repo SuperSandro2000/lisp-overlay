@@ -1,0 +1,10 @@
+{
+  "url": "http://git.nklein.com/lisp/libs/track-best.git/",
+  "rev": "bf343a1a5ef2b7f9503c5f7a5d6598769487b7a8",
+  "date": "2013-09-01T10:19:37-05:00",
+  "path": "/nix/store/4yq60vvqihah02bk477m4wz22z3g3c6b-track-best",
+  "sha256": "127mr8xcgmr5ddyz49qlscm97qnilmmjvgcakfwaxpxgivds349d",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/joachifm/cl-webkit.git",
+  "rev": "5ce3ea1fbf2b21e7ccb98402a818508ca9b79395",
+  "date": "2020-12-03T09:41:30+00:00",
+  "path": "/nix/store/baxhibmrj872bynk167pvpza0a9i0fjn-cl-webkit",
+  "sha256": "0zgd8hp2nalh0v4xgjvqxd6rf95f7mci181xbg3gmqxxwxd4mkpk",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/orthecreedence/glu-tessellate.git",
+  "rev": "417c3cf8e301839bd0c1d0156174e2f71a5d0344",
+  "date": "2015-06-01T09:32:21-07:00",
+  "path": "/nix/store/1i2gx98lq0v9jsgmnvvl8hvddbnrzhc2-glu-tessellate",
+  "sha256": "1iwnvk341pidxdsjb2c730k6a7nr1knd5ir0v83y6jhsf78r9krh",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

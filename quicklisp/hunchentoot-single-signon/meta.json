@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/lokedhs/hunchentoot-single-signon.git",
+  "rev": "66e6861335c32d3b8a6e53cae12b4a176632bf26",
+  "date": "2013-10-31T12:37:54+08:00",
+  "path": "/nix/store/r24cfwdaxfp7mzh0i66psgckkjqpbrmi-hunchentoot-single-signon",
+  "sha256": "0dh16k4105isqwnkl52m55m6cbl7g8wmcrym8175r2zr6qcbghq8",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

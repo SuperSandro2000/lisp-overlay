@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/redline6561/romreader.git",
+  "rev": "f1de6211f909f75a5375716251e9e63a0faabd7f",
+  "date": "2014-05-07T14:46:45-04:00",
+  "path": "/nix/store/0525258z690c8a83pghl990h765l95xb-romreader",
+  "sha256": "1k3fnh48vy5wdbqif4hmflmxc3xnihyi1222cldcjvxl294yk6xx",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

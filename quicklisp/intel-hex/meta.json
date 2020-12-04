@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/takagi/intel-hex.git",
+  "rev": "9be3280e7d08a116916b84b6d626a326954bba79",
+  "date": "2016-02-16T17:52:42+10:00",
+  "path": "/nix/store/njnx7jdbixxs92b29mj2zkynxlpgzr5f-intel-hex",
+  "sha256": "0sz51qw262nh6ziwpy1kgv257nj56rp42s0g6g2rx3xv1ijdy395",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

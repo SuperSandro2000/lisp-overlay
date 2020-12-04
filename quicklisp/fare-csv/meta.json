@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/frideau/fare-csv.git",
+  "rev": "a377afcc6d7036408421cbf892df1e7d37922452",
+  "date": "2017-12-02T05:04:05-05:00",
+  "path": "/nix/store/7qx77vw9fhzragbrjzi8ldbkm3m9cvg1-fare-csv",
+  "sha256": "07y15zm2x28crfjjpcngqqmzzrm2fgj5k8hd1l39qii44wc4rm4b",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/e40/cl-quakeinfo.git",
+  "rev": "f164678878e5948ec846bf073e5c3a983645fcc6",
+  "date": "2015-09-16T07:34:37-07:00",
+  "path": "/nix/store/75hbi6xwwq9sdkbl0c98p7zxzv99v7ps-cl-quakeinfo",
+  "sha256": "0a9gbkja6zx7yicvg4fdw0jwnrk75hmr98m7gr4n10x7nxabk7bi",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

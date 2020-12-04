@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/ralt/linux-packaging.git",
+  "rev": "e30bb0632c77b48e9d84d6a6e46a36154e668f70",
+  "date": "2020-11-15T21:35:54+00:00",
+  "path": "/nix/store/qnnbw8qi27k56zs28cx5l0zaw90lghd7-linux-packaging",
+  "sha256": "0c0y1sxw4lncslyyfpzp772xyr7fgkym5wwlwh1nfsmvmz9q6k36",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/pve1/incongruent-methods.git",
+  "rev": "bf207707f131b48686273d646cab1cccd9438e8b",
+  "date": "2012-12-11T22:49:07+02:00",
+  "path": "/nix/store/15lazfgbliaxpcamvflzmhx521ghhr5n-incongruent-methods",
+  "sha256": "15xfbpnqymbkk92vbirvccxcphyvjmxcw02yv1zs6c78aaf4ms9z",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

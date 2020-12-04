@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/jose.git",
+  "rev": "eabd43d3c28a25aefdd2c560d493055dd6e0e777",
+  "date": "2018-06-11T14:48:54+09:00",
+  "path": "/nix/store/6kpjjl142nbyp09xasc1nizriybph87i-jose",
+  "sha256": "078kqzr1fcbvgfka6clngr3dcz7k19znnpj93i8dipk6r1bf0k1r",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

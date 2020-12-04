@@ -1,0 +1,10 @@
+{
+  "url": "https://git.benkard.de/mulk/cl-json-template.git",
+  "rev": "36838f04f1b3967181993530dc5a03c5bcb9908a",
+  "date": "2017-05-14T17:38:52+02:00",
+  "path": "/nix/store/6ikykvrqc93l8vl6bpbkj0nxawgz0g6a-cl-json-template",
+  "sha256": "15492p6zj7aqr09aa91qxslxy6qzly2w8n5hji28bj5gl4qdypz1",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

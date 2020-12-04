@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gwkkwg/trivial-shell.git",
+  "rev": "e02ec191b34b52deca5d1c4ee99d4fa13b8772e0",
+  "date": "2017-06-28T15:25:18-04:00",
+  "path": "/nix/store/08nqx23d8g17ffzzvy57nygxjw6rbgj0-trivial-shell",
+  "sha256": "08mpkl5ij5sjfsyn8pq2kvsvpvyvr7ha1r8g1224fa667b8k2q85",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

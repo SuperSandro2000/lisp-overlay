@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/compufox/simple-config.git",
+  "rev": "f4cc29c00c9f02a1f3393985965ff990134b57d1",
+  "date": "2020-02-04T21:59:15-05:00",
+  "path": "/nix/store/w0zggghkrs8gr423ynkkhsfzwmg9h76x-simple-config",
+  "sha256": "0c25hng8brqm4jj8zawlbllzr4kyh9kwxcpwa88fjnf6ns1m9dm0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

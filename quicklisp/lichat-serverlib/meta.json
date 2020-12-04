@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shirakumo/lichat-serverlib.git",
+  "rev": "681686819da9fbb67d76d3493dbc5cab49b46c71",
+  "date": "2019-06-22T10:25:32+02:00",
+  "path": "/nix/store/n9dcd4vh4p3d83x18s99dn36rbc0m7yx-lichat-serverlib",
+  "sha256": "1d0x1pwrrr4hwg7n2hf7nqibh4zrk0ifha8f6q0qzw923pqpjixw",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

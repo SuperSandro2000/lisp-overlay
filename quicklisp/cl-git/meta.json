@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/russell/cl-git.git",
+  "rev": "020c438b7261b07c675183adc4f53c7eec308ba6",
+  "date": "2015-06-17T09:49:56+10:00",
+  "path": "/nix/store/37h37rh3n2l9s3vgn6snl7dxlid4m4i2-cl-git",
+  "sha256": "0qh42rjga05569224zdfc3ddhzhjps7kvlbrgmldfp7v1v69z4rd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

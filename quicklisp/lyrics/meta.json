@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mihaiolteanu/lyrics.git",
+  "rev": "1ceffca07f4a78f28d60609a939be4594a79b8ea",
+  "date": "2019-10-12T20:52:46+03:00",
+  "path": "/nix/store/4vwsb6chrcdhxgj73pa4sbh8r8gx8xnn-lyrics",
+  "sha256": "0b1smm4k4cdxdzlkhfyzs1rph1433gq07amnzjaklakvqqnmq2fr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mfiano/shorty.git",
+  "rev": "890a474de6262cadc908d1e18f69b48993d7551d",
+  "date": "2018-02-14T16:54:51-05:00",
+  "path": "/nix/store/akhb4rp4ysy1zbpyapyg9wq6sz81nzw9-shorty",
+  "sha256": "02an1252ddnbdd0sr971lx5hbcw6gdibchb91ha6agsb58jlpgi5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

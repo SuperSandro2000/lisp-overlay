@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/eugeneia/file-types.git",
+  "rev": "6f5676b2781f617b6009ae4ce001496ea43b6fac",
+  "date": "2016-09-16T13:58:34+02:00",
+  "path": "/nix/store/7xm4z10r19mirbzf2a2kj2in4g0gwv76-file-types",
+  "sha256": "09l67gzjwx7kx237grm709dsj9rkmmm8s3ya6irmcw8nh587inbs",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

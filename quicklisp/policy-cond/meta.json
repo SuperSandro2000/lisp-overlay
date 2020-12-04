@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/stylewarning/policy-cond.git",
+  "rev": "eedb625520175bfdf44d385ff3b21039b7f75706",
+  "date": "2020-04-02T18:15:30-07:00",
+  "path": "/nix/store/czqi9pk7ghlsnvbvcs2vrnhkmh3ryp9x-policy-cond",
+  "sha256": "0xj2a6lcg7i7g4038sc4f641din6m8vdiha8c5afz9fik80bshxk",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

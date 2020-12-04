@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/sirherrbatka/cl-progress-bar.git",
+  "rev": "9374170858663c8fe829e9fb5a29bd2cb48d95ae",
+  "date": "2018-10-10T19:05:50+02:00",
+  "path": "/nix/store/qqrsqrbam98lgdi2l512f9c2y8hb4cpa-cl-progress-bar",
+  "sha256": "1ldb4qhmx431n3lsq71ynwb9ybazbfqd55icjbhi06mj52ngndir",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

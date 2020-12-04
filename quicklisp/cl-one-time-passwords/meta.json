@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/bhyde/cl-one-time-passwords.git",
+  "rev": "a80becf4ae9b751d26e6437310984297864f211f",
+  "date": "2017-09-12T09:55:57-04:00",
+  "path": "/nix/store/srzkqslgngph3xywx5yzanlz18y0rc3m-cl-one-time-passwords",
+  "sha256": "1nhq2jij257cfaadh9k421qaisicxpmx3wsc4kivf1psgbrc56lg",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

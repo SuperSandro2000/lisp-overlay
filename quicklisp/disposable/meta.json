@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/cbaggers/disposable.git",
+  "rev": "3f93974e0dbf3271def9c054af86797d822a86d9",
+  "date": "2016-01-18T13:54:57+01:00",
+  "path": "/nix/store/ac8sl6fknwqm2zjx0hcrq0r1wdhgv5dv-disposable",
+  "sha256": "18synnlg4b8203rgww644dj7ghb4m1j33lb4zm64850vqy5b3pz7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

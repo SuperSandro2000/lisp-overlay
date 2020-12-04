@@ -1,0 +1,10 @@
+{
+  "url": "http://github.com/own-pt/cl-conllu.git",
+  "rev": "2dc6873e52da1635984d5f8a73c06bcfdc40ae43",
+  "date": "2020-11-11T15:47:30-03:00",
+  "path": "/nix/store/v056mmdcgcl0f040mx3yiid97wiwnlib-cl-conllu",
+  "sha256": "15yqsnhb02rnrd0ndhnp974g51hrm5z2ms71p3cw7jaj54pc4jnh",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

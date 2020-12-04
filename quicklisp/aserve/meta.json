@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gendl/aserve.git",
+  "rev": "a429b2d91c4aefa20796592c36699b7b2821bc06",
+  "date": "2018-10-22T22:21:51-04:00",
+  "path": "/nix/store/h0lg4p46iva1ldi8wpyvgpx39ac2lgfj-aserve",
+  "sha256": "1rkc1fsg2ilp9ykfhvmqsc2jrfliafm892pdlp1wyxk8bqqcmc8y",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

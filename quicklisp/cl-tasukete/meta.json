@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gos-k/cl-tasukete.git",
+  "rev": "b0a5b9310ccac30aebbabb84aa311ba9a7594f23",
+  "date": "2017-04-04T15:15:05+09:00",
+  "path": "/nix/store/8719mndp3lbqzdq1xv8r8ssf9gb5y6qs-cl-tasukete",
+  "sha256": "0i8ibg2a33mb32vr2b70psb5dvh47r52lfhkh84rxzmcsk6ww230",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

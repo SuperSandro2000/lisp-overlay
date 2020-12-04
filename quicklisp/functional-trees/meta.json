@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/GrammaTech/functional-trees.git",
+  "rev": "6b6b2336a506168f93dfa721aa0f6bcec5172f5a",
+  "date": "2020-10-21T13:18:01-04:00",
+  "path": "/nix/store/qn7bdbwxhl8sz0iplacqmal1zawqr6ji-functional-trees",
+  "sha256": "06ad9dzln3d8kcp6inlsa7jl6yzz0bw8ggwsi4xrfkl96pxmiar0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

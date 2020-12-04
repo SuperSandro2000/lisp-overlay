@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/vindarel/cl-str.git",
+  "rev": "9d2d881cf810e92a004810f710f933b9fcc331fe",
+  "date": "2020-11-14T09:33:37+01:00",
+  "path": "/nix/store/0avxs6jdnjdvlminp4gdy5s4mbc72x4p-cl-str",
+  "sha256": "164yqlsw9m8gyfaaqhssgclvrrysdr9kjjj8y1gfdjxc7s0w86v0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

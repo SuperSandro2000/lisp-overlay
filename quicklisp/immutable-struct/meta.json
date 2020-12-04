@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/guicho271828/immutable-struct.git",
+  "rev": "3ddf1053f05ace905a2bcf83e112c10a337c34a1",
+  "date": "2015-07-04T00:45:18+09:00",
+  "path": "/nix/store/9xfp0p6mmz08fhkcb68pql4ym3mjqx8i-immutable-struct",
+  "sha256": "02868d21hcc0kc3jw8afx23kj6iy1vyf2pddn8yqfrkpldhd0rv9",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

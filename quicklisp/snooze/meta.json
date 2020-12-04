@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/capitaomorte/snooze.git",
+  "rev": "ed265577907af6da86b18b7faaea8330b30f53ca",
+  "date": "2020-08-03T11:37:53+01:00",
+  "path": "/nix/store/5pzjql35kdw9q0a552v9b3f6877pz438-snooze",
+  "sha256": "0q37p6hv29xznxrb0h3wcc1jd27swipnci11k208agj2caviy14b",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/death/exponential-backoff.git",
+  "rev": "8d9e8444d8b3184a524c12ce3449f91613ab714f",
+  "date": "2014-12-19T03:02:22+02:00",
+  "path": "/nix/store/j5ga3di0s4qc6iw7iy709wsxi8g4kak4-exponential-backoff",
+  "sha256": "1389hm9hxv85s0125ja4js1bvh8ay4dsy9q1gaynjv27ynik6gmv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

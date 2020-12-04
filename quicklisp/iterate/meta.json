@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/iterate/iterate.git",
+  "rev": "b6f7a48253c2a28293fbddc377c98f92abdad538",
+  "date": "2020-05-11T19:06:51+02:00",
+  "path": "/nix/store/k39k84xlyvfml5l8adbpa7c052m21gpm-iterate",
+  "sha256": "1wgv1dn13sjyjvkjgcsjmr43q0s7ix8265c0ak012drhksnfzis2",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

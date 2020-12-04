@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/austinhaas/pettomato-indexed-priority-queue.git",
+  "rev": "3e018341cccae34cc283ffa1df248aaa93ec58f7",
+  "date": "2012-03-02T14:09:56-08:00",
+  "path": "/nix/store/afhxcgi7vwvm1i5mkxn5yiqwpifbczv2-pettomato-indexed-priority-queue",
+  "sha256": "14i36qbdnif28xcbxdbr5abzmzxr7vzv64n1aix0f6khxg99pylz",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

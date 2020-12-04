@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fisxoj/clack-static-asset-middleware.git",
+  "rev": "bde0de6b2aa3ed6a5796dd54e28d0ded8e75f7db",
+  "date": "2016-06-27T11:55:04-04:00",
+  "path": "/nix/store/r20q3abj2rk2hdkxa8p6ks58vypsmc9s-clack-static-asset-middleware",
+  "sha256": "1br03wz49pwvmi6cjr9bii1cca4053ynyigh0cb30yli20459kq5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

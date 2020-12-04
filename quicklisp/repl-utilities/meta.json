@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/m-n/repl-utilities.git",
+  "rev": "e0de9c92e774f77cab1a4cd92e2ac922ac3a807e",
+  "date": "2015-05-31T16:32:52+00:00",
+  "path": "/nix/store/lr7wna9pwbiy8r6sskpj73ccwylmbrzb-repl-utilities",
+  "sha256": "1r5icmw3ha5y77kvzqni3a9bcd66d9pz5mjsbw04xg3jk0d15cgz",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

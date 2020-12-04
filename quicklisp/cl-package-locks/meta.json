@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/elliottjohnson/cl-package-locks.git",
+  "rev": "96a358ede7cef416d61d2f699e724fe1d9de602c",
+  "date": "2011-02-05T13:33:27-08:00",
+  "path": "/nix/store/mhma4ni6kbf0m1byk6ldh8afiahafn45-cl-package-locks",
+  "sha256": "0g3gfljnvpgd66ccd2sqawlkwqx4a0wsdrg5180va61w869cgxqq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

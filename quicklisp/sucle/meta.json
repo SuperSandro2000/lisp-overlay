@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/terminal625/sucle.git",
+  "rev": "258be4ac4daaceea06a55f893227584d3772bb47",
+  "date": "2020-03-26T15:29:17-04:00",
+  "path": "/nix/store/jacxhbckf565k99cfgbbcxh5gi99j7ma-sucle",
+  "sha256": "033akkn9zxc6qdgycgxgybx3v23638245xrx29x2cbwnvg3i1q34",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

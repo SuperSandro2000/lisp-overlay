@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/yitzchak/ziz.git",
+  "rev": "0232d0b67c876c8527cb16dbbff21f3ffa6c9c64",
+  "date": "2019-09-29T13:32:58-04:00",
+  "path": "/nix/store/p9zhpcmhcjazrip0phs3cyfa6i7ql8pi-ziz",
+  "sha256": "1rh6ixkyyj7y9jkw046m4ilmr8a12ylzm0a7sm8mjybdpkh6bk30",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

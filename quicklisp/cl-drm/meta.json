@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/malcolmstill/cl-drm.git",
+  "rev": "2d0ed7d22da6bfe9a60cd18972749c99bd17bff8",
+  "date": "2016-11-18T09:58:30+00:00",
+  "path": "/nix/store/lwy4s86j4n7r5lk5ni19mblzwm8ik8pb-cl-drm",
+  "sha256": "018jsdi9hs71x14mq18k08hwrgdvvbc2yqbqww6gara0bg9cl3l6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

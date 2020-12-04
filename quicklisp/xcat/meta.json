@@ -1,0 +1,10 @@
+{
+  "url": "http://github.com/jesseoff/xcat.git",
+  "rev": "8421fc1a5fdc5e775d90b98eb47c4b9c84f6e737",
+  "date": "2020-07-23T09:25:47-07:00",
+  "path": "/nix/store/0jlj7rzr7j2mn0pff36a2q3lgwxmr9wc-xcat",
+  "sha256": "1v8mcz8bidcbfl587b5lm07l91xan6z1y3zikjkyzagiigd4byvi",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

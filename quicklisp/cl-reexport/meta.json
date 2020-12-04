@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/takagi/cl-reexport.git",
+  "rev": "312f3661bbe187b5f28536cd7ec2956e91366c3b",
+  "date": "2015-06-12T09:02:11+09:00",
+  "path": "/nix/store/hy4kj7485plib33k00268jvkgls1yi87-cl-reexport",
+  "sha256": "1cwpn1m3wrl0fl9plznn7p464db646gnfc8zkyk97dyxski2aq0x",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

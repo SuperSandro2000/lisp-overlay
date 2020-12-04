@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/cl-gpio.git",
+  "rev": "a08979822cc649813b9d6d1f40b81f4981e7277e",
+  "date": "2019-06-22T09:17:30+02:00",
+  "path": "/nix/store/71yldiyy8hjwj377j3jyfjwc2yf2g9jq-cl-gpio",
+  "sha256": "1hpcj4y2xpzk5g73brahkghkmqvq4r78zq1zsjrydj5qcm1p432w",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

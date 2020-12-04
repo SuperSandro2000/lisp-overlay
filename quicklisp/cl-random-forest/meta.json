@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/masatoi/cl-random-forest.git",
+  "rev": "6d004b23af496fdb76dca06b808c19715a387437",
+  "date": "2020-07-13T11:19:59+09:00",
+  "path": "/nix/store/y0k7c0qjs4qbpprarmgm82vdi1yv9jrf-cl-random-forest",
+  "sha256": "0a7ld07jc14kz9vd1wzg2aw4pjv34znf5gr2zn1a39jkldn9m75z",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

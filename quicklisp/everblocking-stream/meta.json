@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/phoe/everblocking-stream.git",
+  "rev": "4da3bd12c6c4a35372b702ea44f333ad357e32c6",
+  "date": "2018-09-22T17:22:48+02:00",
+  "path": "/nix/store/hii4imv7mfxa5qrcscdmw8y7id3lqbrl-everblocking-stream",
+  "sha256": "1xvfsx2ldwcprlynikn1rikxh3lfdyzl2p72glzvgh20sm93p1rz",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

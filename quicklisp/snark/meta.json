@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/nilqed/SNARK.git",
+  "rev": "582338fd45347580b659debadaf53caca949fcfc",
+  "date": "2016-03-25T02:38:50+01:00",
+  "path": "/nix/store/6f4jbdbq41v609b33jmwy3yz35ks4fpy-SNARK",
+  "sha256": "0zsqaqkl9s626nk5h41z00kssjnzhbsra68zfflryp5j3gy9vgm5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

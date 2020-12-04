@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/CommonDoc/common-html.git",
+  "rev": "370fa21ca38464d850f0b57eab2dee9f41dae00c",
+  "date": "2016-04-20T23:08:29-03:00",
+  "path": "/nix/store/f3zvkzv16rgjr5aikb2cwkxgdfvj7hpg-common-html",
+  "sha256": "0g8ayp9zgfzcb54la0hridjpfz5x1kbf1fbvlbaics5kvlpjhq54",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Dimercel/cl-rules.git",
+  "rev": "5d5c1858738ff4a8cb15dbfadc5f76429f2fcbab",
+  "date": "2019-06-17T12:52:47+03:00",
+  "path": "/nix/store/vp8cy42cav3kmpdxkynzf5vb639aaqbi-cl-rules",
+  "sha256": "0jidck62n0jkfqwrpqjn43zmjb3jlfaxxhn2lsyfwy2740i8ppr1",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

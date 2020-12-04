@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/volkers/vgplot.git",
+  "rev": "c50a67161591111464d5875a6077219ff7c12033",
+  "date": "2020-06-04T16:56:28+02:00",
+  "path": "/nix/store/x31p51y09izmxiyz9c6hc44yfpynpb83-vgplot",
+  "sha256": "0nng69qw5bch83dr1m95sz71ymklx3swaihxxybimdsb31pgwyqq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

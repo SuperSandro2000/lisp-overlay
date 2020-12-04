@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mrwhythat/bp.git",
+  "rev": "33d3bea140eb61461db6649160bbebf8263c19e0",
+  "date": "2020-05-08T01:08:38+03:00",
+  "path": "/nix/store/2a8g76c2yni224azz5vn2gj7b57n74j4-bp",
+  "sha256": "04f2zm944l09l5s8mk0h4kpsdjmwmsn8j6snmanfhb472q3kllsh",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

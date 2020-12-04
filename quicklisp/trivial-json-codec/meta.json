@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/ediethelm/trivial-json-codec.git",
+  "rev": "993f202a0f40cc2218a338bfc9ab4074ebfdb378",
+  "date": "2020-03-08T22:13:55+01:00",
+  "path": "/nix/store/nfh6jjq42gr2xj486glq0fvmyizxx8zq-trivial-json-codec",
+  "sha256": "1a7cv1in4aqv9y45aa1bd5w4j3y3wn60fcf8v8fys03i1akamhyf",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

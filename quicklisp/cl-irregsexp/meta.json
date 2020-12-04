@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/cl-irregsexp/cl-irregsexp.git",
+  "rev": "cd972dd5f3aee5fc97034e36bb06a1f29d5365ad",
+  "date": "2010-03-18T00:21:54+00:00",
+  "path": "/nix/store/pq3cbrh6cpzai0p632ksls9qxpw7jh56-cl-irregsexp",
+  "sha256": "09pf3jlqskcs32shbj9q3m0zww5pxyrizbvk2nxiwwnbl1rdb406",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

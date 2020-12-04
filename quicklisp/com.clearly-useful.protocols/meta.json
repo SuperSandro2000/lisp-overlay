@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jaeschliman/com.clearly-useful.protocols.git",
+  "rev": "afc7a59275db664c1c13ced2abe0843a0a70cadb",
+  "date": "2013-02-05T18:06:43+02:00",
+  "path": "/nix/store/l9b51p60153drgmwfyn7sp5rxcic6g2q-com.clearly-useful.protocols",
+  "sha256": "0az9rs98chjj2fdmpapqkv4sgfs84n9s7vvngcl05hcbsldm0xvn",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

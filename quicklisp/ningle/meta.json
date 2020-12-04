@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/ningle.git",
+  "rev": "a9052827757c54a83c9648175c11530e79295513",
+  "date": "2019-08-23T18:28:02+09:00",
+  "path": "/nix/store/n48vjpgll803is9ncy1ri3jgwvg9i3xl-ningle",
+  "sha256": "1zqzfrhcfmqz5s274j1w1bml9g80za8jd6kz2vx0izbk3w2xmzh6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

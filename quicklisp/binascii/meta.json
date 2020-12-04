@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/sharplispers/binascii.git",
+  "rev": "0fb0a9e5773148fd04d50efef08c1cc10f6fc487",
+  "date": "2015-07-04T08:37:14-04:00",
+  "path": "/nix/store/yvdy0virgnmaz2krn3sw768z77l3wf4w-binascii",
+  "sha256": "000rcdl8qshr7n48zq9bzrc4lkjx4ylb3r3w9x9syhiwfla9j4b7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

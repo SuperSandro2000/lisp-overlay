@@ -1,0 +1,10 @@
+{
+  "url": "https://source.atlas.engineer/public/s-xml-rpc/",
+  "rev": "aafe87621ebf594cc5bda9dee64913fc1b85ddb5",
+  "date": "2019-05-06T19:17:00+02:00",
+  "path": "/nix/store/ni3i2a0zqp6xd4lxvbvy3m0pad949vj8-s-xml-rpc",
+  "sha256": "0z42awkz124xphkahw0mhg1pk029l2799rhyy51387ndd6gbqscx",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

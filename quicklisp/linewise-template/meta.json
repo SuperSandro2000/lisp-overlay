@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/agrostis/linewise-template.git",
+  "rev": "da6a305633a528cdac0f357f8eca55b5bb8e7f82",
+  "date": "2016-02-01T12:34:09+00:00",
+  "path": "/nix/store/wnyf8n5kzcm0xjwvhgsp00w9d6n9dybi-linewise-template",
+  "sha256": "06mbg1mq0a5xg3pgn5jml3cbzn8r8aw1p2mq26ml03gsrbiqc7m4",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

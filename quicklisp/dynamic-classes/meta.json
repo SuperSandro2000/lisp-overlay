@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gwkkwg/dynamic-classes.git",
+  "rev": "844b077e5ac5ef2127603e692af983e9952ebae9",
+  "date": "2010-12-21T08:45:02-05:00",
+  "path": "/nix/store/izayx9igqb5v57ywkm5f51qbc9yinzbx-dynamic-classes",
+  "sha256": "0sawgz6xhsq156jcq5j9px0njs4y3sq1ypccl59zyvz31bxyaaxj",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

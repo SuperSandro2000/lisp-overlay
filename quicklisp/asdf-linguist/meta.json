@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/eudoxia0/asdf-linguist.git",
+  "rev": "f15de19287a5c2ca0e453b105be0c6f143339441",
+  "date": "2015-07-29T17:30:28-03:00",
+  "path": "/nix/store/z7i9q93vx1kj1s95kzhrfs1zmppwvy3j-asdf-linguist",
+  "sha256": "14jaqmxxh70f1jf58mxb117951iql2sjxymmbjyqniqwazznbd9a",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

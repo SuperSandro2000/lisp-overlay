@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/Harag/cl-getx.git",
+  "rev": "30e8b14c053ea85c8fe71ede3346e584402c564a",
+  "date": "2020-07-15T03:03:50+02:00",
+  "path": "/nix/store/8r1wyhh0b19zyqhmh7nqln9g7fq1q0bj-cl-getx",
+  "sha256": "07gi346vqrhnbkdk4l6g06z4shhnx7f4l44jgayzfdd0xkv02brv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

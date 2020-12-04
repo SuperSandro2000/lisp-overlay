@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/definitions.git",
+  "rev": "0e789d8c417650d6de29f6896c3e77ebceadc1f0",
+  "date": "2020-02-15T16:23:59+01:00",
+  "path": "/nix/store/ymx4gd0b9iimjcy2npwnq7m9lkmpngb4-definitions",
+  "sha256": "0dqw09a0s8anyr93lpi8dyd124nj5issx3r14s9vm6sdck4cslsl",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/massung/lazy.git",
+  "rev": "fa6ec5f61c7e563c1a508864d8bb3448cc320d24",
+  "date": "2020-08-31T15:27:59-05:00",
+  "path": "/nix/store/acqry30qzagfg7dv9s80qd0qq4alfmmz-lazy",
+  "sha256": "0m099rwr7k17v984n4jnq4hadf19vza5qilxdyrr43scxbbrmw1n",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

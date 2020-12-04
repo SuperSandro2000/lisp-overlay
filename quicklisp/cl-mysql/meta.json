@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/hackinghat/cl-mysql.git",
+  "rev": "3fbf6e1421484f64c5bcf2ff3c4b96c6f0414f09",
+  "date": "2020-05-01T08:36:50+01:00",
+  "path": "/nix/store/6sb8sx0x2f98r52qcbnr3ipfjf0pcxmm-cl-mysql",
+  "sha256": "1jk2571w5zhrmza4mr5z4ia6g7r5hzhp8dsxnpx2ypnla9xpxv5h",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

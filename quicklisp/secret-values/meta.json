@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/rotatef/secret-values.git",
+  "rev": "72996c0551eea338afa355ee90e20171ac74ebd4",
+  "date": "2020-10-16T15:46:47+02:00",
+  "path": "/nix/store/wa7951j27hgk5a4anrisxg3nw89bp5sd-secret-values",
+  "sha256": "07ph49s27gvjzx60yy094bb9ddwiys34r8cx5l837i34nm2fn3nh",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

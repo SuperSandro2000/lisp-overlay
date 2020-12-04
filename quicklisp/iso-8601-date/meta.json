@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/DataLinkDroid/iso-8601-date.git",
+  "rev": "3c0e192ddc55573abc9d705bbac2d0e8678e23e8",
+  "date": "2018-12-24T15:36:16+11:00",
+  "path": "/nix/store/a9k8ffyq948zjrn8hknyz4w7raf8dgvf-iso-8601-date",
+  "sha256": "12d6jyznglm13sb04xh5l0d0bwi4y449wdyifvfy7r03qy8wypdx",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/hawkir/cl-jpl-util.git",
+  "rev": "0311ed374e19a49d43318064d729fe3abd9a3b62",
+  "date": "2015-10-05T11:08:40-07:00",
+  "path": "/nix/store/kbwafxsxldc54jsr2mb7ywlkj7njx6kf-cl-jpl-util",
+  "sha256": "0nc0rk9n8grkg3045xsw34whmcmddn2sfrxki4268g7kpgz0d2yz",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

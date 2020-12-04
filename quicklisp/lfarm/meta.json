@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/lmj/lfarm.git",
+  "rev": "f7ba49f1ec01fb99a7aeb8f18e245a44411c361b",
+  "date": "2015-06-02T22:11:26-04:00",
+  "path": "/nix/store/45lzrm7smv7qa17v89qi2aq42q3hfm8k-lfarm",
+  "sha256": "10kfhfx26wmaa3hk3vc7hc2fzk0rl2xdjwk8ld36x6ivvd48jlkv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

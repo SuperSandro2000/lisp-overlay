@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/tlikonen/cl-decimals",
+  "rev": "b7980f11282e00ac91b93b537778dad04fe85c11",
+  "date": "2019-06-24T08:47:09+03:00",
+  "path": "/nix/store/7alp9761dy06phvbzawf19q10n13w0ls-cl-decimals",
+  "sha256": "0p2ghmjvb0bl06i8b80kpc6aa1yh846lxdhcdqvr50l04kwy66ki",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

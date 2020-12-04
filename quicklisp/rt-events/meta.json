@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/npatrick04/rt-events.git",
+  "rev": "7d71fa43d65c7faa1ede17a87f5c57d772870124",
+  "date": "2016-02-13T21:29:33-06:00",
+  "path": "/nix/store/0i4fjm3lfxfh1cqql548awarrpv7l2g2-rt-events",
+  "sha256": "17wqhczsi4mq00fp5hfc38b9ijdiaqjh7cvxhy714qqz3f5mxzdw",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/cl-markdown/cl-markdown.git",
+  "rev": "4808ef7657e58e52733f528fd9812dc2df9f4e90",
+  "date": "2019-12-19T18:09:35+00:00",
+  "path": "/nix/store/2fm9gazv1j0p7ljkg3g7agw6f5nnf1rg-cl-markdown",
+  "sha256": "1wksi765nk8kf5qm2chh7dcn6k562kvc108dzdb9y5iwp97lqqvg",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ruricolist/FXML.git",
+  "rev": "b81c83b62eb1ff75d22fb1502dfdd35a4dbf9ff5",
+  "date": "2020-04-11T15:23:38-05:00",
+  "path": "/nix/store/0b8nnim17rkk6nhcbcbl691sp5j27yyx-FXML",
+  "sha256": "128hphywgw7nbcyi5n1aygc2pd26yj6i0azxkzki1c40pw8ahgr9",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

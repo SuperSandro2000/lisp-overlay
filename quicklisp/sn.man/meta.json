@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/snmsts/sn.man.git",
+  "rev": "b5368b896b59a282e8d186992d899553ec23605a",
+  "date": "2019-01-24T13:35:12+08:00",
+  "path": "/nix/store/j3dzqvqjdjga9g3wfhsyv214y6ky11cz-sn.man",
+  "sha256": "18k3j1sgm28kv9fpi88zwmk8gmjpkwyi77sbzasa83sfvkn02wn2",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

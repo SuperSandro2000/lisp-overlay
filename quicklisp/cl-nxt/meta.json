@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/woudshoo/cl-nxt.git",
+  "rev": "f642a7cb860ed08908174e66ac5eaca139367dbc",
+  "date": "2015-06-06T15:49:30+02:00",
+  "path": "/nix/store/ras5yabnvv5gpyhfjp73frb1s16c5qb3-cl-nxt",
+  "sha256": "1r9004ra140i9v2pmxnjv86dix4040jr0rgww2zwk370zxys7h2g",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/bytecurry/bytecurry.mocks.git",
+  "rev": "ecbf775d45c5d90520d168084fa05139fa8cfbe8",
+  "date": "2020-03-08T23:35:53-06:00",
+  "path": "/nix/store/d6dawkv4hbj48mxmn57mp4lw9cjyjz2f-bytecurry.mocks",
+  "sha256": "0md2j6iggmfm1v7nzcmz7f0xy2jxrsg77iszpisdzmwnijfy8ks0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

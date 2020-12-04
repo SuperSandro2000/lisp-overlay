@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gonzojive/paren-files",
+  "rev": "95d59381cddcef09f8ad4b43ffc702cc13b47961",
+  "date": "2010-07-18T00:08:52-07:00",
+  "path": "/nix/store/sbpdv54b63y8dpypa5if3nq7hb3zm5zq-paren-files",
+  "sha256": "19lwzvdn9gpn28x6ismkwzs49vr4cbc6drsivkmll3dxb950wgw9",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

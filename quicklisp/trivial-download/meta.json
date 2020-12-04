@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/eudoxia0/trivial-download.git",
+  "rev": "d2472061d86b1cf3d32f388daacd4e32a13af699",
+  "date": "2015-11-18T23:29:08-03:00",
+  "path": "/nix/store/fj4zgxxsc3vsxhpsx9iv1wrfs3y89rk7-trivial-download",
+  "sha256": "06f46zr3gp3wlm2kgxna24qd2gpr1v89x9fynh1x5vrw6c6hqjcv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/JMC-design/truetype-clx.git",
+  "rev": "397892d284662d4b37c29e28d42ff0d30df672c9",
+  "date": "2020-01-05T13:51:05-05:00",
+  "path": "/nix/store/dwf08izjym5sxyhraaxhv902p1n65lk3-truetype-clx",
+  "sha256": "1k46xa0nclj0mpd7khnlpam6q5hgnp23jixryhvv96gx47swhddr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

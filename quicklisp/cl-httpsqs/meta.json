@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Liutos/cl-httpsqs.git",
+  "rev": "7e1a6c2ea0497291ce2f8eb9ac1938d62e3fdf39",
+  "date": "2017-02-01T16:18:08+08:00",
+  "path": "/nix/store/48l4v0hhvin2cbd3kvc09zs2v2ypv26j-cl-httpsqs",
+  "sha256": "14nhr03lm8012crczjpgsmf0ydipqf3kggayshm7w72vkyf0haj7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

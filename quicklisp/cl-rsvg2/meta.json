@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/roerd/cl-rsvg2.git",
+  "rev": "8fc4cf27e0c9d14babd5d29e1736bea57d22d8ba",
+  "date": "2020-07-27T10:37:31+02:00",
+  "path": "/nix/store/hfv198z39vd74fscpg27c3bysr3h4d7y-cl-rsvg2",
+  "sha256": "1amq4q27lj0nzffvwmqrkg8v9pdcf0281zzrvxl9w6vdm9qy1v3n",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mishoo/queen.lisp.git",
+  "rev": "395535fcbd24fa463b32e17a35a4c12fdc7e2277",
+  "date": "2016-09-13T23:09:56+03:00",
+  "path": "/nix/store/yy94a4p82i9zifp1qq3733sxyi8gxwi8-queen.lisp",
+  "sha256": "187mlbhxxhgj7cx3j9vzv3a26mxnibwbp5hcbn92wzw7m04w0mln",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

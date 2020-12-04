@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/cl-fluent-logger.git",
+  "rev": "688e4fbf8762b9fa7c4d2f72fb524a9f1c3236ac",
+  "date": "2019-06-14T15:44:17+09:00",
+  "path": "/nix/store/75vlzphn8ybl9nghvac5fm591yi2ryjn-cl-fluent-logger",
+  "sha256": "14q7ymdg3hsri2z2c8fb1syqgdlk8b288v4gw645dbaxfpava2qq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

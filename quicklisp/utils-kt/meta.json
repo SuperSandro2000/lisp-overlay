@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/kennytilton/utils-kt.git",
+  "rev": "4adfe2889036ab5ffdd3cc2182ca2cc692bf11ff",
+  "date": "2020-01-26T20:57:28-05:00",
+  "path": "/nix/store/sil56md9zj509z2dm1w953310z3kmrn1-utils-kt",
+  "sha256": "016x3w034brz02z9mrsrkhk2djizg3yqsvhl9k62xqcnpy3b87dn",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

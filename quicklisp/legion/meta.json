@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/legion.git",
+  "rev": "599cca19f0e34246814621f7fe90322221c2e263",
+  "date": "2017-11-16T15:17:59+09:00",
+  "path": "/nix/store/apvsv6jwjnq0cllr5v4mp4z1d0blfix4-legion",
+  "sha256": "0583pw0mf8bd4dj42w2xrlzcwfkl8q28n1bh8dpxxfg93crx4si6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ralph-schleicher/read-number.git",
+  "rev": "a7438ab1315d0e8e411ed51615ad3ac78b15ae51",
+  "date": "2020-03-24T04:51:27+00:00",
+  "path": "/nix/store/fp6lwijbmq041i2xc0p62jmf2x5ms97s-read-number",
+  "sha256": "05cigsx64aw6f3zh9vld3db08svcj7vsgr3i2vndixdl83sfn0sy",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

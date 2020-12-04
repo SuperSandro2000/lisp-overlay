@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/f2cl/f2cl.git",
+  "rev": "d3930f885bc24be22c799ca3fd20a95125bb0bf6",
+  "date": "2020-09-23T19:46:20-07:00",
+  "path": "/nix/store/8fmrm16r4n1y11b7b8fkfvnsd1n7md2i-f2cl",
+  "sha256": "0kq1lrz0sg4kj64w0ysihnfwi65pami362fs2mvpyf1yhgxmq08y",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

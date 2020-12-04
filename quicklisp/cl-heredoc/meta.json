@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/e-user/cl-heredoc.git",
+  "rev": "7dc8cab265834f4bdc6e29f47e28c4abb7becf2e",
+  "date": "2010-07-19T14:37:44+02:00",
+  "path": "/nix/store/9razi6hw2aiqink1xv14rh4srsxkfsw2-cl-heredoc",
+  "sha256": "02123agavd17gmcz0k6nxklgz6y4rw831532b19z85f2cadl6wln",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

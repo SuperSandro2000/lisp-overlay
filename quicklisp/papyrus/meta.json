@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/asciian/papyrus.git",
+  "rev": "4256826c0b542930ee88d98cca459be3079c7bc3",
+  "date": "2019-12-11T18:56:39+09:00",
+  "path": "/nix/store/g8yyjkfyjfdflfcpg1l784d43l52zc3v-papyrus",
+  "sha256": "140k9mpm2gynpsaayvf28srlcjkin2hw02yx3g2h0i19fz88s54a",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

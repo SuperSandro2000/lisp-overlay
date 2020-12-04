@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/scymtym/architecture.hooks.git",
+  "rev": "5b638083f3b4f1221a52631d9c8a0a265565cac7",
+  "date": "2018-10-18T20:18:47+02:00",
+  "path": "/nix/store/ar4sfg5zrj03qzk0vsfx7dqzj5z8a2yk-architecture.hooks",
+  "sha256": "0bg3l0a28lw5gqqjp6p6b5nhwqk46sgkb7184w5qbfngw1hk8x9y",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

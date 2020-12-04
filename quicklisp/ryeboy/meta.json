@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/AeroNotix/ryeboy.git",
+  "rev": "be769e66ce36962199abb266952746f13ec87ddc",
+  "date": "2020-09-23T11:36:02+02:00",
+  "path": "/nix/store/d1c8grqzj4c696v04x65sgsi52qjq1c6-ryeboy",
+  "sha256": "0div6m6861damksxdxcycpdyyjn50bjsxfdkksm34w6162zdjcla",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

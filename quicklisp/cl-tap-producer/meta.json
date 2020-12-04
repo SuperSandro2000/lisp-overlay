@@ -1,0 +1,10 @@
+{
+  "url": "git://git.code.sf.net/p/cl-tap-producer/code",
+  "rev": "727a1ccd8f27eaa7389e0dd7e34d20bc3ae5b917",
+  "date": "2011-04-19T18:54:32-04:00",
+  "path": "/nix/store/lhda4bza0779fcqwjcfp9wp6crf7m1n6-code",
+  "sha256": "01vvx8ziziri1mwyfxq96dx3qhspba5qv0z41qzlkrxjm125kbwr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

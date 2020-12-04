@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mmontone/descriptions.git",
+  "rev": "89f5c87e46c06ae394891eef3131aec32bc5483a",
+  "date": "2015-02-08T14:08:36-03:00",
+  "path": "/nix/store/gk8dsl3r514d3cdnx4w2vhg3gs3rl3q3-descriptions",
+  "sha256": "0h44gxilwmzk8cbxb81047cjndksvf8vw2s3pcy2diw9aqiacg7f",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/id3v2.git",
+  "rev": "26303fc70efd290aec55fb7f74bdabf2ee0b4b89",
+  "date": "2016-01-04T14:12:59+09:00",
+  "path": "/nix/store/x0bws38drli7c15g4j5nv3xm9j4v31m9-id3v2",
+  "sha256": "0x017dfh9m80b8ml2vsgdcfs4kv7p06yzmwdilf1k8nfsilwpfra",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

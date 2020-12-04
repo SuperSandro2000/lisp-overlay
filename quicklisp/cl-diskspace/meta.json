@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/muyinliu/cl-diskspace.git",
+  "rev": "6153f36ad6a2d643ed0c8bb6aebf38543c616987",
+  "date": "2018-01-13T20:49:14+08:00",
+  "path": "/nix/store/rkrhgfas1w8d9qia42k46qmpcgp34dxy-cl-diskspace",
+  "sha256": "1wv4kq2j3vahbbssjw3py6fr4ci38myi4vypnlj6zymqiwkbnpxa",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

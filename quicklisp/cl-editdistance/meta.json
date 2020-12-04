@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/belambert/cl-editdistance.git",
+  "rev": "65e0660fa7b19e7afd5dcb6941a257ebfd73ece0",
+  "date": "2019-11-11T10:59:30-05:00",
+  "path": "/nix/store/6ncfncp6wv2nrfij8yd15cfzbxl49kcw-cl-editdistance",
+  "sha256": "0k16phlhnv62jahy0fkn1zqz8dwvps334vy255vfgd4gybgaa9v1",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

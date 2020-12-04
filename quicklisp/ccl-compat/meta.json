@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/phoe/ccl-compat.git",
+  "rev": "9d1b1ab6424b496d936f9a99d4f697a6557d879e",
+  "date": "2017-10-10T12:30:17+02:00",
+  "path": "/nix/store/qvhia10fbxsfjflkkqkaj9flv4z2icr2-ccl-compat",
+  "sha256": "15402373wprmyx4l7zgpv64vj3c11xvxnnpzqbmq4j6rljpb40da",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/AccelerationNet/cl-creditcard.git",
+  "rev": "2853c34e14b3764bd289d1458846a34dfed104c3",
+  "date": "2013-10-18T14:58:26-04:00",
+  "path": "/nix/store/nqbydkk5zsi49z7zhvdlj4i8rcw0lp2v-cl-creditcard",
+  "sha256": "1qq9r7q50k7jw6sv65aqi9xalaw8m6aqsbb0cgpjxv8wdhy934cr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

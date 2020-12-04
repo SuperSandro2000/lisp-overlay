@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/eudoxia0/cl-base58.git",
+  "rev": "f446835b4104896e0eed6a61d2ceb4ad22f589d8",
+  "date": "2015-01-06T16:08:02-02:00",
+  "path": "/nix/store/06x938ryfdzmsh1f963msk9f7455djqk-cl-base58",
+  "sha256": "01wiiyz1jzxx3zhxi2hpq5n8hv28g1mn0adk793vwjzh4v5bi5zz",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

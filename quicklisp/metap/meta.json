@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/hipeta/metap.git",
+  "rev": "66e043334755899d5a2477ffa0140b2dc50407a4",
+  "date": "2015-04-13T18:05:39+09:00",
+  "path": "/nix/store/nzh0f98f2019wwglbj08y4x122qw5wx8-metap",
+  "sha256": "0drqyjscl0lmhgplld6annmlqma83q76xkxnahcq4ksnhpbsz9wx",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

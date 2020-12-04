@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/madnificent/jsown.git",
+  "rev": "744c4407bef58dfa876d9da0b5c0205d869e7977",
+  "date": "2020-02-04T17:11:22+01:00",
+  "path": "/nix/store/89fq73s88pfpyd1qdsq9pjy4kr3r3ww3-jsown",
+  "sha256": "0gadvmf1d9bq35s61z76psrsnzwwk12svi66jigf491hv48wigw7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

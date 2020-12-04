@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/robert-strandh/eclector.git",
+  "rev": "86b00fade1b18c068485d82436ea53e9a3f85704",
+  "date": "2020-11-29T16:17:38+01:00",
+  "path": "/nix/store/yq3dpp75k8bidmdamf7pzsx2rnyy5jq3-eclector",
+  "sha256": "1axrb669qmsxs83zjk9538szz38ql49v9wkwzw33zwj5icmwlhzk",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

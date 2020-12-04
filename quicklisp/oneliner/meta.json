@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mck-/oneliner.git",
+  "rev": "90e97269de4ad88164777c86150df3241e091598",
+  "date": "2013-09-25T22:14:09-07:00",
+  "path": "/nix/store/2qf05vb27rq880q21lxi1mvzarzpgkgh-oneliner",
+  "sha256": "0q9350s0r9yjmfc2360g35qi04b3867gd7hw5ada4176whinmjxb",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

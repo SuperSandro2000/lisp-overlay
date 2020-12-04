@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/defaultxr/mutility.git",
+  "rev": "dc6e0d00044bf0f1836e5bc216f90c7cc4f53556",
+  "date": "2020-11-21T23:35:08-06:00",
+  "path": "/nix/store/810wfprvzj6ha4nb8w06lliaw6asydln-mutility",
+  "sha256": "1kygz3hvrhyfhjd3bmbcyx827gw3i4zh73idhcpn2y3b12fam7fk",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

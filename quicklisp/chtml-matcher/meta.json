@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/eslick/chtml-matcher.git",
+  "rev": "8e743f5396549b88dd6e65e31490e01a43379eae",
+  "date": "2011-09-22T17:32:47-07:00",
+  "path": "/nix/store/0ppi0g865qa8p4zlqp8d7xw33r86wldj-chtml-matcher",
+  "sha256": "1q1ksy2w0c4dcmq8543scl11x4crh1m5w29p1wjpqhxk826jx7fd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/hyotang666/read-as-string.git",
+  "rev": "a22007ebb6d8557fc4dc64ef996b93cef805375e",
+  "date": "2020-08-02T18:26:42+09:00",
+  "path": "/nix/store/w0j4i55sdwkblx75l3vlbn2c4hygbdfa-read-as-string",
+  "sha256": "1042y4pc0mk9yii7i7pjnykw410v6mpsblyqmyi5zjp62m5s3wna",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

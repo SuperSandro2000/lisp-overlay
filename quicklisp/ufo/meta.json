@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ta2gch/UFO.git",
+  "rev": "16eff1a989ae72695843c2bbcfb5ffc2b5104ca3",
+  "date": "2016-11-23T12:49:49+09:00",
+  "path": "/nix/store/g2pnirdj39ad9k18fcbbmy0iasga6hlb-UFO",
+  "sha256": "17d1gl2g7q2dcw959g5knqlhmwii23v8xk13jzh6bjmrsx9kcals",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

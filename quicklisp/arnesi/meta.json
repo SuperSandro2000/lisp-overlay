@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/AccelerationNet/arnesi.git",
+  "rev": "1e7dc4cb2cad8599113c7492c78f4925e839522e",
+  "date": "2017-03-30T11:28:24-04:00",
+  "path": "/nix/store/s81ljxi58lc5ghl7sncp4hhga0gfyswp-arnesi",
+  "sha256": "0jgj2xgd1gq6rf8ia43lkmbrbxnp8rgs053br9azfa25ygk3ikbh",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

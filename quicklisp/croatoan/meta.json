@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/McParen/croatoan.git",
+  "rev": "b9da0c4f226f46745b9e5097ce5556aafdaaf620",
+  "date": "2020-11-21T14:58:39+01:00",
+  "path": "/nix/store/is32qyqr8dxi5mdf3azii20crzr42zpb-croatoan",
+  "sha256": "0y2cys6d70g9203vh7qs4rdbl9kp7hq0fb8ic037rs7j4i3hp3zv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

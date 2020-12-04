@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/nilqed/cltcl.git",
+  "rev": "666622ddc15adc82dd80a0ce456764a965cad842",
+  "date": "2016-11-09T00:26:02+01:00",
+  "path": "/nix/store/qfjj3bs6b3d6jsvs6idlm7w9w90a65hl-cltcl",
+  "sha256": "18b7fa7m9h9xfhnkxa6r3xzj86p1fvq0mh5q8vdrdv3vxfyc2l68",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

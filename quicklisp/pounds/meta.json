@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fjames86/pounds.git",
+  "rev": "0a894b671890ff0b05c7ca7e656d6cadd8e4926c",
+  "date": "2016-01-27T18:42:30+00:00",
+  "path": "/nix/store/2ban8y5rc91b92f5x9zg337lgd41gj94-pounds",
+  "sha256": "17hz0ywzfirmlwkrd9zrbl07ihhm03zhzqrz3rkmh1j9v95sy2kl",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

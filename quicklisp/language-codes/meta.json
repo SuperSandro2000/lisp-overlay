@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/language-codes.git",
+  "rev": "e7aa0e37cb97a3d37d6bc7316b479d01bff8f42e",
+  "date": "2019-06-22T09:30:01+02:00",
+  "path": "/nix/store/05rd9z3aasg0mzzyagsgxh40hrqnc58l-language-codes",
+  "sha256": "0py176ibmsc01n5r0q1bs1ykqf5jwdbh8kx0j1a814l9y51241v0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/michaelw/cl-dot.git",
+  "rev": "d32808109952faf8e4d342c0ff4f5a2587b315cb",
+  "date": "2020-07-18T16:17:48-07:00",
+  "path": "/nix/store/8y1mlhs12fxnycjg6vlz3jf4qx465z2c-cl-dot",
+  "sha256": "1vccfk3898ljwynmk50c5mjggclkxaki93zxh60dbmg68f5s2kzb",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Zulu-Inuoe/trivial-cltl2.git",
+  "rev": "8a3bda30dc25d2f65fcf514d0eb6e6db75252c61",
+  "date": "2020-03-03T11:05:10-05:00",
+  "path": "/nix/store/kprvisww7igiryf1whzifapsz69dg5cq-trivial-cltl2",
+  "sha256": "08cnzb9rnczn4pn2zpf0587ny4wjy1mjndy885fz9pw7xrlx37ip",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

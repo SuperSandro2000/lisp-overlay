@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gwkkwg/moptilities.git",
+  "rev": "a436f16b357c96b82397ec018ea469574c10dd41",
+  "date": "2017-03-30T08:38:44-04:00",
+  "path": "/nix/store/4a71l1m1w35wlma5af72a7mmh94n5n9m-moptilities",
+  "sha256": "1q12bqjbj47lx98yim1kfnnhgfhkl80102fkgp9pdqxg0fp6g5fc",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

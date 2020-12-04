@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ailisp/flute.git",
+  "rev": "90ebcd6e82f637f49b6de7d625ccc51ec4c92900",
+  "date": "2018-07-28T11:27:32-04:00",
+  "path": "/nix/store/n6ifypjff6953s0h24nr6v1flrqn93rg-flute",
+  "sha256": "0q8jhp040cvpppyn820mm6a550yfxyr1lar298x13c42mm807f4f",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

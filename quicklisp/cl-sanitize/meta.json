@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/archimag/cl-sanitize.git",
+  "rev": "698745db1dd9a22b687836892eec2e5a1ab95313",
+  "date": "2013-07-01T15:19:54-07:00",
+  "path": "/nix/store/aak0xjk9d6aw872r7ydi6ydf495qdfi3-cl-sanitize",
+  "sha256": "101qqgi53scz3aaca57yg5wk9ana2axpwssmgrcb5c2ip5a2lwi3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

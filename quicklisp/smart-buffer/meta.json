@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/smart-buffer.git",
+  "rev": "09b9a9a0b3abaa37abe9a730f5aac2643dca4e62",
+  "date": "2016-06-15T17:37:30+09:00",
+  "path": "/nix/store/rn720hp8v93rsahkm9b82707nz86vzxq-smart-buffer",
+  "sha256": "0qz1zzxx0wm5ff7gpgsq550a59p0qj594zfmm2rglj97dahj54l7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

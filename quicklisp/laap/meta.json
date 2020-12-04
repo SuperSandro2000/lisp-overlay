@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/ralt/laap.git",
+  "rev": "c36d8f36610d32c4607afcce86dac6cbbea61137",
+  "date": "2017-07-15T23:53:26+02:00",
+  "path": "/nix/store/dyvc7ax22pcvgxb753hcffl5npznknbf-laap",
+  "sha256": "0rzjdi4qcv2l99mk4bk94xlpfx1mav0kvd7crpax7dx4dfwkq8k5",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

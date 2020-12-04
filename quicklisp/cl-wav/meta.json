@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/RobBlackwell/cl-wav.git",
+  "rev": "23cd8e0f6ebb3736035a0ee5e57ee9555542eead",
+  "date": "2018-01-10T17:37:19+00:00",
+  "path": "/nix/store/4bhbmdy56xv4nvydw4f21v0z957sjdhv-cl-wav",
+  "sha256": "1izdn4wd640cdh8vjf32nilbr34wbyca24nazhx1j878qhm2bisa",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

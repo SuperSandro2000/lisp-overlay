@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/WarrenWilkinson/persistent-variables.git",
+  "rev": "9ddd866972ea350f3c5c231dc45bef248ae26cc6",
+  "date": "2013-02-03T17:39:33-07:00",
+  "path": "/nix/store/535jz10z0nnxjkqmaq0km35ykz0xf75y-persistent-variables",
+  "sha256": "0r72cbjkb5q4sn109svlcsvrwgvwdsn5c63rv5cpaf3jrfv1z8xn",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

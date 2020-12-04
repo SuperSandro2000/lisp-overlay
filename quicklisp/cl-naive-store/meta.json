@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/Harag/cl-naive-store.git",
+  "rev": "755752a8cfcd4fff49ccddaa9c0b943594440c2d",
+  "date": "2020-10-30T16:13:30+02:00",
+  "path": "/nix/store/zcsddqb7rqhg002sk2kgawss8p7fv61z-cl-naive-store",
+  "sha256": "02a5x3j88h3s6l0p7zw97z5lsdkp20maa8f05rrr986c8y2x4fpx",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

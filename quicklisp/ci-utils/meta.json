@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/neil-lindquist/ci-utils.git",
+  "rev": "d98d9909ee3e6ff298844e239acb3c573d776284",
+  "date": "2020-09-25T21:46:05-04:00",
+  "path": "/nix/store/m6w4hwpi0hm3rbnjvng37a02fnxpz343-ci-utils",
+  "sha256": "0s0zym50m8zl5vxrdalbx02545ggv4s6d1s90fsqwy5farvd6g5m",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/inaimathi/cl-notebook.git",
+  "rev": "5fdb5b6208fe2b5b13248b9cd034c839c26ddd94",
+  "date": "2019-03-25T13:49:09-04:00",
+  "path": "/nix/store/ifn53r8f23fd3kl9r8xz0ppm4qglh4s5-cl-notebook",
+  "sha256": "0m73n0pz9sjyrrydiy6xqfkjxrb75lc8jdhrhpl647pnrx666wmg",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

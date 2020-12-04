@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/u-u-h/cl-password-store.git",
+  "rev": "a94df97897b716406112278b56a35a8488eb2b59",
+  "date": "2013-12-18T13:22:40+01:00",
+  "path": "/nix/store/4qmm0dwi5rakfbf0gxp9s5ilb38f9vxh-cl-password-store",
+  "sha256": "088jcqfpvvaqljjjddmajk4d421bbjqi11017x4fhindg2krzd6n",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

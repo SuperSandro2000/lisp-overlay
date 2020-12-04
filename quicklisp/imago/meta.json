@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/imago/imago.git",
+  "rev": "b47918d11805f24668092669c70c0ab775bda07c",
+  "date": "2015-03-17T09:45:04-04:00",
+  "path": "/nix/store/45gc443nw50v3b09y8x9b3dsqw7ym1ki-imago",
+  "sha256": "0r25pldbrwl7jk6hg2f5g3dn47w8vvr6y7jcg55wwnaw2gv7h2yn",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

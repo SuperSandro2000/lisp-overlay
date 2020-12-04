@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/frideau/scribble.git",
+  "rev": "4e5369bec6d5e4eed4f99c3dc009fce3e3427cd3",
+  "date": "2016-06-11T11:51:30-04:00",
+  "path": "/nix/store/x7knffgn842rl630wpdjrga1zzyhk0h9-scribble",
+  "sha256": "056qi6vw9bk19s42mapyg55mimhhvhlwgny080v9mhv4fhnqi196",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/sharplispers/yaclml.git",
+  "rev": "ee514f588f7ba92c8844539aeaae3f646b9a434c",
+  "date": "2018-01-25T17:08:37-05:00",
+  "path": "/nix/store/3in3ryn3fsi4s23q5wzqw73vgqchbd8i-yaclml",
+  "sha256": "0wq6clk4qwbdaf0hcfjz4vg27nyf6ng0rrip1ay4rlkb03hdnssq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

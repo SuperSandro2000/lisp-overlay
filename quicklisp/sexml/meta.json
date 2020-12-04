@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/madnificent/SEXML.git",
+  "rev": "c4db46adb60674e81273adbaac7b5f54dd79a438",
+  "date": "2014-06-24T00:10:56+02:00",
+  "path": "/nix/store/mmszjdif6kdyzxmb04pkqf6ci4jqxr1x-SEXML",
+  "sha256": "1s7isk9v7qh03sf60zw32kaa1rgvdh24bsc37q173r282m8plbk3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

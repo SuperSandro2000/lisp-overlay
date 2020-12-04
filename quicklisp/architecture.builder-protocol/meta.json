@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/scymtym/architecture.builder-protocol.git",
+  "rev": "4c662a680ec83435e2a3077c587ab57aad4d264b",
+  "date": "2020-10-28T23:07:25+01:00",
+  "path": "/nix/store/j8mb615vsla28c5wxrc7b7hvgj4z9yba-architecture.builder-protocol",
+  "sha256": "0nnzii524195794mbgyqpmb34zrcp9pb5iv4i7y03ly0cbg156l9",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

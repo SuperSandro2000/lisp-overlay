@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mon-key/unicly.git",
+  "rev": "f9bd21446f35e28766d2f1ada2741399b14d93cb",
+  "date": "2011-09-29T18:05:12-04:00",
+  "path": "/nix/store/5qpyb67vaw7pwsinlfv999s4ajfgmhv3-unicly",
+  "sha256": "1f29zc1gmnsmb84hbsvacg02bqfiq2mv9wgr0hhf3bjbji5jh5zb",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

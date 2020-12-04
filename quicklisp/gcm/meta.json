@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/death/gcm.git",
+  "rev": "a080deb799894d94af0934eeb30cd6f9f84bdd7e",
+  "date": "2014-12-14T01:27:10+02:00",
+  "path": "/nix/store/a3ka3a622xb2smm2b0964r3k13d5rwzq-gcm",
+  "sha256": "1xnm1cj417d9syb634zi9w90c2191gxjrixa724s4h3hvj70y0ff",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

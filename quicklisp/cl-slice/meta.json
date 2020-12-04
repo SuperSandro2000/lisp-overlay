@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/tpapp/cl-slice.git",
+  "rev": "02395a30dc7b417b1f0ae2a1f9a2787938d75082",
+  "date": "2017-10-29T09:55:00+01:00",
+  "path": "/nix/store/vkzcz48g4rrg7a9ijg474vc6wqgf5qry-cl-slice",
+  "sha256": "0d75cy1fhqsxfjavk1j78m8yn9nj7plmmhmf7ckbwlgfg5mp6jd9",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

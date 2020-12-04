@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fare/fare-scripts.git",
+  "rev": "fee32edbbe4ca486e63922d94305027a8b5603a5",
+  "date": "2020-05-07T11:04:50+00:00",
+  "path": "/nix/store/2hh5lk4z9r1j0dr7bh8na2xjnic5scnp-fare-scripts",
+  "sha256": "15v3rmpp8cffq0wzxf9j3apjl3fd4gwwfdr8hwy9f5j3g5kw6xbp",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/robert-strandh/Acclimation.git",
+  "rev": "8b4418c5760a377b5e82d821658b7fd7ac494fb1",
+  "date": "2020-07-30T05:58:12+02:00",
+  "path": "/nix/store/si8x4cm6ljd48zn9z6rbfh7aj45r57z6-Acclimation",
+  "sha256": "10ncdq3h5np4kxrn96cv8v4d9pf689xw886zfzja52hw9wbgnq26",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

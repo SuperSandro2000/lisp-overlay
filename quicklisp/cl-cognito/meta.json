@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/stablecross/cl-cognito.git",
+  "rev": "8f1fa6d6e508aed819f1b052b91cfb0633a713da",
+  "date": "2018-11-23T14:55:18-05:00",
+  "path": "/nix/store/rgw9a8fldgfagla5iwcz5hdrgq9g1sns-cl-cognito",
+  "sha256": "0zy4yg4zggvxwbvkjkd89d2ps236kz6pvz90zn6gzq812wnidsd3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

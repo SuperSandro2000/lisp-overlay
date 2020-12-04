@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/stumpwm/stumpwm.git",
+  "rev": "6631e9c052aedc7d7008a44de1a8626680912083",
+  "date": "2020-11-27T09:12:20-05:00",
+  "path": "/nix/store/x8y3ykc1bykq4bapnglxb2nfi71zhvgk-stumpwm",
+  "sha256": "1ghs6ihvmb3bz4q4ys1d3h6rdi96xyiw7l2ip7jh54c25049aymf",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

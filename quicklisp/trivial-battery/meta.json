@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/trivial-battery.git",
+  "rev": "318c9da88b4d11d3f33062e0fd09be660a383404",
+  "date": "2019-02-24T20:55:40+09:00",
+  "path": "/nix/store/qirxqmwqr5x6v4ll0spqqci7gqjziixi-trivial-battery",
+  "sha256": "12ni2502v9gjszhjsh0aai08cm64gl8g815xghdjhcf7y34ffl2b",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

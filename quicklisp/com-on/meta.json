@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/com-on.git",
+  "rev": "2fff383703fe45d5cc41b320c0b015c42b14e247",
+  "date": "2020-09-25T13:19:03+02:00",
+  "path": "/nix/store/v813njgzdprjqv7d03wcqj684s5nxb87-com-on",
+  "sha256": "0ss0n89xlnn7xrs8jvgp452hglpmx4sb3yrh3xs9k1ymlcmdwi3y",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

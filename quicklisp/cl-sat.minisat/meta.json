@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/cl-model-languages/cl-sat.minisat.git",
+  "rev": "c4f9fa68cfa3d380e7cdce0ba967c0634030ec28",
+  "date": "2019-08-09T00:40:30-04:00",
+  "path": "/nix/store/s0zgqpn775hnjljfm65r04gd7pif0rgj-cl-sat.minisat",
+  "sha256": "1jwlq2d6b1l1cdb3y12j5vm1yxzhvwjvlxvpdyjpy8b1wf21gqar",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/phoe/phoe-toolbox.git",
+  "rev": "ba24c837b271d6050ac6d93f9ab9227fe583bd3b",
+  "date": "2020-11-17T22:39:52+01:00",
+  "path": "/nix/store/bs64nzdibyrqqm1w4ks5ap2lds1m0x71-phoe-toolbox",
+  "sha256": "06jva4vysh7ws9dsiq3rzb2hmz8kn60qjiklni037b9pgywmip5j",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

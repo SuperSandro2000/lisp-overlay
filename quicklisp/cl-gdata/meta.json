@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/lokedhs/cl-gdata.git",
+  "rev": "3ca1ed63e358ccb4bfbbaa5f09755cc8ef980db6",
+  "date": "2017-11-19T00:57:47+08:00",
+  "path": "/nix/store/9x7mgl5knqp1rngrag63mky9a96fyglf-cl-gdata",
+  "sha256": "0x2sq03nacjbq7p9baxlhr7bb0xg7v1ljq7qj1b3xrd4rbcibxi9",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

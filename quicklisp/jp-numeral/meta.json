@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/y2q-actionman/jp-numeral.git",
+  "rev": "b7ee74f14e3705d6907bb2a9cd250771fc4134ad",
+  "date": "2019-03-14T03:04:45+09:00",
+  "path": "/nix/store/v15jzcw1rgacliza4hwxcg1k2l36j19p-jp-numeral",
+  "sha256": "03gn6j1m80qz57rkrwi999fvsm67ybpcms3cm6y4h6s65aba30fa",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

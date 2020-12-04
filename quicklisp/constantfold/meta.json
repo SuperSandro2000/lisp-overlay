@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/numcl/constantfold.git",
+  "rev": "0ff1d97a3fbcb89264f6a2af6ce62b73e7b421f4",
+  "date": "2019-05-07T09:58:33+09:00",
+  "path": "/nix/store/wa52656y8v0xkiy2zsijbww6jxnrh1q8-constantfold",
+  "sha256": "153h0569z6bff1qbad0bdssplwwny75l7ilqwcfqfdvzsxf9jh06",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

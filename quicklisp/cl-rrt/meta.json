@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/guicho271828/cl-rrt.git",
+  "rev": "00c7ab2d1128eed74ba65a526e2b762f91640838",
+  "date": "2020-08-01T14:50:49-04:00",
+  "path": "/nix/store/6anb8hhpwp0lr57v422s7k496xq5xrd1-cl-rrt",
+  "sha256": "0lf1dvw5j9awy7ic1i4j5wd7657a170ywxihinmsdn4bwd4fynv0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

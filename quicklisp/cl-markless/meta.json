@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shirakumo/cl-markless.git",
+  "rev": "8d9de64b4f89aadd3376851fafecf7b615e1fe7b",
+  "date": "2020-10-16T18:36:57+02:00",
+  "path": "/nix/store/bbmjn5m9vgv0hv2dd8nk8365p44ggnml-cl-markless",
+  "sha256": "1prd4lbyyg3yg5mf7na7q03cn3i7vnq13iyb5iil20yvvy4z2n25",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

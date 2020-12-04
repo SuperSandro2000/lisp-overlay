@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/eudoxia0/cl-libyaml.git",
+  "rev": "a7fe9f68bddfd00b7ca467b65b3b41b276336843",
+  "date": "2020-10-25T11:50:12+11:00",
+  "path": "/nix/store/68ws1q3fy78m825k7khlrxfx9v9v4w12-cl-libyaml",
+  "sha256": "06pvmackyhq03rjmihpx6w63m6cy8wx78ll5xpwwvd85bgrqq817",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/wmannis/simple-rgb",
+  "rev": "ba9b0689362c28aa6a91c0636796c6c372657293",
+  "date": "2019-03-16T20:55:56-05:00",
+  "path": "/nix/store/zfs5qa7gl1ks5sf17ksniry6nqvhk07r-simple-rgb",
+  "sha256": "0ggv0h2n4mvwnggjr1b40gw667gnyykzki2zadaczi38ydzyzlp1",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

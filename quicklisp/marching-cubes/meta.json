@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/takagi/marching-cubes.git",
+  "rev": "520638200c692c946969924415a38e9b3876d3ae",
+  "date": "2015-06-12T09:06:29+09:00",
+  "path": "/nix/store/9nm4b1zd1kr2i95z6k2hdji2vl54b431-marching-cubes",
+  "sha256": "013wyr4g82b2gk0j5jbkkshg9lal2m34px37blyclf6kr5sk6azh",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

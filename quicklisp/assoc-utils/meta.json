@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/assoc-utils.git",
+  "rev": "74af16a3c0f10ad35e406167de02984744fc7854",
+  "date": "2020-01-23T22:25:02+09:00",
+  "path": "/nix/store/bw2sr8x8yzfsw1r90wvfm6rfzf6i7g2i-assoc-utils",
+  "sha256": "1yac1v7zmdxj0p6rvwrrhyqvy7yjfhmqbchkwqhhr89gpjvvaick",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

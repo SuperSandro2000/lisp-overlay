@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/takagi/cl-coroutine.git",
+  "rev": "de098f8d5debd8b14ef6864b5bdcbbf5ddbcfd72",
+  "date": "2016-09-23T00:19:07+10:00",
+  "path": "/nix/store/sxipxqabhq291ccfxf4xv3vzf0l9pf89-cl-coroutine",
+  "sha256": "1cqdhdjxffgfs116l1swjlsmcbly0xgcgrckvaajd566idj9yj4l",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

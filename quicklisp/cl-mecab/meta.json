@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/carrotflakes/cl-mecab.git",
+  "rev": "a703505c791584bffcecea5beee37445017c3d3b",
+  "date": "2018-10-04T18:51:43+09:00",
+  "path": "/nix/store/963bbddcla06mx67sa659q87jwzy4nmh-cl-mecab",
+  "sha256": "0lfan9p8dsniyp60g6n8awfjvv8lyickc40qdxiry6kmp65636ps",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

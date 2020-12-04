@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/cbaggers/draw-cons-tree.git",
+  "rev": "0cacc710d8b40440b723dfb9dce26bbc66c86111",
+  "date": "2013-08-21T10:15:23+01:00",
+  "path": "/nix/store/186wivr0k5kh47ks9mg31csc730c19h4-draw-cons-tree",
+  "sha256": "0w2khl1f51zcjvmq47h55ldfgjzi03gnmsdgd61ar3m11dp0k769",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

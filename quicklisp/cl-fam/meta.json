@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/7max/cl-fam.git",
+  "rev": "917812e8c58820c19b4777755b209f7c3cf6fe3e",
+  "date": "2012-11-12T01:06:22-05:00",
+  "path": "/nix/store/g6v87l1yhf7jzaq65r5f079z9i8q55s7-cl-fam",
+  "sha256": "1imv87imhxvigghx3l28kbsldz6hpqd32280wjwffqwvadhx0gng",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

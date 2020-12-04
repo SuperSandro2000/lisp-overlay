@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/eudoxia0/avatar-api.git",
+  "rev": "e978fd26b7496ce8a0eaa0805707784001dd3045",
+  "date": "2015-05-26T17:41:49-03:00",
+  "path": "/nix/store/zs8vag83ci00gv9j546qcpbcyv9amy5k-avatar-api",
+  "sha256": "026s8m0bl13iqyakfxc6zwacvpj2bxxipms1kl3k9ql99yn8imvr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/clonsigna/clonsigna.git",
+  "rev": "0a6e693678aff084f0ac097e61a38e09cfd649cb",
+  "date": "2012-03-12T09:09:38+01:00",
+  "path": "/nix/store/rnv2sq072hz5krq11vjs19937i72x9yf-clonsigna",
+  "sha256": "052vdch0q07sx3j615qgw8z536fmqz8fm3qv7f298ql3wcskrj7j",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

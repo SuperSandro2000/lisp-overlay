@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/nikodemus/screamer",
+  "rev": "700359e930e66c8e833e15c83deea6c893f35d1c",
+  "date": "2015-06-19T13:53:50+03:00",
+  "path": "/nix/store/p16l8gi52dc2bbbhsfa63sca1mgx04yg-screamer",
+  "sha256": "1s74xgbgqy99kkyxddcnfmr9dik5wg03iqywd2andzv71n0bhgs1",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

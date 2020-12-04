@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/guicho271828/eazy-gnuplot.git",
+  "rev": "e2517923fb33d5395d176eb4c54c610a1272ff9a",
+  "date": "2018-07-27T00:13:56+09:00",
+  "path": "/nix/store/z8w5nvf8nmcdcwxcfqlpwf43kkhw3qp9-eazy-gnuplot",
+  "sha256": "1xfg4xdw36bm25xm28rbahzj78ygnidzcdnn4iliy32z880zwfjq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

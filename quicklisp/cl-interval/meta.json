@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/rpav/cl-interval.git",
+  "rev": "2ffd7990e23533f200dc6b1b3521c5ca808e9c23",
+  "date": "2018-10-31T10:14:16-05:00",
+  "path": "/nix/store/3ckgpvm8jafybb02v2ji7rb9lqmfbj6h-cl-interval",
+  "sha256": "1425l6xmrqadjqgqb5qasisf14pbr6zpj30bpxfv8hhnxs5njq4p",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

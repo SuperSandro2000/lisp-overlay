@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.com/ediethelm/trivial-coverage.git",
+  "rev": "b409ac34ebbd798cd645de853cc5e43510a81244",
+  "date": "2020-01-26T12:40:38+00:00",
+  "path": "/nix/store/2zwbb57553svgr4cg10bjfk3p0fwf4d4-trivial-coverage",
+  "sha256": "1ak4mjcvzdjsjjh7j89zlnwgaamfrspxmjh2i9kg67kqn36prbsp",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

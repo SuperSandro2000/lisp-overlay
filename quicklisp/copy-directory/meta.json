@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/ceramic/copy-directory.git",
+  "rev": "9a3834b4c7ccbd9c5057762be2a1d2b4b3457365",
+  "date": "2016-06-12T12:59:44-03:00",
+  "path": "/nix/store/s82vqcnhnzgqw9xwy465912blpp830w7-copy-directory",
+  "sha256": "19wvzb046lcyifhx26ydzf7ngfa52n64nyx76k3lh02x7ahhpc93",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

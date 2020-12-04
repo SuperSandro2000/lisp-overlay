@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/documentation-utils.git",
+  "rev": "98630dd5f7e36ae057fa09da3523f42ccb5d1f55",
+  "date": "2019-06-22T09:26:05+02:00",
+  "path": "/nix/store/m7p60l3ndlvf4yi9ykpvl4kys5071c5l-documentation-utils",
+  "sha256": "098qhkqskmmrh4wix34mawf7p5c87yql28r51r75yjxj577k5idq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

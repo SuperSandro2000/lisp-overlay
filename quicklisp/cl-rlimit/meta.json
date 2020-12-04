@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/guicho271828/cl-rlimit.git",
+  "rev": "784e83d0cc8a4f7277cab8fdd89f8560d01baa0e",
+  "date": "2015-05-27T13:11:21+09:00",
+  "path": "/nix/store/6ap4dzm82k97a4gwd86qmq2k1x2sghjl-cl-rlimit",
+  "sha256": "19p02r380qhs76qlcb3jp4lm4nsnpy7zch01fdiwn7l7xgxkzxh0",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

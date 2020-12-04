@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/ook/ook.git",
+  "rev": "dad29a96a281718b9d0350af7a93932766b012a1",
+  "date": "2020-01-06T18:36:22+02:00",
+  "path": "/nix/store/w567m7nwnn7bs1wkvcb1agi4zxrwqkhh-ook",
+  "sha256": "1f4z33c7imapis184dvzgsppp068i78qsaf2yr3d07dnp6wyb5a9",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

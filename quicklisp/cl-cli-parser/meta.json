@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/cl-cli-parser/cl-cli-parser.git",
+  "rev": "25e9b307550095e2cb5458cfb0d0f970ec10ae82",
+  "date": "2008-03-07T13:41:12+00:00",
+  "path": "/nix/store/a0x155sa01z362h8562gxy7sjp7ci4ll-cl-cli-parser",
+  "sha256": "0gnpakzakkb2j67v2wh4q87k6mmrv0c0fg56m4vx88kgpxp7f90f",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

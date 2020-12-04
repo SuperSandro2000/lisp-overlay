@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/gigamonkey/monkeylib-html.git",
+  "rev": "67efc5d39463ab37ce741d41f2d8feb789e9daff",
+  "date": "2017-04-13T12:45:03-07:00",
+  "path": "/nix/store/lawqccwbklk2mwgffg7h5abxwi60q4sd-monkeylib-html",
+  "sha256": "11a778ynyb8mhiy9fkpyg2x1p53hi1i9mry9gfin2r28mjgwj096",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

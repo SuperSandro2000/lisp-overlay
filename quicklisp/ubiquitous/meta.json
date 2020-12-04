@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Shinmera/ubiquitous.git",
+  "rev": "35eb7bd9e1b3daee1705f6b41260775180cce8af",
+  "date": "2019-06-22T10:06:16+02:00",
+  "path": "/nix/store/cmfa5wzcw88n09z0343dm9xybs71flhy-ubiquitous",
+  "sha256": "1xlkaqmjcpkiv2xl2s2pvvrv976dlc846wm16s1lj62iy1315i49",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

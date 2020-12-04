@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Ferada/binary-types",
+  "rev": "a17caf8890f11fdc56f6ea3a21260bf0fb9c589c",
+  "date": "2013-06-06T23:27:08+02:00",
+  "path": "/nix/store/nn8i0mrcbcy7k0ncm9qr9v661i1r33i5-binary-types",
+  "sha256": "1bh65p9vg2kgh4m8q1a4jiyncnp5prdzh0d0l4pzh3jvfhgbm0gh",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

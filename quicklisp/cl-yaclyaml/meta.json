@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mabragor/cl-yaclyaml.git",
+  "rev": "56b02e3574b00613e5f2cc70a0ffb9d6da76e158",
+  "date": "2016-07-15T14:02:29+02:00",
+  "path": "/nix/store/3dl6gr5fmbkw9h30w1npz2drnlk4vacf-cl-yaclyaml",
+  "sha256": "1clfhz4ii2p11yc3bm23ib4rx0rfxsh18ddc2br82i7mbwks3pll",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

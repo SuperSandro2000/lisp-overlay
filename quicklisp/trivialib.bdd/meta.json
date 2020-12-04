@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/guicho271828/trivialib.bdd.git",
+  "rev": "b4fe30d3b6e366d1bdce74093e849bbe1e4f4f14",
+  "date": "2018-03-01T11:32:48+09:00",
+  "path": "/nix/store/5j9wk4qv33sf06n6f4523cxh78qad0fg-trivialib.bdd",
+  "sha256": "0p859dr9wp1bsa4zif59g8gj1l6frbizk84rmfqfm3jpns1y0inv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

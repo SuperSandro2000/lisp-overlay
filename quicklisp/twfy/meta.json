@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jamtho/twfy.git",
+  "rev": "71ce7fa2d0251a1edfa29a21db6507af0f0e1b4b",
+  "date": "2013-03-24T13:41:59+00:00",
+  "path": "/nix/store/aziang24f0xss502zf2wrrdbzzv45h9w-twfy",
+  "sha256": "1srns5ayg7q8dzviizgm7j767dxbbyzh2ca8a5wdz3bc0qmwrsbs",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/pinterface/clavatar.git",
+  "rev": "970d01fc25fbfc8459215bd81a3d638302bbb651",
+  "date": "2012-08-25T22:44:00-05:00",
+  "path": "/nix/store/nwn2rbr55lsal31h4s5jh0l3jd5bbhaq-clavatar",
+  "sha256": "07r58d4dk5nr3aimrryzbf3jw6580b5gkkbpw74ax4nmm8hz6v5y",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

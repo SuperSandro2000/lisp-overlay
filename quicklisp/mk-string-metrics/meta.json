@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/cbaggers/mk-string-metrics.git",
+  "rev": "99bb2b458f0a707251dae752f6af12d4ac11e84e",
+  "date": "2018-01-01T00:36:09+07:00",
+  "path": "/nix/store/8asginnm0bhibp8k81v191knsxpl73w8-mk-string-metrics",
+  "sha256": "0c50hjpylhkh5phcxxcwqdzpa94vk5pq1j7c6x0d3wfpb2yx0wkd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

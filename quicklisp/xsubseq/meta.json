@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/xsubseq.git",
+  "rev": "5ce430b3da5cda3a73b9cf5cee4df2843034422b",
+  "date": "2017-08-03T08:56:22+09:00",
+  "path": "/nix/store/x3bfgbbmfr2lz69vdr2xwxifw3fqmdly-xsubseq",
+  "sha256": "1xz79q0p2mclf3sqjiwf6izdpb6xrsr350bv4mlmdlm6rg5r99px",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

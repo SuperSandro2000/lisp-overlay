@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/alpha123/cl-template.git",
+  "rev": "46193a9a389bb950530e579eae7e6e5a18184832",
+  "date": "2013-06-12T21:37:24-06:00",
+  "path": "/nix/store/37brxxrpfrmlxxw49pwalxyz8hgs2jas-cl-template",
+  "sha256": "1rhg023a2nxsk5x6abd6i0a8sh36aj0bgsh80w60m3b7xlsva2x2",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

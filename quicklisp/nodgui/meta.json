@@ -1,0 +1,10 @@
+{
+  "url": "https://notabug.org/cage/nodgui.git",
+  "rev": "c7d9b35911711519f7bf26af76964fcf519b1ca2",
+  "date": "2020-08-18T16:48:35+02:00",
+  "path": "/nix/store/fd7bm8pwamf69b1yj9lh7gd6h9n4g82b-nodgui",
+  "sha256": "0ga78s1r236641fpvy5pkzk9ynkkhkrg306kkdjnnjzmhs05dawz",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/deadtrickster/safe-queue.git",
+  "rev": "e4acc92df034a748c72543e3a9e09e5b3aa614d4",
+  "date": "2020-03-18T12:05:56+01:00",
+  "path": "/nix/store/hy11x35bg4lyym31d5ngw3w128fwc09f-safe-queue",
+  "sha256": "1agvp8y2k5c6w35kly6d9a7hi1y6csn4k0hqqdv7i87lgjdi7vrq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

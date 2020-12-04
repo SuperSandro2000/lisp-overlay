@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/AccelerationNet/generators.git",
+  "rev": "ceb946c8f97891a86a9b9f7e79c8af15370533c0",
+  "date": "2013-04-23T16:10:35-04:00",
+  "path": "/nix/store/rblx16sqw7kphrwb35kzb28xgv78b1yp-generators",
+  "sha256": "1y8jlvv5c3av2ww33rwm2kh9sxmhfykhz235b33fbjpdxpx1r9bs",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

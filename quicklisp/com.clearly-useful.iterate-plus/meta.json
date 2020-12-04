@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jaeschliman/com.clearly-useful.iterate-plus.git",
+  "rev": "78e394e8097ee58c04f3ed592f295cc92a382fd8",
+  "date": "2012-09-17T12:46:11-07:00",
+  "path": "/nix/store/j9mg2fwp6i1sqrvbcm94xvh8r0vvwayw-com.clearly-useful.iterate-plus",
+  "sha256": "0fpymg6p9zglkclfn035agcs5k83fakad7dj2612v5p1snzzcika",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/phoe/trivial-custom-debugger.git",
+  "rev": "a560594a673bbcd88136af82086107ee5ff9ca81",
+  "date": "2020-08-05T08:06:06+02:00",
+  "path": "/nix/store/ji6y4s5j0yjy39pm0r0378iwslnifql1-trivial-custom-debugger",
+  "sha256": "1iri5wsp9sc1f5q934cj87zd79r5dc8fda0gl7x1pz95v0wx28yk",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

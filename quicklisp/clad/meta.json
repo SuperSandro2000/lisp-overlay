@@ -1,0 +1,10 @@
+{
+  "url": "https://gitlab.common-lisp.net/mantoniotti/CLAD.git",
+  "rev": "4c446aae0a85c09bc9502a886dd14887488b79b3",
+  "date": "2020-05-02T18:07:28+02:00",
+  "path": "/nix/store/wmfbi6056prgbb9hr1ns0wf2jn1k9b9f-CLAD",
+  "sha256": "11lgijr0q3xb6mpq5a19q2bkblvxs8qzrjh1in1x56691kdq4yck",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

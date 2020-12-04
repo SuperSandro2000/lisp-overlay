@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mmontone/fmt.git",
+  "rev": "afb3c3942212dd4e665c07cc4c04b15519b4f9a0",
+  "date": "2016-03-01T13:52:15-03:00",
+  "path": "/nix/store/112gxjzchsjik632v49zbmrzml10z2bh-fmt",
+  "sha256": "1dh7xlxslplw2sk2f4y3a49kcj1ljclxdsa8gi2yvm66scxy3cdv",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

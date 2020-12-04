@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/pnathan/cl-ansi-text.git",
+  "rev": "6daf5d93e666f82fff5448bb27f7048aedae1805",
+  "date": "2020-10-18T23:22:55-07:00",
+  "path": "/nix/store/5vgzk7rxrqb7znhn0aarhcipyagjv8jl-cl-ansi-text",
+  "sha256": "0lk6ccbagya0nw5ykq6v3146zgrpsws40iwyq7jx3xd9jvf6sn0h",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

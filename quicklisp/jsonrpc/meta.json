@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/fukamachi/jsonrpc.git",
+  "rev": "4c7f717ee8f518f251f975156b9ba0c0829399a1",
+  "date": "2020-02-05T10:51:42+09:00",
+  "path": "/nix/store/218n72133j3z87k9b9lb68d04da09i4k-jsonrpc",
+  "sha256": "0dp3z1599x9lnms06qmzwmi19k0pc3syplm2sdqy28db8him62cd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

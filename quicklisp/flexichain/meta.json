@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/robert-strandh/Flexichain.git",
+  "rev": "9af644a6323f303a936a391b956babcbfe7b0c67",
+  "date": "2020-10-20T08:56:49+11:00",
+  "path": "/nix/store/kyhzj8nsgx1hs54m67s9bgs8wy6all36-Flexichain",
+  "sha256": "1ivkffnkc1iqmpl1p1rgyfbbgjmjcid4iszvdql1jjz324lq94g6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

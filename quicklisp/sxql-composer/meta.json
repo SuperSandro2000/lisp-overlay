@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/mmontone/sxql-composer.git",
+  "rev": "2b2230cb01ae1b68e28921d99e4814046867fb75",
+  "date": "2020-03-14T20:13:55-03:00",
+  "path": "/nix/store/z52n29dzry7ld9ggs614x5gm5s2jc595-sxql-composer",
+  "sha256": "1agkrj3ymskzc3c7pxbrj123d1kygjqcls145m0ap3i07q96hh1r",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

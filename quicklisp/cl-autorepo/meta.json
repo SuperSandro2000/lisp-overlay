@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/billstclair/cl-autorepo.git",
+  "rev": "469b9a01f031b10b570ab8659a1264c57ec997d2",
+  "date": "2018-06-10T06:58:58-04:00",
+  "path": "/nix/store/wgi9jp8dyv68nqnqmmnvnzx9rm0s3s1l-cl-autorepo",
+  "sha256": "01hpg3r3493mri44kxp8sjy8i5kfvjklmnksvm0727i6bhpf8cz9",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

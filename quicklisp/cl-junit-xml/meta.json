@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/AccelerationNet/cl-junit-xml.git",
+  "rev": "de9e001245022ed6e8c90adb0d23f0e8f2c7e04a",
+  "date": "2015-01-07T12:40:43-05:00",
+  "path": "/nix/store/8vc476j15az2ba7rlfjzdwmyz4vy2f8p-cl-junit-xml",
+  "sha256": "1ssrcgw5bhfsb5lk7jb8jyz77mj6sg23wc3gmnw747iqvpikwakr",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

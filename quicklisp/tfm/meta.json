@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/didierverna/tfm.git",
+  "rev": "192c10b04eaec381638bfcf9bbea66b208141f5a",
+  "date": "2020-03-16T11:03:25+01:00",
+  "path": "/nix/store/pzp8gfwpxwc7drqn7152nv5kadwmva81-tfm",
+  "sha256": "05d5n6c5ynfrl0dm7ipan4scyyr5mr3arkg7y5dfnm2yzlwfyrvj",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}
