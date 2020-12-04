@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/borodust/cl-muth.git",
+  "rev": "4a91da2707e4fdc2d54924a8a1222dcf62c78389",
+  "date": "2020-03-12T09:53:32+03:00",
+  "path": "/nix/store/vrzggaj6wh2rlv5j79pbbi4y8n1fhssv-cl-muth",
+  "sha256": "0c62hidyhs3snqv2jl7c1cm2v7ffn8l3p7h7f7yr9vggic6hhsmm",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/borodust/bodge-concurrency.git",
+  "rev": "d62553d7bebfc612685dad7fcbfa19043f06947e",
+  "date": "2020-03-12T09:52:55+03:00",
+  "path": "/nix/store/10v17vwml2c9m6mfm61xmjxn9hq0blhs-bodge-concurrency",
+  "sha256": "06v2h7vassp5v50qsqxkmshcrlrzlhqaga4z7lnidfniw7f8d5vd",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/borodust/ode-blob.git",
+  "rev": "cd9e02e01f7ebd8b4d838336430e5bc3d8435798",
+  "date": "2020-03-12T09:54:06+03:00",
+  "path": "/nix/store/ms2iahq9fv6rzy23kb1iivlx1299iil5-ode-blob",
+  "sha256": "1l2zq27zmivmr6h66kadbh3isnbdmkxvc7wq16wwmsvq23bhpss6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

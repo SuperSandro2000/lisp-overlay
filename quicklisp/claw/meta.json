@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/borodust/claw.git",
+  "rev": "3cd4a96fca95eb9e8d5d069426694669f81b2250",
+  "date": "2020-04-17T00:49:40+03:00",
+  "path": "/nix/store/q3y2nb7gxk43dcxh3v919nlpvfq9k2kw-claw",
+  "sha256": "146yv0hc4hmk72562ssj2d41143pp84dcbd1h7f4nx1c7hf2bb0d",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

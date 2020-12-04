@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/borodust/bodge-ode.git",
+  "rev": "36e25a47cc7742695827b441b6fae54de34c0317",
+  "date": "2020-03-12T09:53:18+03:00",
+  "path": "/nix/store/2kahyp0kn9bhdm0ckgfvdn29qf0xymbw-bodge-ode",
+  "sha256": "0kps2s71g4pjxxf7kpb1613gll18g0abzy4j7fqn2qirrakk9qlw",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

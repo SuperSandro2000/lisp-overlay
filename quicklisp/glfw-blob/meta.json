@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/borodust/glfw-blob.git",
+  "rev": "8850b6dd7e7e1ac9d32bfda8fbb6715c524894b8",
+  "date": "2020-03-12T09:53:40+03:00",
+  "path": "/nix/store/s02v9hfs4mckddl2i2v7g4iwc46rk6h0-glfw-blob",
+  "sha256": "0j953vqsyswipgyhc39swsgwgaqb53wvs80izraknlsp379hzabs",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

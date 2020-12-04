@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/slime/slime.git",
+  "rev": "fb12bac676ab51b75be19197e21ab4674479d627",
+  "date": "2020-08-10T05:24:49+03:00",
+  "path": "/nix/store/8xz70bpacrak8nwxb5kkg9v0wr4fz8r9-slime",
+  "sha256": "0mxb1wnw19v0s72w2wkz5afdlzvpy5nn7pr4vav403qybac0sw5c",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

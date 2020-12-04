@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/edicl/hunchentoot.git",
+  "rev": "fa36e202de7a87490ef4e687a4c9c34547a7a596",
+  "date": "2020-11-13T03:29:18+03:00",
+  "path": "/nix/store/pf594mg0bzjqsl78cgsyldmss9ansp14-hunchentoot",
+  "sha256": "115bd1n9wac69a46abfld3vqq3ybmh6ih326cq1y1988lbifmx84",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

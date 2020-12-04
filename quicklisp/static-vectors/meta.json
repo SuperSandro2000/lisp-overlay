@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/sionescu/static-vectors.git",
+  "rev": "67f2ed0da2244f3c2a69d3440eddcc14a3ad33f0",
+  "date": "2020-07-29T03:47:19-04:00",
+  "path": "/nix/store/raqy3v4f45pk52ys6dqv6rmqrw7sflfa-static-vectors",
+  "sha256": "0prdwkyggr9wqwr7blhrb3hprsvbcgwn7144f7v4iy7i8621d8pq",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

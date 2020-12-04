@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/sharplispers/ironclad.git",
+  "rev": "fd9b5159aef0b7778cf9d3643a03204adbd14c75",
+  "date": "2020-11-14T10:21:37+01:00",
+  "path": "/nix/store/734icfw00fkqmp4ilwcsbg383v60y4j1-ironclad",
+  "sha256": "0cyghppxwg7jr56af6098drbl6byknqlqcnj9sqlab5pxlywzkxx",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

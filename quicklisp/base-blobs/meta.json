@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/borodust/base-blobs.git",
+  "rev": "c19f608ce1907129e0eebb111ddd773ea098ab77",
+  "date": "2020-03-26T23:37:21+03:00",
+  "path": "/nix/store/p0vqs1qsbj598k1pxafzjvldzb925n0w-base-blobs",
+  "sha256": "06m8rvczj309wq8by697gvrklhff5mnn5n5sky7i11bnszrxysys",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

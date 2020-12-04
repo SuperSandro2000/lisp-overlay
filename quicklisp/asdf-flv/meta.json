@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/didierverna/asdf-flv.git",
+  "rev": "fc5b7399767ca35bfb420bbeb9e08494e441dc69",
+  "date": "2015-10-18T15:50:14+02:00",
+  "path": "/nix/store/lp8vxmw14lfx23aqlfjpbl7jxmv33h0m-asdf-flv",
+  "sha256": "1fi2y4baxan103jbg4idjddzihy03kwnj2mzbwrknw4d4x7xlgwj",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

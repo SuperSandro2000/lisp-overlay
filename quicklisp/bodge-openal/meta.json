@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/borodust/bodge-openal.git",
+  "rev": "7713cc38ce2dac9b920226b4ccafd04e9d45b27e",
+  "date": "2020-03-26T23:25:56+03:00",
+  "path": "/nix/store/mdyplj5wm38a2wkxilmx4zn0i31fmw5y-bodge-openal",
+  "sha256": "1yrqwd091rh5885kgcd0ar27ay7mv5ah6nfk2prgradjiy8f970m",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/borodust/bodge-utilities.git",
+  "rev": "6304bac4abe06d53579e2c0fc4437d14ff077d9f",
+  "date": "2020-03-12T09:53:25+03:00",
+  "path": "/nix/store/4vwc0d6iw3b9z3dczfs8kmhjgkp17qjh-bodge-utilities",
+  "sha256": "1z1blj05q71vzh323qwyn9p3xs7v0mq2yhwfyzza5libp37wqm3c",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

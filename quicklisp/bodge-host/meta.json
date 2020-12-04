@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/borodust/bodge-host.git",
+  "rev": "f1713d8e7badc0e0fabe0bd1cae62930087aa45e",
+  "date": "2020-03-12T09:53:08+03:00",
+  "path": "/nix/store/4w45w4b44lcbfz4nccwkqxdizaswhwl4-bodge-host",
+  "sha256": "0zn52bzbf2x5zlxhd9km895kckdvy0jhvqfggbzzwbjkz2klcp0s",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

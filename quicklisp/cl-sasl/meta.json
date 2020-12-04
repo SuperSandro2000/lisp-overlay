@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/legoscia/cl-sasl",
+  "rev": "64f195c0756cb80fa5961c072b62907be20a7380",
+  "date": "2016-08-24T20:52:23+01:00",
+  "path": "/nix/store/hd9ak9yf2hnd830yr7im8vxw04mh59r3-cl-sasl",
+  "sha256": "0a05q8rls2hn46rbbk6w5km9kqvhsj365zlw6hp32724xy2nd98w",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

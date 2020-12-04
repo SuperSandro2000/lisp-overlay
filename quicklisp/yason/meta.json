@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/hanshuebner/yason.git",
+  "rev": "636fc03559ceab476139581da4259823930e4afc",
+  "date": "2020-11-23T09:42:35+01:00",
+  "path": "/nix/store/qcqsjviq2ap4v2jqfsigkzc0x3xb6qjg-yason",
+  "sha256": "0pigzwwdd8nvrvw876ywf3hcyb274dr8r8476wqd5f8wf5r40hc6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

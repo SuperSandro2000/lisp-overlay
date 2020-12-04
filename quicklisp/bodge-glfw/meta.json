@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/borodust/bodge-glfw.git",
+  "rev": "d1415c29db98f47fd2e410fbe17b7cc00b2ef415",
+  "date": "2020-03-12T09:53:05+03:00",
+  "path": "/nix/store/7zljrdm6mgnhz6cg4wirfrd1paxij5xx-bodge-glfw",
+  "sha256": "049jnfygkg9x1a307pqnnsfpw18ymi54gx66iivsxngjnqnwmnh3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

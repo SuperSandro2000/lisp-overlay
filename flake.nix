@@ -27,8 +27,11 @@
             );
             kvPair = nixpkgs.lib.splitString " " value;
           in {
-            type = nixpkgs.lib.head kvPair;
-            url = nixpkgs.lib.last kvPair;
+            type = nixpkgs.lib.elemAt kvPair 0;
+            url = nixpkgs.lib.elemAt kvPair 1;
+            data = if builtins.length kvPair > 2
+                   then nixpkgs.lib.elemAt kvPair 2
+                   else null;
             inherit value;
           })
           (builtins.readDir "${dist.${system}}/projects"));
@@ -100,7 +103,7 @@
     });
 
     lib = {
-      quicklisp = {
+      quicklisp = rec {
         handler.git = { name, url, pkgs, ... }: let
           buildScript = pkgs.writeText "quicklisp-${name}-fetch" ''
             { pkgs, ... }: let
@@ -141,6 +144,10 @@
           ${pkgs.nix}/bin/nix-prefetch-url --unpack '${url}' > ${name}/meta.hash
           cp ${buildScript} ${name}/default.nix
         '';
+        handler.http = handler.https;
+        handler.latest-github-tag = handler.git; # Maybe should handle this better
+        handler.latest-github-release = handler.git; # Maybe should handle this better
+        handler.tagged-git = handler.git; # Maybe should handle this better
       };
     };
 

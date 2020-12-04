@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/borodust/bodge-libc-essentials.git",
+  "rev": "20f7bedd06350dbf397e8da1c4830e6a31ab9cd3",
+  "date": "2020-03-12T09:53:12+03:00",
+  "path": "/nix/store/vd1lz3v24nlbrqkqlzjqbzpc46s544ka-bodge-libc-essentials",
+  "sha256": "1nkjhkaap78xk9rkvnnnkchphiz0qwrsfp4jsvcl6mvv3rb4gp2k",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/sharplispers/parse-number.git",
+  "rev": "7707b224c4b941c2cbd28459113534242cee3a31",
+  "date": "2017-10-31T09:17:56+01:00",
+  "path": "/nix/store/zsnw1ki6ramw2jh3mf3pkpaanxnfz5k8-parse-number",
+  "sha256": "0sk06ib1bhqv9y39vwnnw44vmbc4b0kvqm37xxmkxd4dwchq82d7",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

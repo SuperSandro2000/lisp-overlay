@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/cl-rabbit/cl-amqp.git",
+  "rev": "f5548f236d031478b0e3576e2d5785da1066d85c",
+  "date": "2017-04-18T14:58:11+03:00",
+  "path": "/nix/store/g4qq0fsnh5l1vcfgvgpjzwwnaw5v8k2i-cl-amqp",
+  "sha256": "0zh4qbjcvmibvd3ihgnn4rcxg9n8inbpl4l1acf19x3cc3xrg880",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

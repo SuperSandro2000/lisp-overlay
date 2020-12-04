@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/borodust/c2ffi-blob.git",
+  "rev": "c66f3e0eee8d0313858df4bd5c4238e44e59d1c0",
+  "date": "2020-03-12T09:53:27+03:00",
+  "path": "/nix/store/q2vxawgswvc02g8lx4cw528bhmssplv1-c2ffi-blob",
+  "sha256": "1rk89nycdvcb4a50zm3wdmrbz8w5xk4jgvjg2wib1dnslwnwdivc",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

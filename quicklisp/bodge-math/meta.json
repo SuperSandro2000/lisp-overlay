@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/borodust/bodge-math.git",
+  "rev": "9159b7faf88d440024c07110dbef2abddb20b9af",
+  "date": "2020-03-12T09:53:12+03:00",
+  "path": "/nix/store/hlsq9gah6k2xf9hfng43gvahfp46qld0-bodge-math",
+  "sha256": "0r3vnl9lywn4ksy34apcv6j825qp7l1naddawr14v4lwacndb80v",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

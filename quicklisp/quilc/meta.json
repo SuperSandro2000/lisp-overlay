@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/rigetti/quilc.git",
+  "rev": "2e015ee66491709d6e1b921e546e36a6d506a3c6",
+  "date": "2020-12-04T19:21:16+00:00",
+  "path": "/nix/store/jhaflplpryj7hmm607i096q99bbz56r0-quilc",
+  "sha256": "0q7kcz1fkmyqz9hn89yi5mw83a1xh111rvz33azv88ydzb769ipf",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

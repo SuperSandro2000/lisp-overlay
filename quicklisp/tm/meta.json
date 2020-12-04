@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/Antigonus/tm.git",
+  "rev": "da190dab393c63ed949bb37a6cc149a249137821",
+  "date": "2017-11-17T21:30:27+00:00",
+  "path": "/nix/store/0ll4bld0s2xhxkaw0vyfmihmm47n8rwv-tm",
+  "sha256": "1bwcy39z83lsy4dvd594qlmk2xdfr0mc4sggm4jm0wfgjjs993mw",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}
