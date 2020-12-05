@@ -110,7 +110,7 @@
               meta = builtins.readFile ./meta.json;
             in pkgs.fetchgit {
               name = "quicklisp-${name}-src";
-              inherit (meta) rev sha256;
+              inherit (meta) url rev sha256;
             };
           '';
         in pkgs.writeShellScript "quicklisp-${name}" ''
@@ -123,6 +123,7 @@
             { pkgs, ... }: let
               sha256 = builtins.readFile ./meta.hash;
             in builtins.fetchMercurial {
+              url = "${url}";
               inherit sha256;
             };
           '';
@@ -136,6 +137,7 @@
             { pkgs, ... }: let
               sha256 = builtins.readFile ./meta.hash;
             in builtins.fetchTarball {
+              url = "${url}";
               inherit sha256;
             };
           '';
@@ -148,6 +150,25 @@
         handler.latest-github-tag = handler.git; # Maybe should handle this better
         handler.latest-github-release = handler.git; # Maybe should handle this better
         handler.tagged-git = handler.git; # Maybe should handle this better
+        handler.svn = { name, url, pkgs, ... }: let
+          buildScript = pkgs.writeText "quicklisp-${name}-fetch" ''
+            { pkgs, ... }: let
+              sha256 = builtins.readFile ./meta.hash;
+            in pkgs.fetchsvn {
+              url = "${url}";
+              inherit sha256;
+            };
+          '';
+        in pkgs.writeShellScript "quicklisp-${name}" ''
+          mkdir -p ${name}
+          ${pkgs.nix-prefetch-svn}/bin/nix-prefetch-svn '${url}' > ${name}/meta.hash
+          cp ${buildScript} ${name}/default.nix
+        '';
+       #handler.darcs = null;
+       #handler.branched-git = null;
+       #handler.ediware-http = null;
+       #handler.kmr-git = null;
+       #handler.single-file = null;
       };
     };
 
