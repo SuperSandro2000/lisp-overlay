@@ -3,12 +3,18 @@
 
   inputs.nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";
 
-  outputs = inputs@{ self, nixpkgs }: let 
+  outputs = inputs@{ self, nixpkgs }: let
     forAllSystems = nixpkgs.lib.genAttrs [ "x86_64-linux" "i686-linux" "aarch64-linux" ];
   in {
 
     repos = {
       quicklisp = rec {
+        dists = let
+          distlist = builtins.fromJSON (builtins.readFile ./quicklisp/dists.json);
+        in builtins.listToAttrs distlist // {
+          latest = (builtins.head distlist).value;
+        };
+
         # Repository dist pin
         meta = builtins.fromJSON (builtins.readFile ./quicklisp/meta.json);
 
@@ -65,6 +71,32 @@
       pkgs = nixpkgs.legacyPackages.${system};
       inherit (nixpkgs.lib) concatStringsSep mapAttrsToList;
     in {
+      quicklisp-update-dists = rec {
+        type = "app";
+        url = "https://api.github.com/repos/roswell/quicklisp/releases?page=";
+        program = (pkgs.writeShellScript "update-quicklisp-dist" ''set -ex
+          test -e flake.nix || (echo "Must be run from repo root"; exit 1)
+          ${pkgs.coreutils}/bin/mkdir -p quicklisp
+
+          while
+            ${pkgs.curl}/bin/curl -L "${url}''${page:-1}" \
+              | ${pkgs.jq}/bin/jq -e 'select(length != 0)' \
+              > quicklisp/.dists.''${page:-1}.json
+          do
+            page=$((''${page:-1}+1))
+          done
+
+          ${pkgs.coreutils}/bin/rm quicklisp/.dists.json
+          for ((p=1; p<$page; p++)); do
+            ${pkgs.coreutils}/bin/cat quicklisp/.dists.$p.json \
+              >> quicklisp/.dists.json
+          done
+
+          ${pkgs.jq}/bin/jq -s '[.[][]] | map({ name: .tag_name, value: .assets | map({ name: .name, id: .id, url: .browser_download_url }) })' quicklisp/.dists.json \
+            > quicklisp/dists.json
+          #${pkgs.jq}/bin/jq -M 'map({ name: .tag_name, assets: .assets | map({ name: .name, id: .id, url: .browser_download_url }), distinfo: ["http://beta.quicklisp.org/dist/quicklisp/",.tag_name,"/releases.txt"] | join(""), systems: ["http://beta.quicklisp.org/dist/quicklisp/",.tag_name,"/releases.txt"] | join("") })' quicklisp/dists.json
+        '').outPath;
+      };
       quicklisp-update-dist = rec {
         type = "app";
         url = "git://github.com/quicklisp/quicklisp-projects";
