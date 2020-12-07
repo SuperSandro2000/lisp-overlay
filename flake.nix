@@ -53,6 +53,72 @@
         in builtins.mapAttrs (dist: path: parse (builtins.readFile path)) files;
 
         latestinfo = distinfos.${latest.version};
+
+        dists = let
+          _ = _;
+        in builtins.mapAttrs (dist: path: let
+          dir = if builtins.all builtins.pathExists [
+            (./quicklisp/dist + "/${dist}/releases.txt")
+            (./quicklisp/dist + "/${dist}/systems.txt")
+          ] then ./quicklisp/dist + "/${dist}"
+            else builtins.throw "Run .#quicklisp-update-dists first";
+
+          releaseFile = builtins.readFile (dir + "/releases.txt");
+          systemFile = builtins.readFile (dir + "/systems.txt");
+
+          releaseData = builtins.tail (nixpkgs.lib.splitString "\n" releaseFile);
+          systemData = builtins.tail (nixpkgs.lib.splitString "\n" systemFile);
+
+          readRelease = s: let
+            # project url size file-md5 content-sha1 prefix [system-file1..system-fileN]",
+            row = nixpkgs.lib.splitString " " s;
+            inherit (builtins) head tail;
+          in {
+            project = head row;
+            url = head (tail row);
+            size = head (tail (tail row));
+            file-md5 = head (tail (tail (tail row)));
+            content-sha1 = head (tail (tail (tail (tail row))));
+            prefix = head (tail (tail (tail (tail (tail row)))));
+            systems-files = tail (tail (tail (tail (tail (tail row)))));
+          };
+          readSystems = s: let
+            # project system-file system-name [dependency1..dependencyN]",
+            row = nixpkgs.lib.splitString " " s;
+            inherit (builtins) head tail;
+          in {
+            project = head row;
+            system-file = head (tail row);
+            system-name = head (tail (tail row));
+            dependencies = tail (tail (tail row));
+          };
+
+          releaseList = builtins.map readRelease (nixpkgs.lib.init releaseData);
+          systemList = builtins.map readSystems (nixpkgs.lib.init systemData);
+
+          releaseAttrs = builtins.listToAttrs (builtins.map (value: {
+            name = value.project;
+            inherit value;
+          }) releaseList);
+          systemAttrs = builtins.listToAttrs (builtins.map (value: {
+            name = value.project;
+            inherit value;
+          }) systemList);
+          projects = nixpkgs.lib.unique (builtins.concatLists [
+            (builtins.attrNames releaseAttrs)
+            (builtins.attrNames systemAttrs)
+          ]);
+        in builtins.listToAttrs (
+          builtins.map (name: {
+            inherit name;
+            value = {
+              release = releaseAttrs.${name};
+              systems = systemAttrs.${name};
+            };
+          }) projects
+        )) distinfos;
+
+        latestdist = dists.${latest.version};
       };
     };
 
