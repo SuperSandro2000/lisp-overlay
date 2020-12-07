@@ -9,11 +9,39 @@
 
     repos = {
       quicklisp = rec {
+        # ohoho use  http://beta.quicklisp.org/dist/quicklisp.txt  and
+        #            http://beta.quicklisp.org/dist/quicklisp-versions.txt  ?
+
+        latest = let inherit (nixpkgs) lib; in builtins.listToAttrs (
+          builtins.map
+            (s: let kv = lib.splitString ": " s; in { name = lib.head kv; value = lib.last kv; })
+            (lib.init (lib.splitString "\n" (builtins.readFile (builtins.fetchurl { url = "http://beta.quicklisp.org/dist/quicklisp.txt"; }))))
+        );
+
+        # Quicklisp dist attrset
         dists = let
-          distlist = builtins.fromJSON (builtins.readFile ./quicklisp/dists.json);
+          filldist = value@{ name, ... }: (nixpkgs.lib.genAttrs
+            ["systems" "releases" "distinfo"] (file:
+              "http://beta.quicklisp.org/dist/quicklisp/${name}/${file}.txt"
+            )
+          ) // value;
+          distlist = builtins.map (entry: let
+            value = filldist entry;
+          in {
+            inherit (value) name;
+            inherit value;
+          }) (builtins.fromJSON (builtins.readFile ./quicklisp/dists.json));
         in builtins.listToAttrs distlist // {
           latest = (builtins.head distlist).value;
         };
+
+        # Filename to url mapping
+        archives = let
+          filespecs = builtins.concatLists (builtins.attrValues dists);
+        in builtins.listToAttrs (builtins.map ({ name, url, ... }: {
+          name = name;
+          value = url;
+        }) filespecs);
 
         # Repository dist pin
         meta = builtins.fromJSON (builtins.readFile ./quicklisp/meta.json);
@@ -92,9 +120,8 @@
               >> quicklisp/.dists.json
           done
 
-          ${pkgs.jq}/bin/jq -s '[.[][]] | map({ name: .tag_name, value: .assets | map({ name: .name, id: .id, url: .browser_download_url }) })' quicklisp/.dists.json \
+          ${pkgs.jq}/bin/jq -s '[.[][]] | map({ name: .tag_name, files: .assets | map({ name: .name, id: .id, url: .browser_download_url }) })' quicklisp/.dists.json \
             > quicklisp/dists.json
-          #${pkgs.jq}/bin/jq -M 'map({ name: .tag_name, assets: .assets | map({ name: .name, id: .id, url: .browser_download_url }), distinfo: ["http://beta.quicklisp.org/dist/quicklisp/",.tag_name,"/releases.txt"] | join(""), systems: ["http://beta.quicklisp.org/dist/quicklisp/",.tag_name,"/releases.txt"] | join("") })' quicklisp/dists.json
         '').outPath;
       };
       quicklisp-update-dist = rec {
