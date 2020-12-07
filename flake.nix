@@ -100,20 +100,20 @@
             name = value.project;
             inherit value;
           }) releaseList);
-          systemAttrs = builtins.listToAttrs (builtins.map (value: {
-            name = value.project;
-            inherit value;
-          }) systemList);
-          projects = nixpkgs.lib.unique (builtins.concatLists [
-            (builtins.attrNames releaseAttrs)
-            (builtins.attrNames systemAttrs)
-          ]);
+          projects = builtins.attrNames releaseAttrs;
+          systemAttrs = builtins.listToAttrs (builtins.map (name: {
+            inherit name;
+            value = builtins.filter (system: system.project == name) systemList;
+          }) projects);
         in builtins.listToAttrs (
           builtins.map (name: {
             inherit name;
             value = rec {
               release = releaseAttrs.${name};
-              systems = systemAttrs.${name};
+              systems = builtins.listToAttrs (builtins.map (value: {
+                name = value.system-name;
+                inherit value;
+              }) systemAttrs.${name});
               src = forAllSystems (system: let
                 pkgs = nixpkgs.legacyPackages.${system};
               in (pkgs.fetchurl {
