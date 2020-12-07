@@ -111,9 +111,18 @@
         in builtins.listToAttrs (
           builtins.map (name: {
             inherit name;
-            value = {
+            value = rec {
               release = releaseAttrs.${name};
               systems = systemAttrs.${name};
+              src = forAllSystems (system: let
+                pkgs = nixpkgs.legacyPackages.${system};
+              in (pkgs.fetchurl {
+                inherit (release) url;
+                hash = release.file-md5;
+              }).overrideAttrs (_: {
+                # We'll just force this, cause nixpkgs won't let us do it nicely
+                outputHashAlgo = "md5";
+              }));
             };
           }) projects
         )) distinfos;
