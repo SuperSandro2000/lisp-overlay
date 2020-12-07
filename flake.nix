@@ -99,6 +99,19 @@
       pkgs = nixpkgs.legacyPackages.${system};
       inherit (nixpkgs.lib) concatStringsSep mapAttrsToList;
     in {
+      quicklisp-update-subscription = rec {
+        type = "app";
+        urls.latest = "http://beta.quicklisp.org/dist/quicklisp.txt";
+        urls.versions = "http://beta.quicklisp.org/dist/quicklisp-versions.txt";
+        program = (pkgs.writeShellScript "update-quicklisp-dist" ''set -ex
+          test -e flake.nix || (echo "Must be run from repo root"; exit 1)
+          ${pkgs.coreutils}/bin/mkdir -p quicklisp/dist
+
+          ${pkgs.curl}/bin/curl -L '${urls.latest}' > quicklisp/dist/quicklisp.txt
+          ${pkgs.curl}/bin/curl -L '${urls.versions}' > quicklisp/dist/quicklisp-versions.txt
+        '').outPath;
+      };
+
       quicklisp-update-dists = rec {
         type = "app";
         url = "https://api.github.com/repos/roswell/quicklisp/releases?page=";
