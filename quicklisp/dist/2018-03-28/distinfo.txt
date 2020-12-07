@@ -1,0 +1,7 @@
+name: quicklisp
+version: 2018-03-28
+system-index-url: http://beta.quicklisp.org/dist/quicklisp/2018-03-28/systems.txt
+release-index-url: http://beta.quicklisp.org/dist/quicklisp/2018-03-28/releases.txt
+archive-base-url: http://beta.quicklisp.org/
+canonical-distinfo-url: http://beta.quicklisp.org/dist/quicklisp/2018-03-28/distinfo.txt
+distinfo-subscription-url: http://beta.quicklisp.org/dist/quicklisp.txt
