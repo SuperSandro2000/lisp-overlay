@@ -15,7 +15,12 @@
   in {
 
     repos = {
-      quicklisp = rec {
+      quicklisp = let
+        fromKV = delim: s: let kv = nixpkgs.lib.splitString delim s; in {
+          name = nixpkgs.lib.head kv;
+          value = nixpkgs.lib.last kv;
+        };
+      in rec {
         subscription = if builtins.all builtins.pathExists [
           ./quicklisp/dist/quicklisp.txt
           ./quicklisp/dist/quicklisp-versions.txt
@@ -26,26 +31,28 @@
 
         latest = builtins.listToAttrs (
           builtins.map
-            (s: let kv = nixpkgs.lib.splitString ": " s; in {
-              name = nixpkgs.lib.head kv;
-              value = nixpkgs.lib.last kv;
-            })
+            (fromKV ": ")
             (nixpkgs.lib.init (nixpkgs.lib.splitString "\n" subscription.latest))
         );
 
         versions = builtins.listToAttrs (
           builtins.map
-            (s: let kv = nixpkgs.lib.splitString " " s; in {
-              name = nixpkgs.lib.head kv;
-              value = nixpkgs.lib.last kv;
-            })
+            (fromKV " ")
             (nixpkgs.lib.init (nixpkgs.lib.splitString "\n" subscription.versions))
         );
 
-        distinfos = nixpkgs.lib.filterAttrs (dist: builtins.pathExists) (
-          builtins.mapAttrs
-            (dist: _: ./quicklisp/dist + "/${dist}/distinfo.txt")
-            (builtins.readDir ./quicklisp/dist));
+        distinfos = let
+          files = nixpkgs.lib.filterAttrs (dist: builtins.pathExists) (
+            builtins.mapAttrs
+              (dist: _: ./quicklisp/dist + "/${dist}/distinfo.txt")
+              (builtins.readDir ./quicklisp/dist));
+          parse = ss: builtins.listToAttrs (
+            builtins.map
+              (fromKV ": ")
+              (nixpkgs.lib.init (nixpkgs.lib.splitString "\n" ss)));
+        in builtins.mapAttrs (dist: path: parse (builtins.readFile path)) files;
+
+        latestinfo = distinfos.${latest.version};
       };
     };
 
@@ -86,7 +93,7 @@
 
           ${nixpkgs.lib.concatMapStringsSep "" (dist: let
             url = self.repos.quicklisp.versions.${dist};
-            message = "quicklisp: update distinfo for ${dist}";
+            message = "quicklisp: add/update distinfo for ${dist}";
           in ''
             ${pkgs.coreutils}/bin/mkdir -p quicklisp/dist/${dist}
             ${pkgs.curl}/bin/curl -L '${url}' > quicklisp/dist/${dist}/distinfo.txt
@@ -106,16 +113,17 @@
           test -e flake.nix || (echo "Must be run from repo root"; exit 1)
 
           ${nixpkgs.lib.concatMapStringsSep "" (dist: let
-            url = self.repos.quicklisp.versions.${dist};
-            message = "quicklisp: update distinfo for ${dist}";
+            distinfo = self.repos.quicklisp.distinfos.${dist};
+            message = "quicklisp: update dist indices for ${dist}";
           in ''
-            ${pkgs.coreutils}/bin/mkdir -p quicklisp/dist/${dist}
-            ${pkgs.curl}/bin/curl -L '${url}' > quicklisp/dist/${dist}/distinfo.txt
-            ${pkgs.git}/bin/git add quicklisp/dist/${dist}/distinfo.txt && \
+            ${pkgs.curl}/bin/curl -L '${distinfo.release-index-url}' > quicklisp/dist/${dist}/releases.txt
+            ${pkgs.curl}/bin/curl -L '${distinfo.system-index-url}' > quicklisp/dist/${dist}/systems.txt
+            ${pkgs.git}/bin/git add \
+              quicklisp/dist/${dist}/releases.txt quicklisp/dist/${dist}/systems.txt && \
             ${pkgs.git}/bin/git commit -m '${message}' -- \
-              quicklisp/dist/${dist}/distinfo.txt \
+              quicklisp/dist/${dist}/releases.txt quicklisp/dist/${dist}/systems.txt \
               || true
-          '') (builtins.attrNames self.repos.quicklisp.versions)}
+          '') (builtins.attrNames self.repos.quicklisp.distinfos)}
 
           echo Done.
         '').outPath;
