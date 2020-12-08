@@ -5,7 +5,7 @@
 
   outputs = inputs@{ self, nixpkgs }: let
 
-    forAllSystems = nixpkgs.lib.genAttrs [ "x86_64-linux" "i686-linux" "aarch64-linux" ];
+    forAllPlatforms = nixpkgs.lib.genAttrs [ "x86_64-linux" "i686-linux" "aarch64-linux" ];
 
     urls.quicklisp = {
       latest = "http://beta.quicklisp.org/dist/quicklisp.txt";
@@ -114,8 +114,8 @@
                 name = value.system-name;
                 inherit value;
               }) systemAttrs.${name});
-              src = forAllSystems (system: let
-                pkgs = nixpkgs.legacyPackages.${system};
+              src = forAllPlatforms (platform: let
+                pkgs = nixpkgs.legacyPackages.${platform};
               in (pkgs.fetchurl {
                 inherit (release) url;
                 hash = release.file-md5;
@@ -128,18 +128,79 @@
         )) distinfos;
 
         latestdist = dists.${latest.version};
+
+        systems = let
+          distProjectSystems = builtins.mapAttrs (_: builtins.mapAttrs (_: p:
+            builtins.attrValues (builtins.mapAttrs (_: s: s.system-name) p.systems)
+          )) dists;
+        in builtins.mapAttrs (_: projectSystems: let
+          systemDefs = builtins.mapAttrs (project:
+            builtins.map (system: { inherit project system; })
+          ) projectSystems;
+          systemPairs = builtins.concatLists (builtins.attrValues systemDefs);
+          systemNames = builtins.listToAttrs (builtins.map (p: {
+            name = p.system;
+            value = [];
+          }) systemPairs);
+        in builtins.mapAttrs (system: _:
+          # Defined as a list, in case multiple projects ever define a system
+          builtins.map (p: p.project) (builtins.filter (p: p.system == system) systemPairs)
+        ) systemNames) distProjectSystems;
+
+        latestsystems = systems.${latest.version};
       };
     };
 
-    packages = forAllSystems (system: let
-      pkgs = nixpkgs.legacyPackages.${system};
-    in {
+    packages = forAllPlatforms (platform: let
+      pkgs = nixpkgs.legacyPackages.${platform};
+    in builtins.mapAttrs (name: data: pkgs.lispPackages.buildLispPackage rec {
+      baseName = data.release.project;
+      version = nixpkgs.lib.removePrefix "${baseName}-" data.release.prefix;
+
+      buildSystems = builtins.attrNames data.systems;
+
+      description = "lisp-overlay package for ${baseName}";
+      meta.deps.systems = builtins.concatLists (builtins.map
+        (system: system.dependencies)
+        (builtins.attrValues data.systems));
+      meta.deps.projects = nixpkgs.lib.remove null (builtins.map
+        (system: let # Take the first in the case of a collision
+          project = builtins.head self.repos.quicklisp.latestsystems.${system};
+        in if project != name then { inherit project system; } else null)
+        (nixpkgs.lib.remove "asdf" meta.deps.systems));
+      deps = builtins.map
+        ({ project, system }: self.packages.${platform}.${project}.systems.${system})
+        meta.deps.projects;
+      src = data.src.${platform};
+
+      packageName = nixpkgs.lib.strings.sanitizeDerivationName baseName;
+
+      asdFilesToKeep = data.release.systems-files;
+
+      overrides = _: {
+        passthru.systems = builtins.mapAttrs (systemName: system: pkgs.lispPackages.buildLispPackage rec {
+          overrides = drv: { name = "${drv.name}-${nixpkgs.lib.strings.sanitizeDerivationName systemName}"; };
+          inherit baseName version description src packageName asdFilesToKeep;
+          buildSystems = [systemName];
+          meta.deps.systems = system.dependencies;
+          meta.deps.projects = nixpkgs.lib.remove null (builtins.map
+            (system: let # Take the first in the case of a collision
+              project = builtins.head self.repos.quicklisp.latestsystems.${system};
+            in if project != name then { inherit project system; } else null)
+            (nixpkgs.lib.remove "asdf" meta.deps.systems));
+          deps = builtins.map
+            ({ project, system }: self.packages.${platform}.${project}.systems.${system})
+            meta.deps.projects;
+        }) data.systems;
+      };
+    }) self.repos.quicklisp.latestdist // {
+      inherit (pkgs) asdf;
     });
 
-    defaultPackage = forAllSystems (system: self.packages.${system}.dists.quicklisp);
+    defaultPackage = forAllPlatforms (platform: self.packages.${platform}.alexandria);
 
-    apps = forAllSystems (system: let
-      pkgs = nixpkgs.legacyPackages.${system};
+    apps = forAllPlatforms (platform: let
+      pkgs = nixpkgs.legacyPackages.${platform};
       inherit (nixpkgs.lib) concatStringsSep mapAttrsToList;
     in {
       quicklisp-update-subscription = rec {
@@ -205,75 +266,7 @@
       };
     });
 
-    lib = {
-      quicklisp = rec {
-        handler.git = { name, url, pkgs, ... }: let
-          buildScript = pkgs.writeText "quicklisp-${name}-fetch" ''
-            { pkgs, ... }: let
-              meta = builtins.readFile ./meta.json;
-            in pkgs.fetchgit {
-              name = "quicklisp-${name}-src";
-              inherit (meta) url rev sha256;
-            };
-          '';
-        in pkgs.writeShellScript "quicklisp-${name}" ''
-          mkdir -p ${name}
-          ${pkgs.nix-prefetch-git}/bin/nix-prefetch-git --url '${url}' > ${name}/meta.json
-          cp ${buildScript} ${name}/default.nix
-        '';
-        handler.mercurial = { name, url, pkgs, ... }: let
-          buildScript = pkgs.writeText "quicklisp-${name}-fetch" ''
-            { pkgs, ... }: let
-              sha256 = builtins.readFile ./meta.hash;
-            in builtins.fetchMercurial {
-              url = "${url}";
-              inherit sha256;
-            };
-          '';
-        in pkgs.writeShellScript "quicklisp-${name}" ''
-          mkdir -p ${name}
-          ${pkgs.nix-prefetch-hg}/bin/nix-prefetch-hg --url '${url}' > ${name}/meta.hash
-          cp ${buildScript} ${name}/default.nix
-        '';
-        handler.https = { name, url, pkgs, ... }: let
-          buildScript = pkgs.writeText "quicklisp-${name}-fetch" ''
-            { pkgs, ... }: let
-              sha256 = builtins.readFile ./meta.hash;
-            in builtins.fetchTarball {
-              url = "${url}";
-              inherit sha256;
-            };
-          '';
-        in pkgs.writeShellScript "quicklisp-${name}" ''
-          mkdir -p ${name}
-          ${pkgs.nix}/bin/nix-prefetch-url --unpack '${url}' > ${name}/meta.hash
-          cp ${buildScript} ${name}/default.nix
-        '';
-        handler.http = handler.https;
-        handler.latest-github-tag = handler.git; # Maybe should handle this better
-        handler.latest-github-release = handler.git; # Maybe should handle this better
-        handler.tagged-git = handler.git; # Maybe should handle this better
-        handler.svn = { name, url, pkgs, ... }: let
-          buildScript = pkgs.writeText "quicklisp-${name}-fetch" ''
-            { pkgs, ... }: let
-              sha256 = builtins.readFile ./meta.hash;
-            in pkgs.fetchsvn {
-              url = "${url}";
-              inherit sha256;
-            };
-          '';
-        in pkgs.writeShellScript "quicklisp-${name}" ''
-          mkdir -p ${name}
-          ${pkgs.nix-prefetch-svn}/bin/nix-prefetch-svn '${url}' > ${name}/meta.hash
-          cp ${buildScript} ${name}/default.nix
-        '';
-       #handler.darcs = null;
-       #handler.branched-git = null;
-       #handler.ediware-http = null;
-       #handler.kmr-git = null;
-       #handler.single-file = null;
-      };
-    };
+    lib = {};
 
   };
 }
