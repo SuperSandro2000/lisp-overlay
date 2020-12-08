@@ -151,9 +151,9 @@
       };
     };
 
-    packages = forAllPlatforms (platform: let
+    legacyPackages = forAllPlatforms (platform: let
       pkgs = nixpkgs.legacyPackages.${platform};
-    in builtins.mapAttrs (name: data: pkgs.lispPackages.buildLispPackage rec {
+    in builtins.mapAttrs (dist: builtins.mapAttrs (name: data: pkgs.lispPackages.buildLispPackage rec {
       baseName = data.release.project;
       version = nixpkgs.lib.removePrefix "${baseName}-" data.release.prefix;
 
@@ -165,8 +165,11 @@
         (builtins.attrValues data.systems));
       meta.deps.projects = nixpkgs.lib.remove null (builtins.map
         (system: let # Take the first in the case of a collision
-          project = builtins.head self.repos.quicklisp.latestsystems.${system};
-        in if project != name then { inherit project system; } else null)
+          projects = self.repos.quicklisp.systems.${dist}.${system} or null;
+          project = if builtins.isNull projects
+            then builtins.trace "dropped missing dependency '${system}' for '${baseName}'" null
+            else builtins.head projects;
+        in if project != null && project != name then { inherit project system; } else null)
         (nixpkgs.lib.remove "asdf" meta.deps.systems));
       deps = builtins.map
         ({ project, system }: self.packages.${platform}.${project}.systems.${system})
@@ -185,19 +188,24 @@
           meta.deps.systems = system.dependencies;
           meta.deps.projects = nixpkgs.lib.remove null (builtins.map
             (system: let # Take the first in the case of a collision
-              project = builtins.head self.repos.quicklisp.latestsystems.${system};
-            in if project != name then { inherit project system; } else null)
+              projects = self.repos.quicklisp.systems.${dist}.${system} or null;
+              project = if builtins.isNull projects
+                then builtins.trace "dropped missing dependency '${system}' for '${baseName}'" null
+                else builtins.head projects;
+            in if project != null && project != name then { inherit project system; } else null)
             (nixpkgs.lib.remove "asdf" meta.deps.systems));
           deps = builtins.map
             ({ project, system }: self.packages.${platform}.${project}.systems.${system})
             meta.deps.projects;
         }) data.systems;
       };
-    }) self.repos.quicklisp.latestdist // {
+    })) self.repos.quicklisp.dists // {
       inherit (pkgs) asdf;
     });
 
-    defaultPackage = forAllPlatforms (platform: self.packages.${platform}.alexandria);
+    packages = forAllPlatforms (platform: let
+      pkgs = nixpkgs.legacyPackages.${platform};
+    in self.legacyPackages.${platform}.${self.repos.quicklisp.latest.version});
 
     apps = forAllPlatforms (platform: let
       pkgs = nixpkgs.legacyPackages.${platform};
