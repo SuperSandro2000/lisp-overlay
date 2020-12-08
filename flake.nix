@@ -16,31 +16,50 @@
 
     repos = {
       quicklisp = let
+
+        # str -> str -> { name = str; value = str; }
         fromKV = delim: s: let kv = nixpkgs.lib.splitString delim s; in {
           name = nixpkgs.lib.head kv;
           value = nixpkgs.lib.last kv;
         };
+
       in rec {
+
+        # Throws: require file existence for clean errors.
+        # { latest, version }
         subscription = if builtins.all builtins.pathExists [
           ./quicklisp/dist/quicklisp.txt
           ./quicklisp/dist/quicklisp-versions.txt
-        ] then {
-          latest = builtins.readFile ./quicklisp/dist/quicklisp.txt;
-          versions = builtins.readFile ./quicklisp/dist/quicklisp-versions.txt;
+        ] then let
+          latestFile = builtins.readFile ./quicklisp/dist/quicklisp.txt;
+          versionsFile = builtins.readFile ./quicklisp/dist/quicklisp-versions.txt;
+        in {
+          latest = builtins.listToAttrs (
+            builtins.map
+              (fromKV ": ")
+              (nixpkgs.lib.init (nixpkgs.lib.splitString "\n" latestFile))
+          );
+          versions = builtins.listToAttrs (
+            builtins.map
+              (fromKV " ")
+              (nixpkgs.lib.init (nixpkgs.lib.splitString "\n" versionsFile))
+          );
         } else builtins.throw "Run .#quicklisp-update-subscription first";
 
-        latest = builtins.listToAttrs (
-          builtins.map
-            (fromKV ": ")
-            (nixpkgs.lib.init (nixpkgs.lib.splitString "\n" subscription.latest))
-        );
-
-        versions = builtins.listToAttrs (
-          builtins.map
-            (fromKV " ")
-            (nixpkgs.lib.init (nixpkgs.lib.splitString "\n" subscription.versions))
-        );
-
+        # Raw distinfo data by dist
+        # {
+        #   "2020-10-14" = {
+        #     archive-base-url = "http://archive.base.url/";
+        #     canonical-distinfo-url = "http://canonical.distinfo.url/distinfo.txt";
+        #     distinfo-subscription-url = "http://distinfo.subscription.url/quicklisp.txt";
+        #     name = "quicklisp";
+        #     release-index-url = "http://release.index.url/releases.txt";
+        #     system-index-url = "http://system.index.url/systems.txt";
+        #     version = "2020-10-14";
+        #   };
+        #   "2020-09-25" = ...;
+        #   ...
+        # }
         distinfos = let
           files = nixpkgs.lib.filterAttrs (dist: builtins.pathExists) (
             builtins.mapAttrs
@@ -52,8 +71,44 @@
               (nixpkgs.lib.init (nixpkgs.lib.splitString "\n" ss)));
         in builtins.mapAttrs (dist: path: parse (builtins.readFile path)) files;
 
-        latestinfo = distinfos.${latest.version};
+        # Shortcut to latest dist's distinfo
+        latestinfo = distinfos.${subscription.latest.version};
 
+        # Package data by dist
+        # {
+        #   "2020-10-14" = {
+        #     acclimation = {
+        #       release = {
+        #         content-sha1 = "0000000000000000000000000000000000000000";
+        #         file-md5 = "00000000000000000000000000000000";
+        #         prefix = "acclimation-someversion";
+        #         project = "acclimation";
+        #         size = "99999";
+        #         systems-files = [ "acclimation-tests.asd" "acclimation.asd" ];
+        #         url = "http://release.tarball.url/acclimation-someversion.tgz";
+        #       };
+        #       src = <package-src: derivation>;
+        #       systems = {
+        #         acclimation = {
+        #           dependencies = [ "asdf" ... ];
+        #           project = "acclimation";
+        #           system-file = "acclimation.asd";
+        #           system-name = "acclimation";
+        #         };
+        #         acclimation-tests = {
+        #           dependencies = [ "acclimation" "alexandria" ... ];
+        #           project = "acclimation";
+        #           system-file = "acclimation-tests.asd";
+        #           system-name = "acclimation-tests";
+        #         };
+        #       };
+        #     };
+        #     alexandria = ...;
+        #     ...
+        #   };
+        #   "2020-09-25" = ...;
+        #   ...
+        # }
         dists = let
           _ = _;
         in builtins.mapAttrs (dist: path: let
@@ -88,7 +143,7 @@
             inherit (builtins) head tail;
           in {
             project = head row;
-            system-file = head (tail row);
+            system-file = head (tail row) + ".asd";
             system-name = head (tail (tail row));
             dependencies = tail (tail (tail row));
           };
@@ -127,8 +182,20 @@
           }) projects
         )) distinfos;
 
-        latestdist = dists.${latest.version};
+        # Shortcut to latest dist
+        latestdist = dists.${subscription.latest.version};
 
+        # System glossary (project lookup) by dist
+        # {
+        #   "2020-10-14" = {
+        #     acclimation = [ "acclimation" ];
+        #     acclimation-tests = [ "acclimation" ];
+        #     alexandria = ...;
+        #     ...
+        #   };
+        #   "2020-09-25" = ...;
+        #   ...
+        # }
         systems = let
           distProjectSystems = builtins.mapAttrs (_: builtins.mapAttrs (_: p:
             builtins.attrValues (builtins.mapAttrs (_: s: s.system-name) p.systems)
@@ -147,7 +214,8 @@
           builtins.map (p: p.project) (builtins.filter (p: p.system == system) systemPairs)
         ) systemNames) distProjectSystems;
 
-        latestsystems = systems.${latest.version};
+        # Shortcut to latest dist's system glossary
+        latestsystems = systems.${subscription.latest.version};
       };
     };
 
@@ -229,7 +297,7 @@
 
     packages = forAllPlatforms (platform: let
       pkgs = nixpkgs.legacyPackages.${platform};
-    in self.legacyPackages.${platform}.${self.repos.quicklisp.latest.version});
+    in self.legacyPackages.${platform}.${self.repos.quicklisp.subscription.latest.version});
 
     apps = forAllPlatforms (platform: let
       pkgs = nixpkgs.legacyPackages.${platform};
@@ -260,7 +328,7 @@
           test -e flake.nix || (echo "Must be run from repo root"; exit 1)
 
           ${nixpkgs.lib.concatMapStringsSep "" (dist: let
-            url = self.repos.quicklisp.versions.${dist};
+            url = self.repos.quicklisp.subscription.versions.${dist};
             message = "quicklisp: add/update distinfo for ${dist}";
           in ''
             ${pkgs.coreutils}/bin/mkdir -p quicklisp/dist/${dist}
@@ -269,7 +337,7 @@
             ${pkgs.git}/bin/git commit -m '${message}' -- \
               quicklisp/dist/${dist}/distinfo.txt \
               || true
-          '') (builtins.attrNames self.repos.quicklisp.versions)}
+          '') (builtins.attrNames self.repos.quicklisp.subscription.versions)}
 
           echo Done.
         '').outPath;
@@ -297,8 +365,6 @@
         '').outPath;
       };
     });
-
-    lib = {};
 
   };
 }
