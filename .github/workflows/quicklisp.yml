@@ -1,0 +1,45 @@
+name: Quicklisp Automation
+
+on:
+  schedule:
+  - cron: "0 0 * * *"
+
+  workflow_dispatch: # Allows to run this workflow manually
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Full Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Install Nix
+        uses: cachix/install-nix-action@v12
+        with:
+          install_url: https://github.com/numtide/nix-flakes-installer/releases/download/nix-3.0pre20200820_4d77513/install
+          extra_nix_config: |
+            experimental-features = nix-command flakes
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "CI"
+
+      - name: Update Subscription
+        run: nix run '.#quicklisp-update-subscription'
+      
+      - name: Update DistInfos
+        run: nix run '.#quicklisp-update-distinfos'
+      
+      - name: Update Dists
+        run: nix run '.#quicklisp-update-dists'
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
