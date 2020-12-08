@@ -153,13 +153,26 @@
 
     legacyPackages = forAllPlatforms (platform: let
       pkgs = nixpkgs.legacyPackages.${platform};
-    in builtins.mapAttrs (dist: builtins.mapAttrs (name: data: pkgs.lispPackages.buildLispPackage rec {
+    in builtins.mapAttrs (dist: builtins.mapAttrs (name: data: pkgs.lispPackages.buildLispPackage (let
+      escapes = {
+        "/" = "_slash_";
+        "\\" = "_backslash_";
+        "_" = "__";
+        "." = "_dot_";
+        "+" = "_plus_";
+      };
+      nixpkgsNameFor = name: let
+        cleanedStr = builtins.replaceStrings (builtins.attrNames escapes) (builtins.attrValues escapes) name;
+      in if builtins.isNull (builtins.match "^[a-zA-Z_].*" cleanedStr) then "_${cleanedStr}" else cleanedStr;
+      applyNixpkgsOverrides = name: x: x // (pkgs.lispPackages.qlOverrides.${nixpkgsNameFor name} or (_: x)) x;
+    in applyNixpkgsOverrides name rec {
       baseName = data.release.project;
       version = nixpkgs.lib.removePrefix "${baseName}-" data.release.prefix;
 
       buildSystems = builtins.attrNames data.systems;
 
       description = "lisp-overlay package for ${baseName}";
+      meta.build.systems = buildSystems;
       meta.deps.systems = builtins.concatLists (builtins.map
         (system: system.dependencies)
         (builtins.attrValues data.systems));
@@ -171,9 +184,13 @@
             else builtins.head projects;
         in if project != null && project != name then { inherit project system; } else null)
         (nixpkgs.lib.remove "asdf" meta.deps.systems));
-      deps = builtins.map
-        ({ project, system }: self.packages.${platform}.${project}.systems.${system})
-        meta.deps.projects;
+      meta.deps.drvs = builtins.listToAttrs (builtins.map
+        ({ project, system }: {
+          name = system;
+          value = self.packages.${platform}.${project}.systems.${system};
+        })
+        meta.deps.projects);
+      deps = builtins.attrValues meta.deps.drvs;
       src = data.src.${platform};
 
       packageName = nixpkgs.lib.strings.sanitizeDerivationName baseName;
@@ -181,25 +198,32 @@
       asdFilesToKeep = data.release.systems-files;
 
       overrides = _: {
-        passthru.systems = builtins.mapAttrs (systemName: system: pkgs.lispPackages.buildLispPackage rec {
-          overrides = drv: { name = "${drv.name}-${nixpkgs.lib.strings.sanitizeDerivationName systemName}"; };
-          inherit baseName version description src packageName asdFilesToKeep;
-          buildSystems = [systemName];
-          meta.deps.systems = system.dependencies;
-          meta.deps.projects = nixpkgs.lib.remove null (builtins.map
-            (system: let # Take the first in the case of a collision
-              projects = self.repos.quicklisp.systems.${dist}.${system} or null;
-              project = if builtins.isNull projects
-                then builtins.trace "dropped missing dependency '${system}' for '${baseName}'" null
-                else builtins.head projects;
-            in if project != null && project != name then { inherit project system; } else null)
-            (nixpkgs.lib.remove "asdf" meta.deps.systems));
-          deps = builtins.map
-            ({ project, system }: self.packages.${platform}.${project}.systems.${system})
-            meta.deps.projects;
-        }) data.systems;
+        passthru.systems = builtins.mapAttrs (systemName: system:
+          pkgs.lispPackages.buildLispPackage (applyNixpkgsOverrides baseName rec {
+            overrides = drv: { name = "${drv.name}-${nixpkgs.lib.strings.sanitizeDerivationName systemName}"; };
+            inherit baseName version description src packageName asdFilesToKeep;
+            buildSystems = [systemName];
+            meta.build.systems = buildSystems;
+            meta.deps.systems = system.dependencies;
+            meta.deps.projects = nixpkgs.lib.remove null (builtins.map
+              (system: let # Take the first in the case of a collision
+                projects = self.repos.quicklisp.systems.${dist}.${system} or null;
+                project = if builtins.isNull projects
+                  then builtins.trace "dropped missing dependency '${system}' for '${baseName}'" null
+                  else builtins.head projects;
+              in if project != null && project != name then { inherit project system; } else null)
+              (nixpkgs.lib.remove "asdf" meta.deps.systems));
+            meta.deps.drvs = builtins.listToAttrs (builtins.map
+              ({ project, system }: {
+                name = system;
+                value = self.packages.${platform}.${project}.systems.${system};
+              })
+              meta.deps.projects);
+            deps = builtins.attrValues meta.deps.drvs;
+          })
+        ) data.systems;
       };
-    })) self.repos.quicklisp.dists // {
+    }))) self.repos.quicklisp.dists // {
       inherit (pkgs) asdf;
     });
 
