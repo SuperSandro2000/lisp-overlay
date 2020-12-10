@@ -236,16 +236,7 @@
              then builtins.readDir ./quicklisp/overrides
              else {});
           nixpkgsOverrideFor = project: let
-            escapes = {
-              "/" = "_slash_";
-              "\\" = "_backslash_";
-              "_" = "__";
-              "." = "_dot_";
-              "+" = "_plus_";
-            };
-            nixpkgsName = let
-              cleanedStr = builtins.replaceStrings (builtins.attrNames escapes) (builtins.attrValues escapes) project;
-            in if builtins.isNull (builtins.match "^[a-zA-Z_].*" cleanedStr) then "_${cleanedStr}" else cleanedStr;
+            nixpkgsName = self.lib.nixpkgsNameFor project;
           in drv: drv // (pkgs.lispPackages.qlOverrides.${nixpkgsName} or (_: {})) drv;
         in builtins.mapAttrs (dist: builtins.mapAttrs (project: data:
           builtins.foldl' (acc: { predicate ? (_: true), override ? (x: x), correction ? (_: {}) }:
@@ -309,7 +300,7 @@
 
     legacyPackages = forAllPlatforms (platform: let
       pkgs = nixpkgs.legacyPackages.${platform};
-    in builtins.mapAttrs (dist: builtins.mapAttrs (name: data: pkgs.lispPackages.buildLispPackage rec {
+    in builtins.mapAttrs (dist: set: builtins.mapAttrs (name: data: pkgs.lispPackages.buildLispPackage rec {
       baseName = data.release.project;
       version = nixpkgs.lib.removePrefix "${baseName}-" data.release.prefix;
 
@@ -350,7 +341,7 @@
             overrides = innerDrv: data.overrides innerDrv //  {
               name = "${innerDrv.name}-${nixpkgs.lib.strings.sanitizeDerivationName systemName}";
             };
-            inherit baseName version description src packageName asdFilesToKeep;
+            inherit baseName version description src packageName asdFilesToKeep propagatedBuildInputs;
             buildSystems = [systemName];
             meta.build.systems = buildSystems;
             meta.deps.systems = system.dependencies;
@@ -365,20 +356,43 @@
             meta.deps.drvs = builtins.listToAttrs (builtins.map
               ({ project, system }: {
                 name = system;
-                value = self.packages.${platform}.${project}.systems.${system};
+                value = self.legacyPackages.${platform}.${dist}.${project}.systems.${system};
               })
               meta.deps.projects);
             deps = builtins.attrValues meta.deps.drvs;
           }
         ) data.systems;
       };
-    })) self.repos.quicklisp.projects.${platform} // {
+    }) set // {
       inherit (pkgs) asdf;
-    });
+      lispPackages = pkgs.lispPackages // (let
+        overlay = builtins.listToAttrs (builtins.map
+          (project: {
+            name = self.lib.nixpkgsNameFor project;
+            value = self.legacyPackages.${platform}.${dist}.${project};
+          })
+          (builtins.attrNames set)
+        );
+      in import "${pkgs.path}/pkgs/development/lisp-modules/lisp-packages.nix" {
+        inherit (pkgs) stdenv sbcl coreutils nix asdf;
+        inherit (pkgs.lispPackages) clwrapper;
+        pkgs = pkgs // {
+          lispPackages = self.legacyPackages.${platform}.${dist}.lispPackages;
+        };
+      });
+    }) self.repos.quicklisp.projects.${platform});
 
     packages = forAllPlatforms (platform: let
       pkgs = nixpkgs.legacyPackages.${platform};
     in self.legacyPackages.${platform}.${self.repos.quicklisp.subscription.latest.version});
+
+    overlays = builtins.mapAttrs (dist: _: (
+      final: prev: {
+        inherit (self.legacyPackages.${final.system}.${dist}) lispPackages;
+      }
+    )) self.repos.quicklisp.dists;
+
+    overlay = self.overlays.${self.repos.quicklisp.subscription.latest.version};
 
     apps = forAllPlatforms (platform: let
       pkgs = nixpkgs.legacyPackages.${platform};
@@ -446,6 +460,19 @@
         '').outPath;
       };
     });
+
+    lib = {
+      nixpkgsNameFor = project: let
+        escapes = {
+          "/" = "_slash_";
+          "\\" = "_backslash_";
+          "_" = "__";
+          "." = "_dot_";
+          "+" = "_plus_";
+        };
+        cleanedStr = builtins.replaceStrings (builtins.attrNames escapes) (builtins.attrValues escapes) project;
+      in if builtins.isNull (builtins.match "^[a-zA-Z_].*" cleanedStr) then "_${cleanedStr}" else cleanedStr;
+    };
 
   };
 }
