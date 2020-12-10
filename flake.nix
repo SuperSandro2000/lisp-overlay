@@ -74,7 +74,7 @@
         # Shortcut to latest dist's distinfo
         latestinfo = distinfos.${subscription.latest.version};
 
-        # Package data by dist
+        # Basic package data by dist
         # {
         #   "2020-10-14" = {
         #     acclimation = {
@@ -87,7 +87,7 @@
         #         systems-files = [ "acclimation-tests.asd" "acclimation.asd" ];
         #         url = "http://release.tarball.url/acclimation-someversion.tgz";
         #       };
-        #       src = <package-src: derivation>;
+        #       src.<platform> = <package-src: derivation>;
         #       systems = {
         #         acclimation = {
         #           dependencies = [ "asdf" ... ];
@@ -109,9 +109,7 @@
         #   "2020-09-25" = ...;
         #   ...
         # }
-        dists = let
-          _ = _;
-        in builtins.mapAttrs (dist: path: let
+        dists = builtins.mapAttrs (dist: path: let
           dir = if builtins.all builtins.pathExists [
             (./quicklisp/dist + "/${dist}/releases.txt")
             (./quicklisp/dist + "/${dist}/systems.txt")
@@ -184,6 +182,69 @@
 
         # Shortcut to latest dist
         latestdist = dists.${subscription.latest.version};
+
+        # Projects with overrides applied, per dist
+        # {
+        #   "2020-10-14" = {
+        #     acclimation.<platform> = {
+        #       release = {
+        #         content-sha1 = "0000000000000000000000000000000000000000";
+        #         file-md5 = "00000000000000000000000000000000";
+        #         prefix = "acclimation-someversion";
+        #         project = "acclimation";
+        #         size = "99999";
+        #         systems-files = [ "acclimation-tests.asd" "acclimation.asd" ];
+        #         url = "http://release.tarball.url/acclimation-someversion.tgz";
+        #       };
+        #       src = <package-src: derivation>;
+        #       systems = {
+        #         acclimation = {
+        #           dependencies = [ "asdf" ... ];
+        #           project = "acclimation";
+        #           system-file = "acclimation.asd";
+        #           system-name = "acclimation";
+        #         };
+        #         acclimation-tests = {
+        #           dependencies = [ "acclimation" "alexandria" ... ];
+        #           project = "acclimation";
+        #           system-file = "acclimation-tests.asd";
+        #           system-name = "acclimation-tests";
+        #         };
+        #       };
+        #       overrides = drv: {
+        #         propagatedBuildInputs = drv.propagatedBuildInputs ++ [
+        #           <pkgs.openssl: derivation>
+        #         ];
+        #       };
+        #     };
+        #     alexandria.<platform> = ...;
+        #     ...
+        #   };
+        #   "2020-09-25" = ...;
+        #   ...
+        # }
+        projects = forAllPlatforms (platform: let
+          pkgs = nixpkgs.legacyPackages.${platform};
+          overrides = builtins.mapAttrs
+            (file: _: import (./quicklisp/overrides + "/${file}") { inherit pkgs; })
+            (if builtins.pathExists ./quicklisp/overrides
+             then builtins.readDir ./quicklisp/overrides
+             else {});
+        in builtins.mapAttrs (dist: builtins.mapAttrs (project: data:
+          builtins.foldl' (acc: { predicate ? (_: true), override ? (x: x), correction ? (_: {}) }:
+            if predicate { inherit dist; }
+            then acc // correction acc // {
+              overrides = drv: overrides (acc.overrides drv);
+            } else acc
+          ) ({
+            inherit (data) release systems;
+            src = data.src.${platform};
+            overrides = drv: {};
+          }) (overrides."${project}.nix" or [])
+        )) dists);
+
+        # Shortcut to latest dist
+        latestprojects = forAllPlatforms (platform: projects.${platform}.${subscription.latest.version});
 
         # System glossary (project lookup) by dist
         # {
@@ -259,7 +320,7 @@
         })
         meta.deps.projects);
       deps = builtins.attrValues meta.deps.drvs;
-      src = data.src.${platform};
+      inherit (data) src;
 
       packageName = nixpkgs.lib.strings.sanitizeDerivationName baseName;
 
@@ -291,7 +352,7 @@
           })
         ) data.systems;
       };
-    }))) self.repos.quicklisp.dists // {
+    }))) self.repos.quicklisp.projects.${platform} // {
       inherit (pkgs) asdf;
     });
 
