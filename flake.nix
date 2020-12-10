@@ -211,10 +211,13 @@
         #           system-name = "acclimation-tests";
         #         };
         #       };
+        #       libraries = [
+        #         <pkgs.openssl: derivation>
+        #       ];
         #       overrides = drv: {
-        #         propagatedBuildInputs = drv.propagatedBuildInputs ++ [
-        #           <pkgs.openssl: derivation>
-        #         ];
+        #         configurePhase = ''
+        #           rm SomeFile
+        #         '';
         #       };
         #     };
         #     alexandria.<platform> = ...;
@@ -226,21 +229,45 @@
         projects = forAllPlatforms (platform: let
           pkgs = nixpkgs.legacyPackages.${platform};
           overrides = builtins.mapAttrs
-            (file: _: import (./quicklisp/overrides + "/${file}") { inherit pkgs; })
+            (file: _: nixpkgsOverride: import (./quicklisp/overrides + "/${file}") {
+              inherit pkgs nixpkgsOverride;
+            })
             (if builtins.pathExists ./quicklisp/overrides
              then builtins.readDir ./quicklisp/overrides
              else {});
+          nixpkgsOverrideFor = project: let
+            escapes = {
+              "/" = "_slash_";
+              "\\" = "_backslash_";
+              "_" = "__";
+              "." = "_dot_";
+              "+" = "_plus_";
+            };
+            nixpkgsName = let
+              cleanedStr = builtins.replaceStrings (builtins.attrNames escapes) (builtins.attrValues escapes) project;
+            in if builtins.isNull (builtins.match "^[a-zA-Z_].*" cleanedStr) then "_${cleanedStr}" else cleanedStr;
+          in drv: drv // (pkgs.lispPackages.qlOverrides.${nixpkgsName} or (_: {})) drv;
         in builtins.mapAttrs (dist: builtins.mapAttrs (project: data:
           builtins.foldl' (acc: { predicate ? (_: true), override ? (x: x), correction ? (_: {}) }:
             if predicate { inherit dist; }
             then acc // correction acc // {
-              overrides = drv: overrides (acc.overrides drv);
+              overrides = drv: override (acc.overrides drv);
             } else acc
           ) ({
             inherit (data) release systems;
             src = data.src.${platform};
+            libraries = [];
             overrides = drv: {};
-          }) (overrides."${project}.nix" or [])
+          }) (let
+            nixpkgsOverride = nixpkgsOverrideFor project;
+            stub = { overrides = _: {}; };
+          in (overrides."${project}.nix" or (nov: [nov])) {
+            # Pilfer the parts we care about.
+            correction = data: {
+              libraries = (data.libraries or []) ++ ((nixpkgsOverride stub).propagatedBuildInputs or []);
+            };
+            override = drv: builtins.removeAttrs (((nixpkgsOverride stub).overrides or (x: {})) drv) ["propagatedBuildInputs"];
+          })
         )) dists);
 
         # Shortcut to latest dist
@@ -282,19 +309,7 @@
 
     legacyPackages = forAllPlatforms (platform: let
       pkgs = nixpkgs.legacyPackages.${platform};
-    in builtins.mapAttrs (dist: builtins.mapAttrs (name: data: pkgs.lispPackages.buildLispPackage (let
-      escapes = {
-        "/" = "_slash_";
-        "\\" = "_backslash_";
-        "_" = "__";
-        "." = "_dot_";
-        "+" = "_plus_";
-      };
-      nixpkgsNameFor = name: let
-        cleanedStr = builtins.replaceStrings (builtins.attrNames escapes) (builtins.attrValues escapes) name;
-      in if builtins.isNull (builtins.match "^[a-zA-Z_].*" cleanedStr) then "_${cleanedStr}" else cleanedStr;
-      applyNixpkgsOverrides = name: x: x // (pkgs.lispPackages.qlOverrides.${nixpkgsNameFor name} or (_: x)) x;
-    in applyNixpkgsOverrides name rec {
+    in builtins.mapAttrs (dist: builtins.mapAttrs (name: data: pkgs.lispPackages.buildLispPackage rec {
       baseName = data.release.project;
       version = nixpkgs.lib.removePrefix "${baseName}-" data.release.prefix;
 
@@ -322,14 +337,19 @@
       deps = builtins.attrValues meta.deps.drvs;
       inherit (data) src;
 
+      propagatedBuildInputs = data.libraries;
+
       packageName = nixpkgs.lib.strings.sanitizeDerivationName baseName;
 
       asdFilesToKeep = data.release.systems-files;
 
-      overrides = _: {
+      overrides = outerDrv: data.overrides outerDrv // {
+        passthru.overrides = outerDrv;
         passthru.systems = builtins.mapAttrs (systemName: system:
-          pkgs.lispPackages.buildLispPackage (applyNixpkgsOverrides baseName rec {
-            overrides = drv: { name = "${drv.name}-${nixpkgs.lib.strings.sanitizeDerivationName systemName}"; };
+          pkgs.lispPackages.buildLispPackage rec {
+            overrides = innerDrv: data.overrides innerDrv //  {
+              name = "${innerDrv.name}-${nixpkgs.lib.strings.sanitizeDerivationName systemName}";
+            };
             inherit baseName version description src packageName asdFilesToKeep;
             buildSystems = [systemName];
             meta.build.systems = buildSystems;
@@ -338,7 +358,7 @@
               (system: let # Take the first in the case of a collision
                 projects = self.repos.quicklisp.systems.${dist}.${system} or null;
                 project = if builtins.isNull projects
-                  then builtins.trace "dropped missing dependency '${system}' for '${baseName}'" null
+                  then builtins.trace "dropped missing dependency '${dist}'.'${system}' for '${baseName}'" null
                   else builtins.head projects;
               in if project != null && project != name then { inherit project system; } else null)
               (nixpkgs.lib.remove "asdf" meta.deps.systems));
@@ -349,10 +369,10 @@
               })
               meta.deps.projects);
             deps = builtins.attrValues meta.deps.drvs;
-          })
+          }
         ) data.systems;
       };
-    }))) self.repos.quicklisp.projects.${platform} // {
+    })) self.repos.quicklisp.projects.${platform} // {
       inherit (pkgs) asdf;
     });
 
