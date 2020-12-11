@@ -27,8 +27,8 @@
        lispPackages = (import (fetchFromGitHub {
          owner = "nix-lisp";
          repo = "lisp-overlay";
-         rev = "0144f8f9fb2b7c39030aa8320cd75362fa557c6d";
-         sha256 = "00q77xxvzyhdj52gm7l9bn98av4i77jgdxh580zpfck2dd61rpwh";
+         rev = "489aa75e25fdbdd6b0454ed1413c2221a4c5454c";
+         sha256 = "1fpfwfxrqsq1vk4jvn8f36yp5mj8nkj25a5k100kb95680ffkqsh";
        }) {}).lispPackages;
      }
      #+END_SRC
