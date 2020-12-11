@@ -1,0 +1,34 @@
+* Lisp-overlay Flake
+
+*** See flake.nix for full attr tree
+**** A compatibility default.nix is provided for non flake-enabled systems
+** Example usages:
+   - Merge with your non-flake nixos configuration:
+     #+BEGIN_SRC nix
+     {
+       #...#
+       nixpkgs.config = [
+         (import (fetchTarball https://github.com/nix-lisp/lisp-overlay/archive/master.tar.gz) {})
+       ];
+       #...#
+     }
+     #+END_SRC
+   - Merge with your nixos configuration flake and use:
+     #+BEGIN_SRC nix
+     {
+       #...#
+       inputs.lisp-overlay.url = "github:nix-lisp/lisp-overlay";
+       #...#
+     }
+     #+END_SRC
+   - Override packages that use lispPackages to use lisp-overlay.lispPackages instead, e.g. replace `pkgs.nyxt` with
+     #+BEGIN_SRC nix
+     pkgs.nyxt.override {
+       lispPackages = (import (fetchFromGitHub {
+         owner = "nix-lisp";
+         repo = "lisp-overlay";
+         rev = "0144f8f9fb2b7c39030aa8320cd75362fa557c6d";
+         sha256 = "00q77xxvzyhdj52gm7l9bn98av4i77jgdxh580zpfck2dd61rpwh";
+       }) {}).lispPackages;
+     }
+     #+END_SRC
