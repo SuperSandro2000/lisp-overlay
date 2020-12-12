@@ -373,7 +373,7 @@
           })
           (builtins.attrNames set)
         );
-      in import "${pkgs.path}/pkgs/development/lisp-modules/lisp-packages.nix" {
+      in import "${inputs.nixpkgs.outPath}/pkgs/development/lisp-modules/lisp-packages.nix" {
         inherit (pkgs) stdenv sbcl coreutils nix asdf;
         inherit (pkgs.lispPackages) clwrapper;
         pkgs = pkgs // {
