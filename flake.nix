@@ -384,7 +384,7 @@
 
     packages = forAllPlatforms (platform: let
       pkgs = nixpkgs.legacyPackages.${platform};
-    in self.legacyPackages.${platform}.${self.repos.quicklisp.subscription.latest.version});
+    in self.legacyPackages.${platform}.${self.repos.quicklisp.subscription.latest.version} or {});
 
     overlays = builtins.mapAttrs (dist: _: (
       final: prev: {
