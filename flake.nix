@@ -110,14 +110,12 @@
         #   ...
         # }
         dists = builtins.mapAttrs (dist: path: let
-          dir = if builtins.all builtins.pathExists [
-            (./quicklisp/dist + "/${dist}/releases.txt")
-            (./quicklisp/dist + "/${dist}/systems.txt")
-          ] then ./quicklisp/dist + "/${dist}"
-            else builtins.throw "Run .#quicklisp-update-dists first";
+          dir = ./quicklisp/dist + "/${dist}";
 
-          releaseFile = builtins.readFile (dir + "/releases.txt");
-          systemFile = builtins.readFile (dir + "/systems.txt");
+          releaseFile = let file = dir + "/releases.txt";
+          in if builtins.pathExists file then builtins.readFile file else null;
+          systemFile = let file = dir + "/systems.txt";
+          in if builtins.pathExists file then builtins.readFile file else null;
 
           releaseData = builtins.tail (nixpkgs.lib.splitString "\n" releaseFile);
           systemData = builtins.tail (nixpkgs.lib.splitString "\n" systemFile);
@@ -146,8 +144,12 @@
             dependencies = tail (tail (tail row));
           };
 
-          releaseList = builtins.map readRelease (nixpkgs.lib.init releaseData);
-          systemList = builtins.map readSystems (nixpkgs.lib.init systemData);
+          releaseList = if releaseFile == null
+          then builtins.trace "${dir}/releases.txt missing: run .#quicklisp-update-dists first" []
+          else builtins.map readRelease (nixpkgs.lib.init releaseData);
+          systemList = if systemFile == null
+          then builtins.trace "${dir}/systems.txt missing: run .#quicklisp-update-dists first" []
+          else builtins.map readSystems (nixpkgs.lib.init systemData);
 
           releaseAttrs = builtins.listToAttrs (builtins.map (value: {
             name = value.project;
