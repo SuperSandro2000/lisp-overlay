@@ -109,3 +109,4 @@
 2020-09-25 http://beta.quicklisp.org/dist/quicklisp/2020-09-25/distinfo.txt
 2020-10-16 http://beta.quicklisp.org/dist/quicklisp/2020-10-16/distinfo.txt
 2020-12-20 http://beta.quicklisp.org/dist/quicklisp/2020-12-20/distinfo.txt
+2021-01-24 http://beta.quicklisp.org/dist/quicklisp/2021-01-24/distinfo.txt
