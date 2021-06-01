@@ -112,3 +112,4 @@
 2021-01-24 http://beta.quicklisp.org/dist/quicklisp/2021-01-24/distinfo.txt
 2021-02-28 http://beta.quicklisp.org/dist/quicklisp/2021-02-28/distinfo.txt
 2021-04-11 http://beta.quicklisp.org/dist/quicklisp/2021-04-11/distinfo.txt
+2021-05-31 http://beta.quicklisp.org/dist/quicklisp/2021-05-31/distinfo.txt
